@@ -724,8 +724,8 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/RamchiPersonajes/dream.webp",
-      "descripcion": "uno de los miembros de las cadenas de prometeo. Es alguien alegre pero a la vez lo suficiente serio, ademas paciente y marcado por una experiencia que abarca muchas vidas. Su forma de pensar está profundamente relacionada con su deseo de terminar con el sufrimiento del mundo.",
-      "historia_personal": "Dream conserva recuerdos de diferentes ciclos de existencia. En una vida anterior perteneció a los Hijos de Omnia junto a otros compañeros y, después de experimentar repetidamente las mismas tragedias, comenzó a buscar una manera de liberar definitivamente a las almas de ese ciclo. Su historia termina estando relacionada con una lucha mucho más grande que la de los personajes actuales: romper el sistema que mantiene a las almas atrapadas.",
+      "descripcion": "Es alguien alegre pero a la vez lo suficiente serio, ademas paciente y marcado por una experiencia que abarca muchas vidas. Su forma de pensar está profundamente relacionada con su deseo de terminar con el sufrimiento del mundo.",
+      "historia_personal": "Miembro de las Cadenas de Prometeo. Dream conserva recuerdos de diferentes ciclos de existencia. En una vida anterior perteneció a los Hijos de Omnia junto a otros compañeros y, después de experimentar repetidamente las mismas tragedias, comenzó a buscar una manera de liberar definitivamente a las almas de ese ciclo. Su historia termina estando relacionada con una lucha mucho más grande que la de los personajes actuales: romper el sistema que mantiene a las almas atrapadas.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
@@ -1376,7 +1376,7 @@
     {
       "id": "tsub-tsukushi",
       "historia": "capitan-tsubasa",
-      "nombre": "Tsukush Takahashi",
+      "nombre": "Tsukushi Takahashi(beta)",
       "titulo": "El jugador limitado",
       "avatar": "",
       "arte": "imagenes/arte/TsubasaPersonajes/takahashi.png",
@@ -1703,141 +1703,158 @@
       "titulo": "Entrenadora de futbol",
       "avatar": "",
       "arte": "imagenes/arte/TsubasaPersonajes/rin.jpg",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Entrenadora del equipo femenino del Nakatsu. Es amable y optimista, y confía mucho en sus jugadoras.",
+      "historia_personal": "Lleva al primer equipo femenino de la primaria y comparte con Kyo la meta de ir a las nacionales.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "25",
+        "Altura": "1,60 cm",
+        "Cumpleaños": "2 de diciembre",
+        "Ocupación": "Entrenadora de futbol"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "cami-tn-midoriya",
       "historia": "camino-heroe",
       "nombre": "Tn Midoriya",
-      "titulo": "¿?",
+      "titulo": "Deku",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/HeroePersonajes/tnmidoriya.jpg",
+      "descripcion": "Es un chico de preparatoria tenaz, ingenuo, de gran corazón que provoca que se mueva antes de pensar cuando alguien está en peligro. Lleva siempre un cuaderno donde anota información de las chicas mágicas y ademas de ser uno de los pocos hombres del mundo.",
+      "historia_personal": "Desde pequeño admira a las chicas mágicas, en especial a Luna Estelar y siendo su inspiración para ser un héroe sim embargo para serlo necesita tener magia, pero Midoriya no posee eso. Un dia mientras andaba en la ciudad se encontró con Aoko quien al ver como arriesgo su vida para salvar a una chica, le dice que puede ser un héroe y que se convierta en su alumno. ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "15 años",
+        "Altura": "1,66 cm",
+        "Cumpleaños": "9 de octubre",
+        "Ocupación": "Estudiante y heroe"
       },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "cami-kaori",
-      "historia": "camino-heroe",
-      "nombre": "Kaori",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "cami-chimozuke",
-      "historia": "camino-heroe",
-      "nombre": "Chimozuke",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "El camino para ser un Héroe",
+          "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "cami-oshino",
       "historia": "camino-heroe",
-      "nombre": "Oshino",
-      "titulo": "¿?",
+      "nombre": "Oshino Yamazaki",
+      "titulo": "La heroina de Shibuya",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/HeroePersonajes/oshino.jpg",
+      "descripcion": "Chica mágica de rango B de ojos azules brillantes y usa magia de luz con una actitud amable, alegre y carismática causando que la gente la adore, pero pesar de su positivismo no le tiembla las palabras al decir la verdad. ",
+      "historia_personal": "Desde pequeña decidio convertirse en una chica magica por lo que al tener la oportunidad se hizo una. Oshino cree que mostrar una sonrisa es una forma de ocultar el miedo, y que ser chica mágica es cansado pero necesario para no preocupar a la gente.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "17 años",
+        "Altura": "1,62",
+        "Cumpleaños": "29 de mayo",
+        "Ocupación": "Chica magica"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "El camino para ser un Héroe",
+          "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "cami-aoko-shizuka",
       "historia": "camino-heroe",
       "nombre": "Aoko Shizuka",
-      "titulo": "¿?",
+      "titulo": "Blue Rock Shooter",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/HeroePersonajes/aoko.jpg",
+      "descripcion": "Chica mágica de cabello negro azulado y ojos con llamas azules con una vestimenta casi descubierta de color negro. Es escandalosa, bromista, perezosa y presumida pero detrás de esa actitud es alguien protectora y no duda en crear armas con su magia como cadenas, espada y balas, para proteger a las personas que Aoko aprecia. ",
+      "historia_personal": "Fue una de las cinco mejores chicas mágicas de Japón que su grupo trajo la paz por mucho tiempo, pero después del incidente de hace dos o tres años en la prefectura de Shizuoka, el grupo se separó. Ahora vive junto a la playa, con deudas con Chimozuke y se hace cargo de entrenar a Tn porque cree que alguien como él puede ser héroe, además de ser la sucesora de una magia que se transfiere por cada portador. ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "18 años",
+        "Altura": "1,60",
+        "Cumpleaños": "8 de octubre",
+        "Ocupación": "Chica magica"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "El camino para ser un Héroe",
+          "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "cami-shiroko",
       "historia": "camino-heroe",
-      "nombre": "Shiroko",
-      "titulo": "¿?",
+      "nombre": "Shiroko Emiya",
+      "titulo": "Mirage",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/HeroePersonajes/shiroko.png",
+      "descripcion": "Chica de 17 años y cabello rojo con personalidad amable, discreta y algo insegura. Fue una chica magica en el pasado pero ahora cuida de su familia y vive como una chica común, convencida de que su tiempo como heroína terminó,",
+      "historia_personal": "Fue la heroína Mirage del grupo Komachi de cuatro integrantes, sus compañeras brillaban más y la hacían sentir un estorbo por su magia limitada que de tanto desprecio tuvo que abandonar el grupo.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "17 años",
+        "Altura": "1,65",
+        "Cumpleaños": "20 de octubre",
+        "Ocupación": "Chica magica"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "El camino para ser un Héroe",
+          "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "cami-beako",
+      "historia": "camino-heroe",
+      "nombre": "Beako",
+      "titulo": "La muñeca loca",
+      "avatar": "",
+      "arte": "imagenes/arte/HeroePersonajes/beako.jpg",
+      "descripcion": "Ex chica mágica que usa un martillo y rayos que inmovilizan al rival. Es fuerte, dura, desafiante, muy lista en combate que anticipa casi todos los ataques incluso habla con frialdad y desprecia a las chicas mágicas. ",
+      "historia_personal": "Fue una de las cinco mejores de Japón junto a Aoko, pero a diferencia de ella, ya no quiere estar en un bando que obliga a seguir un camino ni respalda un sistema hipócrita. Busca eliminar a las chicas mágicas por abusar de su estatus debido a que para el ojo de la gente puedan ser heroínas sim embargo por dentro están podridas.",
+      "datos": {
+        "Edad": "18 años",
+        "Altura": "1,50",
+        "Cumpleaños": "30 de mayo",
+        "Ocupación": "Liga de Villanas"
+      },
+      "apariciones": [
+          {
+          "titulo": "El camino para ser un Héroe",
+          "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "cami-magia-estelar",
       "historia": "camino-heroe",
-      "nombre": "Magia Estelar",
-      "titulo": "¿?",
+      "nombre": "Luna Estelar",
+      "titulo": "Magia Estelar",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/HeroePersonajes/estelar.jpg",
+      "descripcion": "‘Heroína’ de cabello rosado de actitud juguetona, burlona, descarada y tranquila incluso en situaciones peligrosas. Usa Magia de manipulación de cuerpo que le permite tomar traspasar su alma a otro cuerpo además de obtener sus habilidades. ",
+      "historia_personal": "Miembro de las Cadenas de Prometeo y heroína favorita de Midoriya. Se mantuvo oculta para buscar un poder que a estado buscando por generaciones para lograr su objetivo, pero sin éxito y ahora siendo parte de la liga de Villanas junto a Beako. ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "??",
+        "Altura": "1, 55 cm",
+        "Cumpleaños": "3 de octubre",
+        "Ocupación": "Ex chica magica"
       },
-      "apariciones": [],
+      "apariciones": [
+          {
+          "titulo": "El camino para ser un Héroe",
+          "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
+        }
+      ],
       "opiniones": []
     },
     {
