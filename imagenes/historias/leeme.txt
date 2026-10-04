@@ -1,0 +1,1 @@
+Pon aqui el icono (256x256, PNG) y la portada (1280x720, JPG) de cada historia. Puedes borrar este archivo cuando subas tus imagenes.
