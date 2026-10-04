@@ -1,0 +1,523 @@
+{
+  "media": [
+    {
+      "tipo": "ending",
+      "titulo": "Ending proximo",
+      "descripcion": "Espera para el proximo ending",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Canción Proxima",
+      "descripcion": "Muy pronto",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Videos extras",
+      "descripcion": "Muy pronto",
+      "historia": "",
+      "youtube_id": "",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Uma musume - Camino a un sueño opening fanfic",
+      "descripcion": "Song: AIZO - Jujutsu Kaisen",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "YOXyYY_7psI",
+      "url": "https://www.youtube.com/watch?v=YOXyYY_7psI"
+    },
+     {
+      "tipo": "ending",
+      "titulo": "Umamusume - Buscando un proposito ending final fanfic",
+      "descripcion": "Song: Yuuzora No Kami Hikouki",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "0aG1eiP3sOo",
+      "url": "https://www.youtube.com/watch?v=0aG1eiP3sOo"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Umamusume - Buscando un proposito ending fanfic capitulo 30 Wattpad",
+      "descripcion": "Song: JANE DOE",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "-GT1ceQKQHI",
+      "url": "https://www.youtube.com/watch?v=-GT1ceQKQHI"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Uma Musume - Buscando un propósito temporada 3 opening Fanfic Wattpad",
+      "descripcion": "Anime: Uma musume. Song: New World ",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "AfSB0zLCN_k",
+      "url": "https://www.youtube.com/watch?v=AfSB0zLCN_k"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Umamusume - Buscando un proposito ending fanfic capitulo 25 Wattpad",
+      "descripcion": "Anime: Umamusume.  Song del anime: Hana ga saku Michi",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "E4LdVjoOE5I",
+      "url": "https://www.youtube.com/watch?v=E4LdVjoOE5I"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Anaxa, el Uma que se odia a si mismo - Umamusume Buscando un significado fanfic curiosidades.",
+      "descripcion": "Anime: Umamusume: Pretty Derby S1 y S2. ",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "XGCP3VEu6RQ",
+      "url": "https://www.youtube.com/watch?v=XGCP3VEu6RQ"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Umamusume-Buscando un propósito temporada 2 opening Fanfic Wattpad",
+      "descripcion": "Anime: Umamusume: Pretty Derby S1 y S2. Song del anime:Yume wo Kakeru",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "d-0Iq3lec14",
+      "url": "https://www.youtube.com/watch?v=d-0Iq3lec14"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Umamusume - Buscando un proposito Canción: Un hilo de esperanza.",
+      "descripcion": "Letra original de Drysluck09",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "Z6P3xb9U2uU",
+      "url": "https://www.youtube.com/watch?v=Z6P3xb9U2uU"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Umamusume - Buscando un proposito ending fanfic capitulo 13 Wattpad. A Little Prayer.",
+      "descripcion": "Anime Umamusume. Song: A little player",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "LGZNHOV5S1c",
+      "url": "https://www.youtube.com/watch?v=LGZNHOV5S1c"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Umamusume ( On The Way - Dandadan S2) - Buscando un propósito opening v2 Fanfic Wattpad",
+      "descripcion": "Anime: Umamusume: Pretty Derby S1 y S2. Song del anime: Dan dan dan.",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "GIF8afb4ltc",
+      "url": "https://www.youtube.com/watch?v=GIF8afb4ltc"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Umamusume Haru Urara canción: Nunca rendirse",
+      "descripcion": "Anime: Umamusume. Song del anime: Nunca rendirse",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "HBt8BDxoBHs",
+      "url": "https://www.youtube.com/watch?v=HBt8BDxoBHs"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Umamusume ( On The Way - Dandadan S2) - Buscando un propósito opening Fanfic Wattpad",
+      "descripcion": "Anime: Umamusume: Pretty Derby S1 y S2. Song del anime: Dan dan dan.",
+      "historia": "buscando-un-proposito",
+      "youtube_id": "MSGvPOfVuDM",
+      "url": "https://www.youtube.com/watch?v=MSGvPOfVuDM"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Un egoísta en Roshidere - Alya-San ( Chaos ga Kiwamaru - Blue Lock ) opening fanfic",
+      "descripcion": "Después de dos años de los acontecimientos de  Roshidere - Mensaje de arrepentimiento el protagonista demostrara que puede ser el mejor delantero sim embargo  hay jugador@s que poseen su propio egoísmo.",
+      "historia": "egoista-roshidere",
+      "youtube_id": "Fhzdz_-c2uo",
+      "url": "https://www.youtube.com/watch?v=Fhzdz_-c2uo"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "La saga de la reencarnación : Ecos de una vida pasa Remake song",
+      "descripcion": "Cancion para el fanfic la saga de la reencarnacion",
+      "historia": "saga-reencarnacion",
+      "youtube_id": "0cdV_mUvARg",
+      "url": "https://www.youtube.com/watch?v=0cdV_mUvARg"
+    },
+     {
+      "tipo": "cancion",
+      "titulo": "Roshidere- Mensaje de arrepentimiento. Song: Renacer en tu Perdón Capitulo 18 Fanfic wattpad",
+      "descripcion": "Cancion para el fanfic Roshidere Mensaje de Arrepentimiento capitulo 18",
+      "historia": "mensaje-arrepentimiento",
+      "youtube_id": "dXs8L6J_Pn0",
+      "url": "https://www.youtube.com/watch?v=dXs8L6J_Pn0"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Roshidere- Mensaje de arrepentimiento. Song: Una amistad única. Capitulo 11 Fanfic wattpad",
+      "descripcion": "Cancion para el fanfic Roshidere Mensaje de Arrepentimiento capitulo 11",
+      "historia": "mensaje-arrepentimiento",
+      "youtube_id": "71ZmwwnDm-k",
+      "url": "https://www.youtube.com/watch?v=71ZmwwnDm-k"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Roshidere - Mensaje de arrepentimiento. Song: Regret Message x Ecos de una vida pasada.  Fanfic.",
+      "descripcion": "Cancion para el fanfic Roshidere Mensaje de Arrepentimiento para el capitulo 6 o 7",
+      "historia": "mensaje-arrepentimiento",
+      "youtube_id": "8Z5aIKblJjQ",
+      "url": "https://www.youtube.com/watch?v=8Z5aIKblJjQ"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Fanfic - One shot / Detrás de esa frialdad.",
+      "descripcion": "Un one shot para la introduccion a Roshidere Mensaje de Arrepentimiento",
+      "historia": "detras-frialdad",
+      "youtube_id": "xSoXLGAxZdM",
+      "url": "https://www.youtube.com/watch?v=xSoXLGAxZdM"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "No voy a soltarte - Canción IA. Bocchi the rock-La razón para proteger sus sonrisas capitulo 33 ost.",
+      "descripcion": "Anime: Bocchi the rock. Song: Detrás de esa frialdad. Autor de la letra: Drysluck09.",
+      "historia": "razon-proteger-sonrisas",
+      "youtube_id": "n4u-4UopJGo",
+      "url": "https://www.youtube.com/watch?v=n4u-4UopJGo"
+    },
+     {
+      "tipo": "cancion",
+      "titulo": "Bocchi the rock - La razón para proteger sus sonrisas. Song: Detras de esa Frialdad. Capitulo 32 Fanfic.",
+      "descripcion": "Anime: Bocchi the rock. Song: Detrás de esa frialdad. Autor de la letra: Drysluck09.",
+      "historia": "razon-proteger-sonrisas",
+      "youtube_id": "eeMoQv2kF8Q",
+      "url": "https://www.youtube.com/watch?v=eeMoQv2kF8Q"
+    },
+     {
+      "tipo": "cancion",
+      "titulo": "Bocchi the rock - La razón para proteger sus sonrisas. Song: Ecos del silencio capitulo 27 Fanfic.",
+      "descripcion": "Abrumada por el gran esfuerzo de sus compañeras tras el Unidifiet Riot, Ryo cae en una profunda inseguridad: teme no componer una canción perfecta y provocar la separación de la banda.",
+      "historia": "razon-proteger-sonrisas",
+      "youtube_id": "9Pn7NHb4AF8",
+      "url": "https://www.youtube.com/watch?v=9Pn7NHb4AF8"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Bocchi the rock - La razón para proteger sus sonrisas. Song: Más que un nombre capitulo 23 Fanfic.",
+      "descripcion": "Anime: Bocchi the rock . Song: Mas que un nombre. Autor de la letra: Drysluck09.",
+      "historia": "razon-proteger-sonrisas",
+      "youtube_id": "7WJLKt_hRLY",
+      "url": "https://www.youtube.com/watch?v=7WJLKt_hRLY"
+    },
+     {
+      "tipo": "video",
+      "titulo": "Bocchi the rock - Luz de esperanza capitulo 01:La reencarnación fanfic.",
+      "descripcion": "Narracion del capitulo uno Bocchi the rock luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "rnR_zwoirMU",
+      "url": "https://www.youtube.com/watch?v=rnR_zwoirMU"
+    },
+      {
+      "tipo": "ending",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida Ending Final ",
+      "descripcion": "Anime: Mahou shoujo ni akogarete. Anime song: Boku no hero Canción: Kitakaze",
+      "historia": "significado-vida",
+      "youtube_id": "TmPa1Sa3R_o",
+      "url": "https://www.youtube.com/watch?v=TmPa1Sa3R_o"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida OST capitulo 37 ",
+      "descripcion": "Anime: Mahou shoujo ni akogarete. Ost: Might+U",
+      "historia": "significado-vida",
+      "youtube_id": "4rWhTxHiOKM",
+      "url": "https://www.youtube.com/watch?v=4rWhTxHiOKM"
+    },
+     {
+      "tipo": "video",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida OST Shiroko vs Miyuki ",
+      "descripcion": "Hem....solo es un edit de las historias que escribo y dejo volar mi imaginacion....xd.",
+      "historia": "significado-vida",
+      "youtube_id": "mNSFXcLTW6E",
+      "url": "https://www.youtube.com/watch?v=mNSFXcLTW6E"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida OST ",
+      "descripcion": "Anime: Mahou shoujo ni akogarete. Ost: KOF all start orochi team.",
+      "historia": "significado-vida",
+      "youtube_id": "0EWnWaw37GI",
+      "url": "https://www.youtube.com/watch?v=0EWnWaw37GI"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida (Curtain Call-Boku no hero) Final chapters 25-36",
+      "descripcion": "Opening cuatro de El significado de mi vida",
+      "historia": "significado-vida",
+      "youtube_id": "qX3E6fBzylQ",
+      "url": "https://www.youtube.com/watch?v=qX3E6fBzylQ",
+      "miniatura": ""
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida (grayscale dominator) capitulos 20-24 y epilogo.",
+      "descripcion": "Opening tres de El significado de mi vida",
+      "historia": "significado-vida",
+      "youtube_id": "jqbhSUoqmQc",
+      "url": "https://www.youtube.com/watch?v=jqbhSUoqmQc",
+      "miniatura": ""
+    },
+     {
+      "tipo": "opening",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida ( Unchained World - GENERATIONS ) cap 14-19 Fanfic",
+      "descripcion": "Opening dos de El significado de mi vida",
+      "historia": "significado-vida",
+      "youtube_id": "quc1cmLZwu0",
+      "url": "https://www.youtube.com/watch?v=quc1cmLZwu0",
+      "miniatura": ""
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Mahou shoujo ni akogarete El significado de mi vida (Tsuki ga Michibiku - Reversal)Fanfic cap 1-13",
+      "descripcion": "Opening uno de el significado de mi vida",
+      "historia": "significado-vida",
+      "youtube_id": "dI823fCvyYs",
+      "url": "https://www.youtube.com/watch?v=dI823fCvyYs",
+      "miniatura": ""
+    },
+      {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Ending final del fanfic (SKETCH - Boku no hero ).",
+      "descripcion": "Ending final de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "E-suK40_H28",
+      "url": "https://www.youtube.com/watch?v=E-suK40_H28"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza temporada 3 ending ( kyoukai no kanata-daisy ) temporada final.",
+      "descripcion": "Ending de la temporada final de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "F68PFm6k3S8",
+      "url": "https://www.youtube.com/watch?v=F68PFm6k3S8"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Bocchi the rock - Luz de esperanza temporada 3 opening ( Papapa-Oresuki ) temporada final.",
+      "descripcion": "Opening de la temporada tres de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "Iwrr2Lc0xT8",
+      "url": "https://www.youtube.com/watch?v=Iwrr2Lc0xT8",
+      "miniatura": ""
+    },
+     {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Ending (SKETCH-Boku no hero ) Fin del arco especial.",
+      "descripcion": "Ending del arco special de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "ABe8CpOSE94",
+      "url": "https://www.youtube.com/watch?v=ABe8CpOSE94"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Ending del arco ayato the past hikari by jyukai",
+      "descripcion": "Ending del arco special de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "niwYH6fKp70",
+      "url": "https://www.youtube.com/watch?v=niwYH6fKp70"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "The past of Ayato ( SpecialZ-Jujutsu Kaisen) Opening. Bocchi the rock - Luz de esperanza cover.",
+      "descripcion": "Opening de la temporada especial de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "-lJpFDpjP3s",
+      "url": "https://www.youtube.com/watch?v=-lJpFDpjP3s",
+      "miniatura": ""
+    },
+       {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza final temporada 2 ending ( Mephisto [ Queen been ] Oshi no ko).",
+      "descripcion": "Ending final de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "OXa5TmjoM40",
+      "url": "https://www.youtube.com/watch?v=OXa5TmjoM40"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Ending 2 v3 (SKETCH-Boku no hero ) Fin del arco de Kasuo.",
+      "descripcion": "Ending dos version 3 de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "uc7Yej14UUo",
+      "url": "https://www.youtube.com/watch?v=uc7Yej14UUo"
+    },
+     {
+      "tipo": "cancion",
+      "titulo": "Bocchi the Rock! - Luz de esperanza. Song: Ecos de una vida pasada ( cancion capítulo 35 ) fanfic.",
+      "descripcion": "Anime: Bocchi the rock \n fanfic: Bocchi the Rock!-Luz de esperanza. \n Canción: Ecos de una vida pasada \n Edicion: Drysluck09. \n Letra: Drysluck09.",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "4adZH_YTE7I",
+      "url": "https://www.youtube.com/watch?v=4adZH_YTE7I"
+    },
+     {
+      "tipo": "opening",
+      "titulo": "Bocchi the rock - Luz de esperanza Temporada 2 opening 2 v2 [(IDOL x Bling-Bang-Bang-Born)(Mashup of Mashle2-Oshi no Ko)]",
+      "descripcion": "Opening 2 v2 de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "XSo1ZZTUY8c",
+      "url": "https://www.youtube.com/watch?v=XSo1ZZTUY8c",
+      "miniatura": ""
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza tempordada 2 ending v2 (Idol [Yoasobi] Oshi no ko)",
+      "descripcion": "Ending uno version 2 de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "eyjffZqfy2w",
+      "url": "https://www.youtube.com/watch?v=eyjffZqfy2w"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Bocchi the rock - Luz de esperanza Temporada 2 opening 2 [(IDOL x Bling-Bang-Bang-Born)(Mashup of Mashle2-Oshi no Ko)]",
+      "descripcion": "Opening 2 de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "U-gaEhaGGU0",
+      "url": "https://www.youtube.com/watch?v=U-gaEhaGGU0",
+      "miniatura": ""
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Temporada 2 Ending 2 v2 (SKETCH-Boku no hero ) Fin del arco de Yota.",
+      "descripcion": "Ending dos version 2 de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "c-3OeRVqg9k",
+      "url": "https://www.youtube.com/watch?v=c-3OeRVqg9k"
+    },
+     {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Temporada 2 Ending 2 v1 (SKETCH-Boku no hero ) Fin del arco de Kotetsu.",
+      "descripcion": "Ending dos de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "g3bYAMj2r-4",
+      "url": "https://www.youtube.com/watch?v=g3bYAMj2r-4"
+    },
+    {
+      "tipo": "cancion",
+      "titulo": "Bocchi the rock - Luz de esperanza, song : mi hermana, mi luz en la oscuridad Capitulo 18 fanfic.",
+      "descripcion": "Anime: Bocchi the rock \n fanfic: Bocchi the Rock!-Luz de esperanza. \n Canción: Mi hermana, mi luz  \n Edicion: Drysluck09. \n Letra: Drysluck09.",
+      "historia": "luz-esperanza",
+      "youtube_id": "jzuUyzNADOs",
+      "url": "https://www.youtube.com/watch?v=jzuUyzNADOs"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Temporada 2 Ending (Idol [Yoasobi] Oshi no ko).",
+      "descripcion": "Ending uno de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "ldy4KwX1gAs",
+      "url": "https://www.youtube.com/watch?v=ldy4KwX1gAs"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Bocchi the rock - Luz de esperanza temporada 2 opening ( Open your eyes-Occultic;Nine)",
+      "descripcion": "Opening de la temporada dos de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "730SKYud1dU",
+      "url": "https://www.youtube.com/watch?v=730SKYud1dU",
+      "miniatura": ""
+    },
+     {
+      "tipo": "ending",
+      "titulo": "Bocchi the rock - Luz de esperanza Ending final temporada 1 ( Ougon no Kagayaki- Fate )",
+      "descripcion": "Ending dos de la temporada uno de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "mH-R9tQdlc8",
+      "url": "https://www.youtube.com/watch?v=mH-R9tQdlc8"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Bocchi The Rock - Luz de esperanza Ending Fanfic ( Usebeni-Dragon ball super )",
+      "descripcion": "Ending de la temporada uno de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "wcU1d4vggxU",
+      "url": "https://www.youtube.com/watch?v=wcU1d4vggxU"
+    },
+     {
+      "tipo": "opening",
+      "titulo": "Bocchi the rock - Luz de esperanza Opening fanfic (disponible en Wattpad)( Seishun Complex-BTR )",
+      "descripcion": "Opening de la temporada uno de Luz de esperanza",
+      "historia": "luz-esperanza",
+      "youtube_id": "BKoIzSaTXts",
+      "url": "https://www.youtube.com/watch?v=BKoIzSaTXts",
+      "miniatura": ""
+    },
+    {
+      "tipo": "video",
+      "titulo": "Ranchi Bizarre Aventure Arco 4-6 resumen",
+      "descripcion": "Resumen del Arco de Ikari",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "10tdc2pIwJs",
+      "url": "https://www.youtube.com/watch?v=10tdc2pIwJs"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Ranchi Bizarre Aventure Arco 1-3 resumen",
+      "descripcion": "Resumen del Arco de chocolat",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "mOpgchVv2k0",
+      "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+    },
+    {
+      "tipo": "video",
+      "titulo": "Ranchi Bizarre Aventure special arc avance",
+      "descripcion": "Este solo es un parte del special que ando haciendo, aunque no se si voy a subirle toco completo asi que solo subo una parte.",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "ar8ECmZ9iAI",
+      "url": "https://www.youtube.com/watch?v=ar8ECmZ9iAI"
+    },
+    {
+      "tipo": "ending",
+      "titulo": "Ranchi´s Bizare Aventure ending Arco de Chocolat y Ikari",
+      "descripcion": "Ending saga de chocolat arco 1 - 6 ",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "HR_8hWIrcPw",
+      "url": "https://www.youtube.com/watch?v=HR_8hWIrcPw"
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Ranchi´s Bizare Aventure opening Saga Chocolat",
+      "descripcion": "Opening oficial del arco de 1 -3",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "hpfcodK0M38",
+      "url": "https://www.youtube.com/watch?v=hpfcodK0M38",
+      "miniatura": ""
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Ranchi Bizarre Aventure Arco 1-6 opening v2",
+      "descripcion": "Opening del arco 1-6 version 2",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "0EPBz2BR6_o",
+      "url": "https://www.youtube.com/watch?v=0EPBz2BR6_o",
+      "miniatura": ""
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Ranchi Bizarre Aventure Arco 1-6 opening",
+      "descripcion": "Opening del arco 1-6",
+      "historia": "RanchiBizarreAventure",
+      "youtube_id": "GOkOKV3lX2A",
+      "url": "https://www.youtube.com/watch?v=GOkOKV3lX2A",
+      "miniatura": ""
+    },
+    {
+      "tipo": "opening",
+      "titulo": "¿Que hubiera pasado si Tsubasa se enfrentara con otro jugadores? Capitan Tsubasa op Fanfic v2",
+      "descripcion": "Opening oficial de la historia Capitan Tsubasa una nueva historia",
+      "historia": "capitan-tsubasa",
+      "youtube_id": "EowZoWZBSNQ",
+      "url": "https://www.youtube.com/watch?v=EowZoWZBSNQ",
+      "miniatura": ""
+    },
+    {
+      "tipo": "opening",
+      "titulo": "Capitan Tsubasa Op Fan ma",
+      "descripcion": "Opening semi-oficial de la historia Capitan Tsubasa una nueva historia",
+      "historia": "capitan-tsubasa",
+      "youtube_id": "z6OG2s0KHPU",
+      "url": "https://www.youtube.com/watch?v=z6OG2s0KHPU",
+      "miniatura": ""
+    }
+  ]
+}

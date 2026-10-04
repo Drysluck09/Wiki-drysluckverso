@@ -1,0 +1,20 @@
+{
+  "noticias": [
+    {
+      "fecha": "2026-09-25",
+      "etiqueta": "Capítulo nuevo",
+      "titulo": "Ya está disponible el capítulo 6",
+      "texto": "Sale un nuevo capítulo de Ranchi Bizarre Aventure: la carrera que todos esperaban.",
+      "historia": "RanchiBizarreAventure",
+      "url": "https://www.wattpad.com/",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2026-09-10",
+      "etiqueta": "Sitio",
+      "titulo": "Nueva sección: Multiverso",
+      "texto": "Ahora puedes ver cómo se conectan las historias y en qué orden ocurren.",
+      "historia": ""
+    }
+  ]
+}

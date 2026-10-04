@@ -1,0 +1,24 @@
+{
+  "sitio": {
+    "nombre": "Mis Historias",
+    "titulo": "Bienvenido a las historias de Drysluck09",
+    "lema": "¿Reencarnar te asegura la felicidad?",
+    "fondo_inicio": "imagenes/fondos/inicio.jpg",
+    "imagen_inicio": "imagenes/fondos/inicio-arte.webp",
+    "bienvenida": [
+      "Aquí encontrarás todas mis historias, sus personajes, datos y que historias se conectan.",
+      "Puedes empezar por las Historias disponibles, o conoce a tus personajes favotitos (originales)"
+    ],
+    "redes": [
+      {
+        "nombre": "Wattpad",
+        "url": "https://www.wattpad.com/user/Drysluck09"
+      },
+      {
+        "nombre": "YouTube",
+        "url": "https://www.youtube.com/@drysluck0974"
+      }
+    ],
+    "pie": "Historias originales. Todos los derechos reservados."
+  }
+}

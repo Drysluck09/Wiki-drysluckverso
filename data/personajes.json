@@ -1,0 +1,3356 @@
+{
+  "personajes": [
+    {
+      "id": "Ranchi1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ranchi(Ram)",
+      "titulo": "Lider de los hijos de omnia",
+      "avatar": "imagenes/personajes/RamchiPersonajes/ranchi1.webp",
+      "arte": "imagenes/arte/RamchiPersonajes/ranchi1.webp",
+      "descripcion": "Tiene el aspecto de Ram de Re zero y es algo extravagante, impredecible y muy bromista pero detrás del humor guarda una tristeza antigua. Exige mucho a su gente, sobre todo a Ikari y a medida que avanza la etapa, su carácter se endurece y su mirada se vuelve más fría",
+      "historia_personal": "Creció junto a su amiga Maika, ambos encontraron un poder pero con el pasar de los meses su ciudad fue destruida y su amiga desaparece. Despues de ver su ciudad destruida, decide recontruirla con el poder de omnia",
+      "datos": {
+        "Edad": "21 años",
+        "Altura": "1.60 m",
+        "Cumpleaños": "12 de marzo",
+        "Ocupación": "Lider de los hijos de omnia"
+      },
+      "apariciones": [
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "opiniones": [
+        {
+          "target_id": "Ikari1",
+          "target_nombre": "Ikari",
+          "dialogos": [
+            "Es muy buen empleado, sino fuera tsudere"
+          ]
+        },
+        {
+          "target_id": "Francis1",
+          "target_nombre": "Francis(subaru)",
+          "dialogos": [
+            "Es prácticamente como mi segunda mano derecha "
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Asuka1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Asuka(Venti)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/asuka1.webp",
+      "descripcion": "Tiene el aspecto de Venti. Es noble, sensible y amable. Es capaz de ver lo bueno en los demás y suele busca paz.",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "19",
+        "Altura": "1.60",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Cuarto al mando de hijos de omnia"
+      },
+      "apariciones": [        
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }],
+      "opiniones": []
+    },
+    {
+      "id": "Francis1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Francis(subaru)",
+      "titulo": "Hijo de omnia",
+      "avatar": "imagenes/personajes/RamchiPersonajes/francis1.webp",
+      "arte": "imagenes/arte/RamchiPersonajes/francis1.webp",
+      "descripcion": "Tiene el aspecto de Subaru Natsuki. Es leal, emocional e impulsivo",
+      "historia_personal": "Rara vez improvisa y es algo descuidado hasta que conoció a una chica.",
+      "datos": {
+        "Edad": "20 años",
+        "Altura": "1.70 m",
+        "Cumpleaños": "3 de octubre",
+        "Ocupación": "Segundo al mando de los hijos de omnia"
+      },
+      "apariciones": [
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "opiniones": [
+        {
+          "target_id": "Ranchi1",
+          "target_nombre": "Ramchi (ram)",
+          "dialogos": [
+            "Si el es peor que yo, es que no me conocen",
+            "Su estilo impulsivo a veces me agrada."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Ikari1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ikari(Tanya)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ikari1.webp",
+      "descripcion": "Tiene el aspecto de Tanya Degurechaff. Es serio, disciplinado y perfeccionista. Trabaja siempre bajo la exigencia de Ramchi y reservado con sus emociones aunque aveces es tsudere.",
+      "historia_personal": "Se unio a ramchi despues de que este le ofreciera su ayuda cuando nadie mas lo hizo, siendo razon por la cual lo respeta",
+      "datos": {
+        "Edad": "18",
+        "Altura": "1,58",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Tercer al mando de los hijos de omnia"
+      },
+      "apariciones": [      
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "Manuel1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manuel(saber)",
+      "titulo": "Hijo de omnia",
+      "avatar": "imagenes/personajes/RamchiPersonajes/manuel1.webp",
+      "arte": "imagenes/arte/RamchiPersonajes/manuel1.webp",
+      "descripcion": "Posee el aspecto de Saber y es el cerebro técnico del grupo. Investiga, construye y resuelve problemas con su caracter tranquilo y piensa antes de actuar.",
+      "historia_personal": "Se unio a ramchi para proteger la ciudad de excalesol despues de haber sido uno de los sobrevivientes del desastre de la ciudad",
+      "datos": {
+        "Edad": "20 años",
+        "Ocupación": "3 al mando de los hijos de omnia"
+      },
+      "apariciones": [
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "opiniones": [
+        {
+          "target_id": "Francis1",
+          "target_nombre": "Francis(subaru)",
+          "dialogos": [
+            "Mi buen saco de boxeo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Lobby1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Lobby(Sanji)",
+      "titulo": "Pasante",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/lobby1.webp",
+      "descripcion": "Es carismático, amable y observador.",
+      "historia_personal": "Llego a la ciudad de excalesol junto a manin y despues de haber vivido los sucesos de chocolat , decidio proteger la ciudad",
+      "datos": {
+        "Edad": "21",
+        "Altura": "1,70",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Pasante y ayudante de los hijos de omnia"
+      },
+      "apariciones": [
+           {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "Manin1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manin(Sasuke)",
+      "titulo": "Pasante ",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin1.webp",
+      "descripcion": "Tiene el aspecto de Sasuke uchiha. Es leal, amable y dispuesto a acompañar a sus amigos.",
+      "historia_personal": "Es el amigo que nunca abandona a nadie, llegando a la ciudad tras meses perdido, buscando un sitio al que pertenecer.",
+      "datos": {
+        "Edad": "18",
+        "Altura": "1,60",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Pasante y ayudante de los hijos de omnia"
+      },
+      "apariciones": [
+        {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "Chocolat",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Chocolat",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/chocolat.webp",
+      "descripcion": "Es dulce, amable y protectora. Al inicio es alguien malvada pero despues se convierte en alguien muy emocional que se preocupa profundamente por sus amigos y está dispuesta a sacrificarse por ellos.",
+      "historia_personal": "u pasado está marcado por situaciones en las que tuvo que actuar en contra de su voluntad. Su relación con Francis y los demás termina siendo muy importante para ella, y aun después de convertirse irse continúa ayudándolos.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,50",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [
+          {
+          "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "Mika",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Mika",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/mika.webp",
+      "descripcion": "Es la amiga de la infancia de Ramchi, una niña que solo anhelaba vivir en paz bajo el aspecto de Maika.",
+      "historia_personal": "Tras ser secuestrada, su vida da un giro trágico al ser utilizada como un peón sim embargo su lealtad hacia Ramchi nunca desaparece.",
+      "datos": {
+        "Edad": "21",
+        "Altura": "1,60",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Lobby2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Lobby(Dio)",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/lobby2.webp",
+      "descripcion": "Controla el tiempo, drena poder y oculta su verdadero aspecto hasta que lo revela.",
+      "historia_personal": "Fingir ser amable solamente para obtener el poder de omnia",
+      "datos": {
+        "Edad": "21",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Francis2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Francis(Araragi)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/francis2.webp",
+      "descripcion": "Con el aspecto de Araragi sigue siendo leal, impulsivo y emocional. con la promesa a Chocolat de seguir sonriendo.",
+      "historia_personal": "Aunque sufre al presenciar muertes injustas y sentirse impotente frente a enemigos superiores, Francis se aferra a esta promesa como su motor para no perder la esperanza.",
+      "datos": {
+        "Edad": "21",
+        "Altura": "1,70",
+        "Cumpleaños": "¿?",
+        "Ocupación": "2 lider de los hijos de omnia"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manin2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manin(Rengoku)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin2.webp",
+      "descripcion": "Con aspecto de Rengoku y ahora es mas sonriente, mas fiel a ayudar a sus amigos pero sobre todo a Ikari",
+      "historia_personal": "Despues de los sucesos con chocolat y lobby, se convierte en parte de uno de los hijos de omnia",
+      "datos": {
+        "Edad": "19",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Quinto de los hijos de omnia"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ikari2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ikari(Kiritsugu)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ikari2.webp",
+      "descripcion": "Serio y exigente pero por dentro es amable, aunque se va un año y reaparece frío, como cazador de vampiros junto a Tobi.",
+      "historia_personal": "Despues de alejarse de sus amigos y reencontrarse con ellos, decide volver mas decidido a proteger a su ciudad y a sus compañeros",
+      "datos": {
+        "Edad": "19",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Cuarto al mando de los hijos de omnia"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manuel2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manuel(Joker)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manuel2.webp",
+      "descripcion": "Posee el aspecto de Joder persona 5 y es el cerebro técnico del grupo",
+      "historia_personal": "Su evolución lo lleva a desarrollar una mayor desconfianza y agudeza, siendo el primero en percatarse de los inquietantes y sutiles cambios en la personalidad de sus aliados más cercanos.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Tercer al mando de los hijos de omnia"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ranchi2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ranchi(Batman)",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ranchi2.webp",
+      "descripcion": "Es excéntrico e imprevisible, y pierde su humor por la pérdida de Mika.",
+      "historia_personal": "Tras la muerte de Maika se vuelve frío y severo, convirtiendose en Ramchi Batman y decidido a cubrir venganza por quien la hizo desaparecer",
+      "datos": {
+        "Edad": "22",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Asuka2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Asuka(Renly)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/asuka2.webp",
+      "descripcion": "Es amable como siempre y mas cuando se enamora de una chica que conocio",
+      "historia_personal": "Despues de perder a Fumiko, pierde el control cuando ella muere y sigue el camino de la venganza hacia su atacante",
+      "datos": {
+        "Edad": "20",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Sexto al mando de hijos de omnia"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Buendigo1",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Buendigo(Deku)",
+      "titulo": "Pasante",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/buendigo2.jpg",
+      "descripcion": "En la historia original hace batallas de pokeduel pero en la historia es un chico amable y desea ser un hijo de omnia",
+      "historia_personal": "Al igual que manin, llego a la ciudad para buscar un futuro mejor y al ver como los hijos de omnia trabajaban decide ser uno de estos y unirse a sus filas",
+      "datos": {
+        "Edad": "18",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Astra-Sol",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Astra Sol",
+      "titulo": "Reencarnada",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin3.webp",
+      "descripcion": "Su personalidad se caracteriza por una fuerte resistencia a permanecer sometida y por luchar constantemente contra quienes intentan detenerla.",
+      "historia_personal": "Astra permaneció encerrada durante siglos dentro de un objeto original. Hace un pacto con Manin para ocupar su cuerpo y ayudar a sus amigos pero detras de este trato, ella quiere terminar con el mundo al saber la verdad del mundo.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,70",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Thomas",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Thomas",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/thomas.webp",
+      "descripcion": "burlón, provocador y bastante cruel. Le gusta provocar a sus enemigos, especialmente a Asuka y parece disfrutar de llevarlo al límite emocionalmente. También es muy seguro de sí mismo y no muestra demasiada preocupación por el sufrimiento que causa.",
+      "historia_personal": "Thomas trabaja junto a Ayato y Sakamaki y participa en sus planes para conseguir los artefactos relacionados con el poder de Omnia",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,75",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Yato-Sakamichi",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Yato Sakamichi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/yato.webp",
+      "descripcion": "Es arrogante, confiado y disfruta demostrando su superioridad frente a sus enemigos. Incluso cuando encuentra dificultades, suele mantener una actitud burlona y fría.",
+      "historia_personal": "Ayato persigue el poder de Omnia convencido de que puede darle un poder extraordinario. Durante su enfrentamiento con Francis demuestra tener una capacidad de regeneración muy avanzada, además de otras habilidades que hacen de él uno de los principales obstáculos para los hijos de omnia",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ikari3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ikari(Xu Fuan)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ikari3.webp",
+      "descripcion": "Estratega tranquilo y agradecido de tener a sus amigos, que no le importaria sacrificarse por ellos",
+      "historia_personal": "Despues de los acontecimientos de Astra sol, Ikari le tiene mas apego a sus amigos a un punto que no le importa dar su vida con tal de que sus amigos esten bien y a pesar de su caracter frio por dentro es agradecido de estar rodeado con gente que lo adora",
+      "datos": {
+        "Edad": "20",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Buendigo2",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Buendigo(Jhon Urdinary)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/buendigo.webp",
+      "descripcion": "Posee su caracter alegre , aprendiendo a controlar sus nuevo poderes de copiar habilidades para ayudar mas a los hijos de omnia ",
+      "historia_personal": "Despues de haber sido piesa cable contra Astra sol, ramchi le da el poder de hijo de omnia y convirtiendose en uno de los que protegen a Excalesol ",
+      "datos": {
+        "Edad": "19",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Asuka5",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Asuka(Kido)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/asuka5.jpg",
+      "descripcion": "Se vuelve una persona mas seria y dejando de lado esa parte bondadoso de si mismo ya que ese caracter lo hizo vulnerable",
+      "historia_personal": "DEspues de perder a fumiko, sigue un camino de odio sin darse cuenta que la venganza no es la solucion",
+      "datos": {
+        "Edad": "20",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    }, 
+    {
+      "id": "Manin4",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manin4(Asta)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin5.webp",
+      "descripcion": "A pesar de los años sigue siendo un chico amable, cambio su aspecto a Asta para poder contrarestar la magia de Ayato cuando regresara",
+      "historia_personal": "Despues de los acontecimientos de Astra sol, Manin se alejo de la ciudad para convertirse en una version de si misma y ser mas fuerte para enfrentar a Ayato",
+      "datos": {
+        "Edad": "21",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manuel3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manuel(Yukino)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manuel3.webp",
+      "descripcion": "A pesar de su aspecto de Yukino sigue siendo el mismo chico calculador, quien intenta anticiparse a cada movimiento de su enemigo",
+      "historia_personal": "Despues de los acontecimientos de Astra sol, Manuel decidio pasar desapercibido ya que habria otra amenaza por lo que tomo un perfil mas discreto conparado a quien era al inicio",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ranchi3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ranchi(Denji)",
+      "titulo": "Lider de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ranchi3.webp",
+      "descripcion": "Bromista y un poco mas simpatico despues de haber vivido su peor etapa de ramchi Batman",
+      "historia_personal": "A pesar de haber jurado venganza, algo dentro de el sabia que estaba mal por lo que conciente de ese camino decidio ser mejor lider y cambian su aspecto a algo mas actual a el, siendo lo mas cercano a Denji",
+      "datos": {
+        "Edad": "23",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Lider de los hijos de omnia"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Asuka3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Asuka(Phos)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/asuka3.webp",
+      "descripcion": "Se vuelve una persona mas seria y dejando de lado esa parte bondadoso de si mismo ya que ese caracter lo hizo vulnerable",
+      "historia_personal": "Despues de darse cuenta que se estaba dejando llevar por sus emociones, decidio no seguir el camino que Ramchi siguio en su momento por lo que esta vez volveria a pensar en sus acciones sim embargo su caracter amable lo abandono y volviendo en una un poco mas seria",
+      "datos": {
+        "Edad": "20",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    }, 
+    {
+      "id": "Manin6",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manin(Meliodas)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin4.webp",
+      "descripcion": "Con el aspecto de meliodas y dejar atras su fase de asta, utiliza contrataque para poder luchar contra Ayato.",
+      "historia_personal": "Cambia su aspecto para la batalla final contra Ayato para poder derrotarlo una vez por todas, despues de los sucesos contra Gilgamesh decide abandonar la ciudad definitivamente a pesar de que tuvo momentos inolvidables. Decide abandonar todo para obtener una vida de paz y dejar atras todo el combate, mas cuando Ikari tambien se fue de la ciudad",
+      "datos": {
+        "Edad": "20",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Cuarto Hijo de omnia"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manuel4",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manuel(Dark Iruma)",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manuel4.webp",
+      "descripcion": "Sigue siendo el mismo chico de siempre pero cambiando su aspecto de Iruma para la pelea final contra Ayato",
+      "historia_personal": "Es el unico que queda de los hijos de omnia despues de los sucesos de Gilgamesh y peleando junto a Ramchi con Asuka para hacer prosperar la ciudad",
+      "datos": {
+        "Edad": "21",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Franuel",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Franuel",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/franuel.webp",
+      "descripcion": "Es una fusión de Francis y Manuel, por lo que combina las capacidades de ambos. Se muestra seguro de sí mismo y muy poderoso, llegando a enfrentarse a Ayato con una enorme superioridad.",
+      "historia_personal": "Nace cuando Francis y Manuel utilizan los anillos que les había entregado Chocolat. La fusión es permanente y combina la inmortalidad heredada de Araragi con la magia que pertenecía a Iruma. Durante la batalla final, Franuel lucha junto a Akiko contra Ayato y consigue herirlo hasta el punto de superar su capacidad de regeneración. Despues aparecio para tratar de detener el arma que gilgamesh activo",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Akiko",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Akiko",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/akiko.webp",
+      "descripcion": "Es una fusión de Manin y Chocolat. Se caracteriza por su enorme poder y velocidad, y durante la batalla demuestra una actitud decidida, enfrentándose directamente a Ayato.",
+      "historia_personal": "Nace cuando Chocolat, después de morir, aparece como espíritu y decide fusionarse temporalmente con Manin para salvarle la vida. La fusión permite que ambos escapen de una situación en la que Manin estaba a punto de morir. Más adelante, Akiko vuelve a aparecer durante la batalla final contra Ayato y lucha junto a Franuel.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ikari4",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ikari(Hitori)",
+      "titulo": "Ex hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ikari4.webp",
+      "descripcion": "Es timido debido a la perdida de sus recuerdos, sim embargo nunca olvido el sentimiento de ayudar a sus amigos cuando estuvieron en problemas",
+      "historia_personal": "Vuelve con el aspecto de Hitori Gotou, sin memoria ni su nombre. Es impaciente pero protector con Ruben y Kailed. Despues de los sucesos contra Gilgamesh decide igual que Manin alejarse de todo por lo que le regrea al poder de ramchi y se va a vivir junto a Kailed",
+      "datos": {
+        "Edad": "20",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Kailed",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Kailed",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/kailed.jpg",
+      "descripcion": "Es una persona cercana a Ruben e Ikari y representa uno de los vínculos familiares más importantes dentro de su historia. A pesar de las situaciones que atraviesa, conserva una conexión muy fuerte con ambos.",
+      "historia_personal": "En el pasado vivía junto a Ruben y su amada. Los tres acogieron a Ikari después de encontrarlo gravemente herido y sin recuerdos, formando durante un tiempo una pequeña familia. Su vida cambia cuando Kakeru vuelve a aparecer y posteriormente ella es víctima de uno de los poderes que él puede reproducir.",
+      "datos": {
+        "Edad": "20",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Gilgamesh",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Gilgamesh (Kakeru)",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/kakeru.webp",
+      "descripcion": "Kakeru se presenta como un personaje extremadamente peligroso, decidido y obsesionado con obtener aquello que considera necesario. No duda en utilizar poderes ajenos para alcanzar sus objetivos.",
+      "historia_personal": "Su conexión con Gilgamesh es fundamental para entender sus habilidades: gracias a ese poder puede recrear las capacidades de objetos que ha presenciado. Esto le permite utilizar una enorme variedad de armas y habilidades, convirtiéndolo en alguien capaz de enfrentarse al grupo utilizando poderes que originalmente no le pertenecían. Al igual que Astra sol, decide robar el poder de omnia y asi destruir el mundo que los tiene atado",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Lobby3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Lobby(Gojo)",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/lobby3.webp",
+      "descripcion": "Reaparece con aspecto de Gojo. Es calculador y recela de todos, pero ayuda contra Kakeru.",
+      "historia_personal": "Al saber la verdad sobre el mundo y sobre el poder de omnia, queda sin un rumbo que seguir sim embargo decide ayudar a los hijos de omnia porque el sentia que ellos podian cambiar el rumbo del mundo que habia seguido por siglos",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ruben",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ruben",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ruben.webp",
+      "descripcion": "Tiene el aspecto de Archer emiya, Es alguien protector, pero profundamente marcado por las pérdidas de su pasado. Durante mucho tiempo se convierte en una persona emocionalmente apagada, aunque debajo de esa apariencia mantiene un fuerte sentido de responsabilidad hacia Kailed e Ikari.",
+      "historia_personal": "es de los acontecimientos principales, Ruben vivía con su amada y Kailed. Cuando encontraron a Ikari sin recuerdos, decidieron acogerlo, pero Kakeru apareció buscando llevárselo; la amada de Ruben murió intentando protegerlo y le pidió que cuidara de Kailed e Ikari. Desde entonces, Ruben carga con esa promesa y con el deseo de protegerlos.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Dream",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Dream",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/dream.webp",
+      "descripcion": "uno de los miembros de las cadenas de prometeo. Es alguien alegre pero a la vez lo suficiente serio, ademas paciente y marcado por una experiencia que abarca muchas vidas. Su forma de pensar está profundamente relacionada con su deseo de terminar con el sufrimiento del mundo.",
+      "historia_personal": "Dream conserva recuerdos de diferentes ciclos de existencia. En una vida anterior perteneció a los Hijos de Omnia junto a otros compañeros y, después de experimentar repetidamente las mismas tragedias, comenzó a buscar una manera de liberar definitivamente a las almas de ese ciclo. Su historia termina estando relacionada con una lucha mucho más grande que la de los personajes actuales: romper el sistema que mantiene a las almas atrapadas.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Asuka4",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Asuka Final",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/asuka4.webp",
+      "descripcion": "Uno de los tres líderes de la ciudad que quedan",
+      "historia_personal": "A pesar de haber visto a los hijos de omnia irse, el decidio quedarse para proteger la ciudad",
+      "datos": {
+        "Edad": "23",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Hijo de omnia"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ranchi4",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ranchi Final",
+      "titulo": "Lider de los hijos de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ranchi4.webp",
+      "descripcion": "Se ha convertido en una figura mucho más madura y experimentada. Sigue siendo uno de los principales responsables de Excalesol y continúa cargando con el peso de todo lo que ha ocurrido.",
+      "historia_personal": "Después de la caída de Kakeru, permanece en Excalesol junto a Manuel y Asuka. Durante estos dos años aprende a controlar cada vez mejor su poder de Omnia. Para la época de Dream, Ramchi es uno de los principales objetivos de quienes quieren apoderarse de ese poder.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Francis3",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Francis Final",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/francis3.webp",
+      "descripcion": "Sigue siendo un combatiente muy resistente, con una gran capacidad de regeneración y muy ligado emocionalmente a sus antiguos compañeros.",
+      "historia_personal": "espués del time skip se había alejado de los Hijos de Omnia. Sin embargo, cuando comienza la crisis provocada por Dream vuelve a luchar junto a los demás.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Ex hijo de omnia"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Ikari5",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Ikari Final",
+      "titulo": "Ex hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/ikari5.webp",
+      "descripcion": "Es más tranquilo y reservado, pero conserva un fuerte vínculo con sus compañeros.",
+      "historia_personal": "abía abandonado los Hijos de Omnia y elegido quedarse junto a Kailed para vivir tranquilamente. Sin embargo, durante la crisis de Dream regresa junto a Manin para ayudar a sus antiguos compañeros.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manin5",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Kioko",
+      "titulo": "Ex hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manin6.webp",
+      "descripcion": "Es alguien mucho más experimentado después de todo lo vivido. Mantiene una relación cercana con Ikari y conserva el vínculo con sus antiguos compañeros.",
+      "historia_personal": "Se había alejado de los Hijos de Omnia junto con Francis buscando una vida más tranquila. Durante la crisis de Dream regresa y vuelve a luchar junto al grupo. En la batalla protege a Ikari de un ataque, resultando gravemente herido. Al final decide descansar en paz después de haber vivido nuevamente junto a sus compañeros.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "Manuel5",
+      "historia": "RanchiBizarreAventure",
+      "nombre": "Manuel Final",
+      "titulo": "Hijo de omnia",
+      "avatar": "",
+      "arte": "imagenes/arte/RamchiPersonajes/manuel5.webp",
+      "descripcion": "Se vuelva mas amable, es el más interesado en comprender el verdadero origen y funcionamiento del poder de Omnia. Es tranquilo, racional y actúa como alguien que intenta mantener unido al grupo.",
+      "historia_personal": "ras el retiro de varios Hijos de Omnia, Manuel permanece en Excalesol junto a Ramchi y Asuka. Dedica gran parte de los dos años a investigar por qué el poder de Omnia ha sido tan codiciado durante generaciones. Cuando conoce a Dream, decide entrenarlo personalmente y termina convirtiéndose en una figura muy importante para él y al final salvando al mundo despues de saber la verdad",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "busc-tn-kawaragi1",
+      "historia": "buscando-un-proposito",
+      "nombre": "Tn Kawaragi",
+      "titulo": "El sin proposito",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/kawaragi1.jpg",
+      "descripcion": "Chico de 15 años, siempre esta con el celular o los audífonos. Es flojo, sarcástico y vive de juegos gacha pero detrás de las bromas es noble y se preocupa por los de su alrededor, aunque lo disimule.",
+      "historia_personal": "Es uno de los 3 aspirantes a ser entrenador junto a Reina y anaxa. Hijo de un famoso reportero de carreras, creció en primera fila sin entender por qué la gente se emocionaba tanto por ver correr a las Umamusume.  Casi siempre se toma todo como burla y sin vocación, hasta que empieza a ver las carreras de otra manera al convivir en la Academia Tracen.",
+      "datos": {
+        "Edad": "15 años",
+        "Altura": "1,56 cm",
+        "Cumpleaños": "25 de octubre",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-reina-kanzaki1",
+      "historia": "buscando-un-proposito",
+      "nombre": "Reina Kanzaki",
+      "titulo": "La fantasma egoista",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/reina1.png",
+      "descripcion": "Chica de cabello azulado y exfutbolista. Tiene un caracter frio, orgullosa y suele liberar una presencia intimidante.",
+      "historia_personal": "Es una de los 3 aspirante a entrenadores. Su padre fue un entrenador bondadoso cuyo nombre terminó manchado, y su madre se fue. Creció con burlas y una traición de su única amiga, y aprendió que confiar es ser vulnerable. Entrena umas <<egoistas>>, convencida de que el mundo no premia la bondad. ",
+      "datos": {
+        "Edad": "15 años",
+        "Altura": "1,59cm",
+        "Cumpleaños": "8 de agosto",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-anaxa1",
+      "historia": "buscando-un-proposito",
+      "nombre": "Anaxa",
+      "titulo": "El cientifico loco",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/anaxa1.png",
+      "descripcion": "Tiene un gorro café, pelo castaño, bata blanca, ojos rojizos y familia de los Agnes. Es un científico excéntrico y sarcástico, suele usar a las Umamusume como sujetos de prueba, pero a diferencia de su hermana Agnes Taychon, el primero verifica que no corran peligro e incluso probándolas en el mismo si es necesario. ",
+      "historia_personal": "Es un pasante en Rigil que estudia medicina y predice resultados con una precisión que asusta. Casi siempre evita los hipódromos y su pasado es un misterio.",
+      "datos": {
+        "Edad": "15 años",
+        "Altura": "1,65 cm",
+        "Cumpleaños": "23 de septiembre",
+        "Ocupación": "Aspirante a entrenador y aspirante a medico"
+      },
+      "apariciones": [
+         {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-special-week",
+      "historia": "buscando-un-proposito",
+      "nombre": "Special Week",
+      "titulo": "El comandante supremo de Japón",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/special.jpg",
+      "descripcion": "Special Week tiene un bob corto de color marrón púrpura, con flequillo blanco que se inclina ligeramente hacia su izquierda. Tiene trenzas blancas atadas a la parte posterior del cabello y orejas cortas y rechonchas de color marrón, con un lazo morado en la oreja derecha. Sus ojos redondos y alegres son de color púrpura claro",
+      "historia_personal": "Nacido en Hokkaido, Special Week es un Umamusume brillante, alegre y trabajador. Después de perder a su madre biológica, Special Week fue criada por la amiga de su madre. Ahora, espera enorgullecer a sus dos mamás cumpliendo su promesa de convertirse en la mejor corredora de Japón. Aunque pueda flaquear en el camino, su espíritu indomable le asegura correr siempre hacia adelante.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "158 cm",
+        "Cumpleaños": "2 de mayo",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-silence-suzuka",
+      "historia": "buscando-un-proposito",
+      "nombre": "Silence Suzuka",
+      "titulo": "Príncipe de la Velocidad Sónica",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/suzuka.jpg",
+      "descripcion": "Suzuka tiene un cabello largo y sedoso de color naranja rojizo, un flequillo recto, lleva una diadema blanca asegurada con un accesorio de estrella plateada. Sus orejas están envueltas en tela verde, con una pequeña cinta de color verde y amarillo colgando de su oreja derecha con sus ojos de color azulado.",
+      "historia_personal": "Una Umamusume vista como un prodigio que siempre está por delante del resto, se absorbe tanto corriendo que parece distante, pero la mayoría sabe que es dedicada y además de ser compañera de cuarto con Special Week ",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "161 cm",
+        "Cumpleaños": "1 de mayo",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-trainer",
+      "historia": "buscando-un-proposito",
+      "nombre": "Entrenador (Torena)",
+      "titulo": "Entrenador",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/ryo.webp",
+      "descripcion": "Siempre lleva una paleta en la boca, tiene la piel bronceada, ojos de color ámbar con cabello castaño y un corte rapado en el lado izquierdo de la cabeza. Viste un chaleco negro sobre una camisa amarilla abotonada y pantalones negros. ",
+      "historia_personal": "Es el entrenador de Spica. En lugar de instruir adecuadamente a sus alumnas con estrategias de carreras, confía en ellos y les permite correr según sus propios deseos.  A pesar de su forma “única” e impulsiva de gestionar su equipo, las cosas van bien…casi siempre. ",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "180 cm",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Entrenador"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-tokai-teiou",
+      "historia": "buscando-un-proposito",
+      "nombre": "Tokai Teiou",
+      "titulo": "El Monarca",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/teiou.jpg",
+      "descripcion": "Es una Umamusume de tamaño pequeño, pero con un gran carisma, tiene el cabello largo de color marrón ámbar atado en una cola de caballo y una cinta rosa. También tiene una raya de pelo blanco en el flequillo, además de tener una joya de ámbar con dos colas de cinta en su oreja derecha u sus ojos de color azul cielo.",
+      "historia_personal": "Admira mucho a Symboli Rudolf y aspira a la Triple Corona japonesa sim embargo en el transcurso de su vida sufre de muchas fracturas, pero en vez de decaer siguió esforzándose, demostrándonos que, si lo deseas y te esfuerzas, puedes lograrlo. ",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "150",
+        "Cumpleaños": "20 abril",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-mejiro-mcqueen",
+      "historia": "buscando-un-proposito",
+      "nombre": "Mejiro McQueen",
+      "titulo": "El Rey de las Largas Distancias",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/mcqueen.jpg",
+      "descripcion": "Es una umamusume pequeña con cabello lavanda brillante, tiene puntas marrones en las orejas y una cinta verde azulado en la derecha. Sus ojos son violetas y tienen reflejos blancos en el centro",
+      "historia_personal": "Nacido en una familia de leyendas de las carreras, Mejiro McQueen es un corredor de larga distancia que es la envidia de sus compañeros. Tiene clase y decoro propios de su prestigio, y está decidida a conseguir el primer puesto en Tenno Sho como muchos corredores de Mejiro antes que ella. En sus días libres, le gusta tomar el té de la tarde con muchos otros residentes de la finca Mejiro.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "159 cm",
+        "Cumpleaños": "3 de abril",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-daiwa-scarlet",
+      "historia": "buscando-un-proposito",
+      "nombre": "Daiwa Scarlet",
+      "titulo": "Miss Perfect - La Triple Tiara Fantasma",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/scarlet.jpg",
+      "descripcion": "Una Umamusume muy competitiva con cabello castaño rojizo, tiene colas largas y cintas azules, un lazo rojo atado a la cola izquierda. Lleva una tiara con una gema azul en el centro, que sostiene ligeramente su cabello, ojos son de color escarlata y en su boca sobresale un colmillo. ",
+      "historia_personal": "Inflexible, de voluntad fuerte y algo tsudere, quiere ser el número uno en todo lo que hace. Generalmente desempeña el papel de la estudiante de honor perfecta y de modales, pero la verdad es que odia perder más que cualquier otra cosa. Es compañera de cuarto con Vodka, quien la ve como su motivación y su rival.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "163 cm",
+        "Cumpleaños": "13 mayo",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-vodka",
+      "historia": "buscando-un-proposito",
+      "nombre": "Vodka",
+      "titulo": "La emperatriz extraordinaria - La reina del Derby",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/vodka.jpg",
+      "descripcion": "Tiene cabello corto de color marrón oscuro en la parte delantera con puntas que se curvan hacia afuera. Además de la mancha blanca en su flequillo, lleva una banda amarilla en la oreja izquierda y un accesorio en el cabello.",
+      "historia_personal": "Dedicada a ser la más genial, hace todo lo posible para actuar como una delincuente, siempre ha sido amante de las motocicletas y debido a su naturaleza no tiene miedo de lo que pueda enfrentar. Comúnmente desafía mucho a Daiwa Scarlet y aunque parecen que se llevan mal, la verdad es que son buenas amigas.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "165",
+        "Cumpleaños": "4 abril",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-Gold",
+      "historia": "buscando-un-proposito",
+      "nombre": "Gold Ship",
+      "titulo": "El revelde",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/golship.jpg",
+      "descripcion": "Tiene el cabello largo y liso de color gris plateado con flequillo liso que cubre su frente. Lleva un sombrero cilíndrico marrón que está conectado a correas marrones que corren al lado y detrás de su cabeza. Sus ojos son de color casi rosado y lleva un lazo morado en la oreja derecha con una actitud impredecible. ",
+      "historia_personal": "Debido a su comportamiento impredecible, no se sabe al correr si lo hara en serio o no. A pesar de su actitud es muy rapida que arrebaza a sus oponentes enseguida y ademas de formar una rivalidad con Orfevre y Gentildonna",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "170 cm",
+        "Cumpleaños": "6 marzo",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-tn-kawaragi2",
+      "historia": "buscando-un-proposito",
+      "nombre": "Tn Kawaragi adulto",
+      "titulo": "El entrenador maldito",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/kawaragi2.jpg",
+      "descripcion": "Viste un chaleco azul marino sobre una camisa amarilla abotonada de manga larga, pantalones de color azul oscuro y un cinturón blanco. Sigue siendo bromista y sarcástico sim embargo utiliza ese humor como una forma de ocultar sus preocupaciones y emociones. Es amable, paciente y muy protector con sus Umamusume, pero se culpa con facilidad cuando algo sale mal. ",
+      "historia_personal": "Debido a su fama de <<entrenador maldito>> se le hace difícil conseguir que alguien se una a su equipo, pero igual lo intenta y sigue adelante. Carga con las críticas de las redes, con el miedo a fallarles y creyendo que cada derrota es culpa suya, pero sin dejar de sonreír para que no preocupar a sus alumnas.",
+      "datos": {
+        "Edad": "18-21",
+        "Altura": "1,65 cm a 1,72 cm",
+        "Cumpleaños": "25 de octubre",
+        "Ocupación": "Entrenador"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-reina-kanzaki2",
+      "historia": "buscando-un-proposito",
+      "nombre": "Reina Kanzaki adulta",
+      "titulo": "La entrenadora egoista",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/reina2.png",
+      "descripcion": "Lleva una chaqueta azul sobre un vestido negro con encaje, un lazo en el pecho, un cinturón negro y un collar de gargantilla negro. Sigue siendo directa y fuerte pero su mirada ya no es fría con sus ojos recuperado su brillo, siendo más abierta y humana.",
+      "historia_personal": "Después de ver la realidad y consecuencias de sus acciones, ya no busca pisotear a los demás sino enseñar a amarse lo suficiente para no destruirse. Ahora cuida a sus unas y con el temor de volver a quedarse sola. ",
+      "datos": {
+        "Edad": "20-21",
+        "Altura": "1,65",
+        "Cumpleaños": "8 de agosto",
+        "Ocupación": "Entrenadora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-anaxa2",
+      "historia": "buscando-un-proposito",
+      "nombre": "Kaname",
+      "titulo": "El destello negro",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/kaname.png",
+      "descripcion": "Un uma hombre de pelo castaño, ojos rojizos con un traje negro y una corbata roja. Tiene un carácter que desprecia a los demás y no le importa las personas de su alrededor.",
+      "historia_personal": "Nació en un laboratorio como el primer uma macho y creció como experimento y marginado. Cuando corría, se volvió el <<destello negro>> Kaname, alguien que ganaba aplastando sueños. Una persona especial le enseñó a reír y le pidió una promesa que lo sigue marcando que pasó de ser alguien que destruía esperanzas a cuidarlas, aunque aún le temen la pista y su pasado. Actualmente es un médico para ayudar a las Umamusume a cumplir sus sueños pero sobre todo intentar perdonarse por todo el daño que hizo en el pasado. ",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,70",
+        "Cumpleaños": "¿?",
+        "Ocupación": "Entrenador y medico"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-haru-urara",
+      "historia": "buscando-un-proposito",
+      "nombre": "Haru Urara",
+      "titulo": "La esperanza de japon",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/urara.png",
+      "descripcion": "Tiene cabello rosa y rosado atado hacia atrás en una cola de caballo con un flequillo corto. Sus orejas están cubiertas por tela de color rosado y tiene un lazo blanco en la oreja izquierda. Sus ojos grandes y redondos de color rosado con patrones de pétalos de flores de cerezo en sus iris.",
+      "historia_personal": "A pesar de tener una racha de carreras perdidas ¡Pero ella nunca se rinde! Si bien puede que no sea la más hábil su determinación es inspiradora además de ser una estudiante alegre, extremadamente optimista, amable y muy sociable.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "140",
+        "Cumpleaños": "27 de febrero",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-rice-shower",
+      "historia": "buscando-un-proposito",
+      "nombre": "Rice Shower",
+      "titulo": "La asesina de sueños",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/rice.jpg",
+      "descripcion": "Tiene el cabello largo y ondulado de color marrón oscuro castaño con un flequillo largo que le cubre casi por completo el ojo derecho. Sus ojos son de color púrpura violeta, orejas largas y su cola son de color castaño oscuro mientras que en su oreja derecha lleva un adorno con un sombrero pequeño de color azul oscuro decorado con una rosa azul.",
+      "historia_personal": "Rice Shower entra a Tracen buscando aprobación, pero al ganar carreras importantes que el público no quería que gane provoco que la rechazaran y fuera apoda como la <<Asesina de Leyendas>>. Deprimida por el rechazo intenta retirarse, pero con ayuda de su entrenador y sus rivales vuelve a competir, demostrando su esfuerzo hasta ganarse el respeto del público y cambiar su imagen a la de una heroína.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "145",
+        "Cumpleaños": "5 marzo",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+  
+    {
+      "id": "busc-miyabi-oshizora",
+      "historia": "buscando-un-proposito",
+      "nombre": "Miyabi Oshizora",
+      "titulo": "La uma egoista",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/miyabi.png",
+      "descripcion": "Uma joven, de cuerpo frágil, siempre última en sus carreras. Es ingenua, tenaz y capaz de enormes sacrificios. Cuando despierta su <<zona>> libera un aura verde que luego pasa a rosa y blanca.",
+      "historia_personal": "Su madre fue una corredora que murió de una enfermedad degenerativa, y su padre que era médico perdió la alegría desde entonces. Entró a Tracen para devolverle la sonrisa a su padre y al convivir con su Entrenadora decide tambien devolversela, convencida de que el dolor es el precio de la victoria y no le importa soporta el entrenamiento por más duro que sea.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,40",
+        "Cumpleaños": "12 de febrero",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-gentildonna",
+      "historia": "buscando-un-proposito",
+      "nombre": "Gentildonna",
+      "titulo": "La reina eterna - Dama de hierro",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/gentil.jpg",
+      "descripcion": "Tiene el cabello castaño oscuro muy largo y liso, dividido en dos coletas bajas con un flequillo recto en la frente y dos mechones largos a los lados. Sus ojos son grandes de color rojo, orejas largas y cola de caballo de color castaño oscuro mientras que en su oreja derecha lleva un adorno redondo de color rojo con bordes dorados. Gentildonna es una de las umas mas fuertes que hay debido a que puede aplastar bolas de hierro hasta que tengan un tamaño de pelota de tennis",
+      "historia_personal": "Posee una fuerza física enorme que a menudo oculta tras una fachada de elegancia y buenos modales. Es una de las ganadoras de la triple ademas de tener su rivalidad contra Orfevre y Gold Ship.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "167 cm",
+        "Cumpleaños": "20 de febrero",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+         {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-agnes-digital",
+      "historia": "buscando-un-proposito",
+      "nombre": "Agnes Digital",
+      "titulo": "Otaku todoterreno",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/digital.webp",
+      "descripcion": "Tiene el cabello largo de color rosa con un peinado en dos coletas altas a los lados con puntas curvadas hacia arriba y un flequillo sobre la frente, sus ojos son de color azul claro violeta, sus orejas y cola son del mismo color rosa que su cabello mientras en la parte superior de la cabeza lleva un moño gigante amarillo con una gema roja en el centro. ",
+      "historia_personal": "Entra a Tracen por su obsesión extrema hacia las Umamusume, compitiendo en las pistas para ver a sus ídolos desde el mejor lugar posible. Posee un talento increíble que le permite adaptarse a cualquier superficie en las pistas, tanto en césped como en tierra. ",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "143 cm",
+        "Cumpleaños": "15 de mayo",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-agnes-taychon",
+      "historia": "buscando-un-proposito",
+      "nombre": "Agnes Taychon",
+      "titulo": "El Fantasma de la Triple Corona",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/taychon.jpg",
+      "descripcion": "Tiene el cabello corto de color castaño claro desordenado con un mechón largo cayendo entre los ojos, ojos de color rojo intenso con pupilas rasgadas y ojeras marcadas. Lleva una bata blanca de laboratorio sobre su uniforme y un pendiente en la oreja izquierda con un carácter excéntrica y obsesivo hacia la ciencia. ",
+      "historia_personal": "Entra a Tracen no por los trofeos, sino para usar las carreras como un laboratorio de pruebas. Es una científica obsesionada con llevar el potencial físico de las chicas caballo al límite absoluto a través de experimentos, fórmulas y pociones cuestionables que ella misma elabora y prueba en sí misma o en sus compañeros. Experimentos que casi siempre provocan unas pequeñas explosiones",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "159 cm",
+        "Cumpleaños": "13 de abril",
+        "Ocupación": "Estudiante cientifica y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "busc-esmerald",
+      "historia": "buscando-un-proposito",
+      "nombre": "Esmerald",
+      "titulo": "Entrenadora de la familia Satono",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/satono.png",
+      "descripcion": "Chica de cabello y ojos verdes que trabaja como maid y asistente de la familia Satono. Es amable, trabajadora y muy buena cocinera, aunque suele ser algo despistada y un poco impulsiva, sobre todo con su rival Sao, pero se esfuerza y no se rinde.",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,65",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    
+    {
+      "id": "busc-feinberg-agnes",
+      "historia": "buscando-un-proposito",
+      "nombre": "Feinberg Agnes",
+      "titulo": "La Uma entrenadora cientifica",
+      "avatar": "",
+      "arte": "imagenes/arte/PropositoPersonajes/feinberg.png",
+      "descripcion": "Chica de pelo castaño y largo con una personalidad amable, curiosa y algo ingenua, conservando sus conocimientos de ciencia y medicina.Lleva saco gris oscuro, camisa verde oscuro con botones y una cadena plateada con una piedra verde incrustada..    ",
+      "historia_personal": "Umamusume que se hace entrenadora porque le alegra ver cómo las Umamusume cumplen sus sueños, y quiere ayudarlas a cumplirlos. Es muy estudiosa y se compromete con las investigaciones y las unas a su cargo, pero carga con un dolor y guarda recuerdos que no son del todo suyos. ",
+      "datos": {
+        "Edad": "21",
+        "Altura": "1,70",
+        "Cumpleaños": "23 de septiembre",
+        "Ocupación": "Entrenador y medico"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-tsubasa-ozora",
+      "historia": "capitan-tsubasa",
+      "nombre": "Tsubasa Ozora",
+      "titulo": "Genio del fútbol",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/tsubasa.jpg",
+      "descripcion": "Niño alegre, entusiasta, nunca se separa de su balón y lo considera su mejor amigo. Entrena sin cansarse, es de buen corazón y tiene un tiro muy potente.",
+      "historia_personal": "Vive con su madre, Natsuko, y de pequeño un balón lo salvó de ser atropellado. Se muda a la prefectura de Shizuoka, donde Ishisaki es su primer amigo y en el futuro conoce a Roberto quien lo entrena. Reta a Genzo Wakabayashi y con el pasar del tiempo se hace el capitán del Nakatsu.  ",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "145 cm",
+        "Cumpleaños": "28 de julio",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-tsukushi",
+      "historia": "capitan-tsubasa",
+      "nombre": "Tsukush Takahashi",
+      "titulo": "El jugador limitado",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/takahashi.png",
+      "descripcion": "Compañero de Ishisaki y Tsubasa. Es tranquilo, serio y algo melancólico pero amable y muy humilde además de que siempre resta mérito a lo que hace. Tiene un tiro de trayectoria curva muy difícil de detener y juega como arquero y por su limitada condición de delantero por unos minutos.",
+      "historia_personal": "Al llegar a la primaria se hizo amigo de Ishisaki, era muy bueno en el fútbol, pero un problema de corazón le impide jugar más de diez o quince minutos. Una mala experiencia en una final lo hizo querer dejar el fútbol que desde entonces carga con la culpa. Se intento alejar del equipo, pero gracias a Ishisaki, mas con el ánimo de Nana y la llegada de Tsubasa, empieza a creer de nuevo y decide darlo todo mientras pueda.",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "145 cm",
+        "Cumpleaños": "4 de abril",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+         {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-ryo-ishisaki",
+      "historia": "capitan-tsubasa",
+      "nombre": "Ryo Ishisaki",
+      "titulo": "Bloqueo Facial",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/ishisaki.jpg",
+      "descripcion": "Compañero de clase y mejor amigo de Tsubasa. Es amable, bromista y algo flojo, organiza al grupo y se acuerda de los detalles que los demás olvidan.",
+      "historia_personal": "Es el primero en hacerse amigo de Tsubasa y quiere derrotar al Shutetsu ya que fueron derrotados por tres años seguidos. Es muy cercano a Tsukushi además de ser quien lo animó a no dejar el fútbol, proteger a los suyos y se esfuerza más de lo que aparenta.",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "149 cm",
+        "Cumpleaños": "1 de abril",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-nana-shimura",
+      "historia": "capitan-tsubasa",
+      "nombre": "Nana Shimura (beta version)",
+      "titulo": "La genia prodigia",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/nana.png",
+      "descripcion": "Amiga de Tsukushi, compañera de curso, jugadora del equipo femenino del Nakatsu con carácter alegre, enérgica, muy competitiva y algo torpe.",
+      "historia_personal": "Hace dos años fue una de las mejores jugadoras de su escuela y llevó a su equipo a la final, pero un error suyo les costó el partido y su rival Hiromi se burló de ella, pero Tsukushi la animo siendo la razón del porque casi siempre están juntos. ",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "1,36 cm",
+        "Cumpleaños": "5 de octubre",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-taro-misaki",
+      "historia": "capitan-tsubasa",
+      "nombre": "Taro Misaki",
+      "titulo": "Artista del campo",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/misaki.jpg",
+      "descripcion": "Compañero y jugador del Nankatsu, mediocampista ofensivo muy talentoso con un carácter alegre, humilde, sumamente habilidoso con el balón y poseedor de una gran visión de juego.",
+      "historia_personal": " Llegó al Nankatsu debido a los constantes viajes de su padre pintor. Se unió al equipo justo a tiempo para el torneo nacional de primaria, donde formó la legendaria <<Dueto Dorado>> ",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "1,46 cm",
+        "Cumpleaños": "5 de mayo",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+         {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-genzo-wakabayashi",
+      "historia": "capitan-tsubasa",
+      "nombre": "Genzo Wakabayashi",
+      "titulo": "Portero Prodigioso",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/genzo.jpg",
+      "descripcion": "Portero del Shutetsu. Es muy arrogante, seguro de sí mismo y de carácter fuerte, con una confianza que a veces lo hace descuidarse. Es un portero excepcional y casi nadie le había anotado.",
+      "historia_personal": "Vive en una mansión y entrena en el parque con su equipo, al que ayuda a conseguir la cancha tras humillar a los adultos que se la disputaban. Se encuentra con Tsubasa gracias a un balón con un mensaje y acepta un reto con él.",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "161 cm",
+        "Cumpleaños": "7 de diciembre",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-shingo-takasugi",
+      "historia": "capitan-tsubasa",
+      "nombre": "Shingo Takasugi",
+      "titulo": "La defensa del shutetsu",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/shingo.jpg",
+      "descripcion": "Defensa del Shutetsu, es alto, corpulento y muy fuerte, apodado el <<gigante>>.",
+      "historia_personal": "Fue el líbero del Shutetsu y sigue a Wakabayashi por su confianza en él. Se pone delante de rivales como Tsubasa y Hyuga para frenarlos y no se rinde fácil que con el tiempo se convierte en la defensa del Nakatsu.",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "1,68 cm",
+        "Cumpleaños": "10 de octubre",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-mamoru-aizawa",
+      "historia": "capitan-tsubasa",
+      "nombre": "Mamoru Aizawa",
+      "titulo": "El mediocampista del shutetsu",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/aizawa.jpg",
+      "descripcion": "Elegante mediocampista ofensivo y creador de juego del Shutetsu y del Nankatsu, de cabello largo, famoso por su excelente técnica, control del balón y su espectacular capacidad para saltar y rematar de cabeza",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "155 cm",
+        "Cumpleaños": "20 de diciembre",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-teppei-kisugi",
+      "historia": "capitan-tsubasa",
+      "nombre": "Teppei Kisugi",
+      "titulo": "Delantero del Shutetsu",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/kisugi.jpg",
+      "descripcion": "Delantero y goleador del Shutetsu, parte del cuarteto con Takasugi, Aizawa y Taki. Es disciplinado, reservado y muy leal a su capitán ademas de que siempre encuentra la forma de llegar al arco.",
+      "historia_personal": ": Confía ciegamente en Wakabayashi y se disculpa cuando el equipo falla. No entiende por qué su capitán casi no habla con nadie, pero se esfuerza en apoyarlo. Combina con Taki y Aizawa para romper defensas y aprovechar el espacio libre.",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "145 cm",
+        "Cumpleaños": "15 de mayo",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+            {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-hajime-taki",
+      "historia": "capitan-tsubasa",
+      "nombre": "Hajime Taki",
+      "titulo": "El mediocampista del shutetsu y Rey de las asistencias",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/taki.jpg",
+      "descripcion": "Mediocampista del Shutetsu, conocido como el <<rey de las asistencias>> Es rápido, ágil de pies, competitivo y a veces demasiado confiado.",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "1,43 cm",
+        "Cumpleaños": "8 de agosto",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+     {
+      "id": "tsub-kojiro-hyuga",
+      "historia": "capitan-tsubasa",
+      "nombre": "Kojiro Hyuga",
+      "titulo": "El tigre de japon",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/hyuga.png",
+      "descripcion": "Capitán y delantero del Meiwa. Es arrogante, brusco y muy competitivo: juega con fuerza y no le importa empujar o dar un codazo para ganar. Se cree el mejor jugador y detesta perder, sobre todo contra Tsubasa.",
+      "historia_personal": "Se esfuerza por salir de una situación familiar difícil, y los cazatalentos del colegio Toho lo reclutan con la promesa de ayudar a su familia si gana el campeonato. Entrena un año entero para derrotar a Tsubasa y demostrarle <<el verdadero espíritu deportivo>> y esa meta lo empuja a no rendirse sim embargo detrás de su dureza hay una enorme necesidad de ganar para salvar a los suyos.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "158 cm",
+        "Cumpleaños": "17 de agosto",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+          {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-takeshi-sawada",
+      "historia": "capitan-tsubasa",
+      "nombre": "Takeshi Sawada",
+      "titulo": "Técnico Diminuto",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/takeshi.jpg",
+      "descripcion": "Mediocampista del Meiwa y compañero de Hyuga. Es pequeño, técnico y brillante en las asistencias. Respeta mucho a su capitán, pero no duda en decirle sus errores.",
+      "historia_personal": "Entró al Meiwa después de que Hyuga le diera una oportunidad cuando no lo aceptaban en las pruebas. El entrenador Kira lo formó desde entonces y se enteró de la situación familiar de Hyuga, así que se prometió ganar por él.",
+      "datos": {
+        "Edad": "10 años",
+        "Altura": "1,36 cm",
+        "Cumpleaños": "2 de enero",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-ken-wakashimazu",
+      "historia": "capitan-tsubasa",
+      "nombre": "Ken Wakashimazu",
+      "titulo": "El portero karateca",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/ken.jpg",
+      "descripcion": "Espectacular portero estrella del Meiwa FC y caracterizado por su agilidad, reflejos extraordinarios y un fuerte sentido de la lealtad hacia Hyuga",
+      "historia_personal": "Inicialmente iba a ser delantero, pero decidió convertirse en guardameta para ayudar a su equipo. Tras recuperarse de un accidente de tráfico, debutó de forma increíble en las semifinales del torneo de primaria. En la gran final contra el Nankatsu, defendió la portería usando técnicas de karate heredadas de su familia como impulsarse en los postes. ",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "159 cm",
+        "Cumpleaños": "29 de diciembre",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+          {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-kawata",
+      "historia": "capitan-tsubasa",
+      "nombre": "Kawata Hiromi",
+      "titulo": "La doncella de cañon",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/kawata.png",
+      "descripcion": "Delantera de un equipo rival, arrogante, burlona y muy segura de sí misma. Va siempre con su amiga Tami.",
+      "historia_personal": "Humilló a Nana hace dos años en una final y desde entonces se burla de que <<nunca la vencerá>>. Para ella perder no es una opción, y no soporta que Nana mejore.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,40 cm",
+        "Cumpleaños": "4 de septiembre",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+        {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    
+    {
+      "id": "tsub-tami",
+      "historia": "capitan-tsubasa",
+      "nombre": "Tami Manako",
+      "titulo": "Mediocampista inesperada",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/tami.png",
+      "descripcion": "Amiga y compañera de Hiromi. Es un poco mas tranquila y más sensata que su amiga kawata.",
+      "historia_personal": "Acompaña a Hiromi en sus visitas a los partidos y le recuerda las obligaciones, como volver al tren o reunirse con el equipo.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,46 cm",
+        "Cumpleaños": "7 de agosto",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+         {
+          "titulo": "Capitan Tsubasa una nueva historia",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "tsub-rin",
+      "historia": "capitan-tsubasa",
+      "nombre": "Rin Nakano",
+      "titulo": "Entrenadora de futbol",
+      "avatar": "",
+      "arte": "imagenes/arte/TsubasaPersonajes/rin.jpg",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-tn-midoriya",
+      "historia": "camino-heroe",
+      "nombre": "Tn Midoriya",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-kaori",
+      "historia": "camino-heroe",
+      "nombre": "Kaori",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-chimozuke",
+      "historia": "camino-heroe",
+      "nombre": "Chimozuke",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-oshino",
+      "historia": "camino-heroe",
+      "nombre": "Oshino",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-aoko-shizuka",
+      "historia": "camino-heroe",
+      "nombre": "Aoko Shizuka",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-shiroko",
+      "historia": "camino-heroe",
+      "nombre": "Shiroko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "cami-magia-estelar",
+      "historia": "camino-heroe",
+      "nombre": "Magia Estelar",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-chizuru-nanakase",
+      "historia": "precio-perfeccion",
+      "nombre": "Chizuru Nanakase",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-allen-nanakase",
+      "historia": "precio-perfeccion",
+      "nombre": "Allen Nanakase",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-aiko-takahashi",
+      "historia": "precio-perfeccion",
+      "nombre": "Aiko Takahashi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-yoyoko",
+      "historia": "precio-perfeccion",
+      "nombre": "Yoyoko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-akubi",
+      "historia": "precio-perfeccion",
+      "nombre": "Akubi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-yuyu-uchida",
+      "historia": "precio-perfeccion",
+      "nombre": "Yuyu Uchida",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-hunko-honjo",
+      "historia": "precio-perfeccion",
+      "nombre": "Hunko Honjo",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-gin",
+      "historia": "precio-perfeccion",
+      "nombre": "Gin",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-hiroi",
+      "historia": "precio-perfeccion",
+      "nombre": "Hiroi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "prec-shima",
+      "historia": "precio-perfeccion",
+      "nombre": "Shima",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-ikari-oshi-tn",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Ikari Oshi Tn",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-meisho-doto",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Meisho Doto",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-tamamo-cross",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Tamamo Cross",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-tm-opera",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Tm. Opera",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-ikari-sakura",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Ikari Sakura",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-rudolf",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Rudolf",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-anaxa-feinberg",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Anaxa Feinberg",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "ecos-super-creek",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Super Creek",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "amor-still-in-love",
+      "historia": "amor-monstruo",
+      "nombre": "Still In Love",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "amor-sakura-ikari",
+      "historia": "amor-monstruo",
+      "nombre": "Sakura Ikari",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "saga-kusanagi-tokisaki",
+      "historia": "saga-reencarnacion",
+      "nombre": "Kusanagi Tokisaki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "saga-yuki",
+      "historia": "saga-reencarnacion",
+      "nombre": "Yuki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "saga-jotaro",
+      "historia": "saga-reencarnacion",
+      "nombre": "Jotaro",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-kusanagi-kamado",
+      "historia": "luz-esperanza",
+      "nombre": "Kusanagi Kamado",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-emilia-kamado",
+      "historia": "luz-esperanza",
+      "nombre": "Emilia Kamado",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-hitori-gotou",
+      "historia": "luz-esperanza",
+      "nombre": "Hitori Gotou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-nijika-ijichi",
+      "historia": "luz-esperanza",
+      "nombre": "Nijika Ijichi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-ryo-yamada",
+      "historia": "luz-esperanza",
+      "nombre": "Ryo Yamada",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-kita-ikuyo",
+      "historia": "luz-esperanza",
+      "nombre": "Kita Ikuyo",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-kotetsu",
+      "historia": "luz-esperanza",
+      "nombre": "Kotetsu",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-ayato",
+      "historia": "luz-esperanza",
+      "nombre": "Ayato (Tn Hiroko)",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-seika-ijichi",
+      "historia": "luz-esperanza",
+      "nombre": "Seika Ijichi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-pa-san",
+      "historia": "luz-esperanza",
+      "nombre": "Pa San",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-hiroi-kikuri",
+      "historia": "luz-esperanza",
+      "nombre": "Hiroi Kikuri",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "luz-zackdock",
+      "historia": "luz-esperanza",
+      "nombre": "Zackdock",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-tn-ozora",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Tn Ozora",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-alya-mikhailovna-kujou",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Alya Mikhailovna Kujou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-masha-mikhailovna",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Masha Mikhailovna",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-yuki-suou",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Yuki Suou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-yoshinori",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Yoshinori",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-gotou",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Gotou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-karen",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Karen",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-ayano",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Ayano",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-taniyama",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Taniyama",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-miyamae",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Miyamae",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-sora-kimichi",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Sora Kimichi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-saito",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Saito",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-extra-kun",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Extra-kun",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "mens-capitan",
+      "historia": "mensaje-arrepentimiento",
+      "nombre": "Capitán",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "egoi-tn",
+      "historia": "egoista-roshidere",
+      "nombre": "Tn",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "egoi-alya",
+      "historia": "egoista-roshidere",
+      "nombre": "Alya",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "egoi-masha",
+      "historia": "egoista-roshidere",
+      "nombre": "Masha",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-tn-tokisaki",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Tn Tokisaki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-satoru-haise",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Satoru Haise",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-allen-nanakase",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Allen Nanakase",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-nijika-ijichi",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Nijika Ijichi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-ryo-yamada",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Ryo Yamada",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-hitori-gotou",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Hitori Gotou",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-sasaki-tsuguko",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Sasaki Tsuguko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-emiko-shinomiya",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Emiko Shinomiya",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-senjuro-kimiko",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Senjuro Kimiko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-toho-yamagawa",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Toho Yamagawa",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-ai-oshino",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Ai Oshino",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-nakano-mika",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Nakano Mika",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-nene-ohyama",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Nene Ohyama",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-posion-yami",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Posion Yami",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-aiko-sato",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Aiko Sato",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "razo-aiko-takashi",
+      "historia": "razon-proteger-sonrisas",
+      "nombre": "Aiko Takashi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-tn-urami",
+      "historia": "significado-vida",
+      "nombre": "Tn Urami",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-utena-hiragi",
+      "historia": "significado-vida",
+      "nombre": "Utena Hiragi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-miyuki-yamazaki",
+      "historia": "significado-vida",
+      "nombre": "Miyuki Yamazaki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-kiwi-aragata",
+      "historia": "significado-vida",
+      "nombre": "Kiwi Aragata",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-morino-korisu",
+      "historia": "significado-vida",
+      "nombre": "Morino Korisu",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-tatsumi-yukine",
+      "historia": "significado-vida",
+      "nombre": "Tatsumi Yukine",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-minakami-sayo",
+      "historia": "significado-vida",
+      "nombre": "Minakami Sayo",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-tenkawa-kaoruko",
+      "historia": "significado-vida",
+      "nombre": "Tenkawa Kaoruko",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-hanabishi-haruka",
+      "historia": "significado-vida",
+      "nombre": "Hanabishi Haruka",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-shiroko-emiya",
+      "historia": "significado-vida",
+      "nombre": "Shiroko Emiya",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-tomo-itsuki",
+      "historia": "significado-vida",
+      "nombre": "Tomo Itsuki",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-matama-akoya",
+      "historia": "significado-vida",
+      "nombre": "Matama Akoya",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "sign-nemo-anemo",
+      "historia": "significado-vida",
+      "nombre": "Nemo Anemo",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "detr-capitan",
+      "historia": "detras-frialdad",
+      "nombre": "Capitán",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "detr-oshi",
+      "historia": "detras-frialdad",
+      "nombre": "Oshi",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+    {
+      "id": "detr-masha",
+      "historia": "detras-frialdad",
+      "nombre": "Masha",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "",
+      "descripcion": "¿?",
+      "historia_personal": "",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "¿?",
+        "Cumpleaños": "¿?",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [],
+      "opiniones": []
+    }
+  ]
+}

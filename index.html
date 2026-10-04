@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Drysluckverso</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Nunito+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=3">
+</head>
+<body>
+  <div class="stars" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="brand" href="#inicio" id="site-name">Drysluckverso</a>
+    <nav class="nav" aria-label="Secciones">
+      <a class="nav-link" data-view="inicio" href="#inicio">Inicio</a>
+      <a class="nav-link" data-view="noticias" href="#noticias">Noticias</a>
+      <a class="nav-link" data-view="personajes" href="#personajes">Personajes</a>
+      <a class="nav-link" data-view="multiverso" href="#multiverso">Multiverso</a>
+      <a class="nav-link" data-view="media" href="#media">Op/end , Musica , extras</a>
+    </nav>
+    <a class="cta-top" href="#inicio" data-scroll="historias-actuales">Leer ahora</a>
+  </header>
+
+  <div id="error" class="error" hidden></div>
+
+  <!-- ============ INICIO ============ -->
+  <main id="view-inicio" class="view">
+    <section class="hero">
+      <div class="hero-bg" id="hero-bg"></div>
+      <div class="hero-art" id="hero-art-wrap" hidden><img id="hero-art" alt=""></div>
+      <div class="hero-content">
+        <h1 id="hero-title">Bienvenido</h1>
+        <p class="hero-lema" id="hero-lema"></p>
+        <div id="hero-welcome" class="hero-welcome"></div>
+        <div class="hero-actions">
+          <a class="btn gold" href="#inicio" data-scroll="historias-actuales">Ver historias</a>
+          <a class="btn ghost" href="#personajes">Conocer personajes</a>
+        </div>
+        <div class="social" id="hero-social"></div>
+      </div>
+      <a class="scroll-hint" href="#inicio" data-scroll="historias-actuales">Desliza</a>
+    </section>
+
+    <section class="wrap" id="historias-actuales">
+      <h2 class="section-title">Historias disponibles</h2>
+      <p class="section-sub">Elige una y empieza a leerla donde prefieras.</p>
+      <div class="story-grid" id="story-grid"></div>
+    </section>
+  </main>
+
+  <!-- ============ NOTICIAS ============ -->
+  <main id="view-noticias" class="view" hidden>
+    <section class="wrap narrow">
+      <h2 class="section-title">Noticias</h2>
+      <p class="section-sub">Capítulos nuevos, cambios y avisos sobre las historias.</p>
+      <div class="news-list" id="news-list"></div>
+    </section>
+  </main>
+
+  <!-- ============ PERSONAJES ============ -->
+  <main id="view-personajes" class="view" hidden>
+    <div class="pj-layout">
+      <div class="pj-bg" id="pj-bg"></div>
+
+      <aside class="rail" aria-label="Historias">
+        <button class="rail-arrow" id="rail-up" aria-label="Historias anteriores">&#9650;</button>
+        <div class="rail-list" id="rail-list"></div>
+        <button class="rail-arrow" id="rail-down" aria-label="Historias siguientes">&#9660;</button>
+      </aside>
+
+      <div class="pj-stage">
+        <div class="pj-art-wrap" id="pj-art-wrap">
+          <img id="pj-art" alt="">
+        </div>
+
+        <div class="pj-card">
+          <div class="pj-card-head">
+            <div>
+              <h2 id="pj-name">Personajes</h2>
+              <p class="pj-title" id="pj-title"></p>
+            </div>
+          </div>
+          <div class="pj-card-body">
+            <p id="pj-desc"></p>
+            <p id="pj-empty" class="hint" hidden>Esta historia todavía no tiene personajes registrados.</p>
+          </div>
+          <div class="pj-card-foot">
+            <button class="thumb-arrow" id="thumb-prev" aria-label="Anterior">&#10094;</button>
+            <div class="thumbs" id="pj-thumbs"></div>
+            <button class="thumb-arrow" id="thumb-next" aria-label="Siguiente">&#10095;</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="pj-details">
+      <div class="panel" id="card-story">
+        <h3 id="story-h3">Historia</h3>
+        <p id="story-syn" class="muted"></p>
+        <div class="links" id="story-links"></div>
+      </div>
+
+      <div id="char-cards">
+        <div class="two-col">
+          <div class="panel">
+            <h3>Su historia</h3>
+            <div id="char-bio" class="prose"></div>
+          </div>
+          <div class="panel">
+            <h3>Datos</h3>
+            <dl id="char-data" class="datalist"></dl>
+            <h3 class="mt">Aparece en</h3>
+            <ul id="char-apps" class="linklist"></ul>
+          </div>
+        </div>
+
+        <div class="panel">
+          <h3>Lo que piensa de los demás</h3>
+          <p class="muted">Toca a un personaje para ver qué opina <span id="op-who"></span> sobre él o ella.</p>
+          <div class="chips" id="op-chips"></div>
+          <div class="dialogs" id="op-out" aria-live="polite"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============ MULTIVERSO ============ -->
+  <main id="view-multiverso" class="view" hidden>
+    <div class="mv">
+      <div class="mv-head">
+        <h2>Multiverso</h2>
+        <div class="seg" role="tablist">
+          <button class="seg-btn active" id="tab-mapa" role="tab">Mapa</button>
+          <button class="seg-btn" id="tab-cron" role="tab">Cronología</button>
+        </div>
+      </div>
+
+      <div class="mv-body" id="mv-body">
+        <div class="mv-map" id="mv-map">
+          <div class="mv-canvas">
+            <div class="orbits" aria-hidden="true">
+              <i style="--s:78%"></i><i style="--s:52%"></i><i style="--s:110%"></i>
+            </div>
+            <svg class="mv-lines" id="mv-lines" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"></svg>
+            <div id="mv-nodes"></div>
+          </div>
+        </div>
+
+        <aside class="mv-panel" id="mv-panel">
+          <p class="hint" id="mv-hint">Toca un mundo para ver de qué trata y con cuáles se conecta.</p>
+          <div id="mv-info" hidden>
+            <h3 id="mv-title"></h3>
+            <p class="mv-meta" id="mv-meta"></p>
+            <p id="mv-syn"></p>
+            <div class="links" id="mv-links"></div>
+            <div class="mv-groups" id="mv-groups"></div>
+            <p class="mv-gnote" id="mv-gnote"></p>
+            <p class="mv-sub">Conectada con</p>
+            <div class="conn-list" id="mv-conn"></div>
+            <a class="btn gold small" id="mv-chars" href="#personajes">Ver personajes</a>
+          </div>
+        </aside>
+      </div>
+
+      <ol class="timeline" id="timeline" hidden></ol>
+    </div>
+  </main>
+
+  <!-- ============ MEDIA ============ -->
+  <main id="view-media" class="view" hidden>
+    <section class="wrap">
+      <h2 class="section-title">Música y video</h2>
+      <p class="section-sub">Openings, canciones y videos de las historias.</p>
+      <div class="seg" id="media-filters"></div>
+      <div class="media-grid" id="media-grid"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p id="footer-text">Historias originales. Todos los derechos reservados.</p>
+  </footer>
+
+  <div class="modal" id="modal" hidden>
+    <div class="modal-box">
+      <button class="modal-close" id="modal-close" aria-label="Cerrar">&times;</button>
+      <iframe id="modal-frame" title="Reproductor" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <script src="js/app.js?v=3"></script>
+</body>
+</html>

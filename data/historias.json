@@ -1,0 +1,384 @@
+{
+  "historias": [
+    {
+      "id": "RanchiBizarreAventure",
+      "titulo": "Ranchi Bizarre Aventure",
+      "icono": "imagenes/historias/ranchi-bizarre-aventure.webp",
+      "portada": "imagenes/historias/ranchi-bizarre-aventure.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, emotiva",
+      "epoca": "Año 2023",
+      "orden": 1,
+      "sinopsis": "En un mundo donde la humanidad puede adoptar las apariencias y habilidades de personajes de la ficción, un joven llamado Ramchi funda la ciudad de Excalesol y lidera a los Hijos de Omnia, un grupo protector empuñado con un misterioso poder. Para defender su hogar, enfrentarán organizaciones secretas, amenazas capaces de manipular o robar la energía de Omnia, traiciones internas y dolorosas pérdidas en su búsqueda de artefactos prohibidos. Sin embargo, su mayor desafío será descubrir la verdad detrás de un secreto oscuro y cíclico que amenaza la existencia misma de su mundo.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        },
+        {
+          "plataforma": "YouTube",
+          "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 10,
+        "y": 16
+      }
+    },
+    {
+      "id": "buscando-un-proposito",
+      "titulo": "Buscando un propósito",
+      "icono": "imagenes/historias/buscando-un-proposito.webp",
+      "portada": "imagenes/historias/buscando-un-proposito.webp",
+      "fondo": "",
+      "estado": "Finalizado",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año 2025",
+      "orden": 2,
+      "sinopsis": "Tn Kawaragi nunca soñó con ser entrenador, ni siquiera entiende por qué las Uma Musume corren con tanta pasión. Pero su vida da un giro inesperado cuando, contra su voluntad, es obligado a tomar el puesto. Lo que empieza como una tarea aburrida y sin sentido pronto se convierte en un viaje para descubrir la verdadera razón detrás de las carreras.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 30,
+        "y": 14
+      }
+    },
+    {
+      "id": "capitan-tsubasa",
+      "titulo": "Capitán Tsubasa: una nueva historia",
+      "icono": "imagenes/historias/capitan-tsubasa.webp",
+      "portada": "imagenes/historias/capitan-tsubasa.webp",
+      "fondo": "",
+      "estado": "Cancelada",
+      "genero": "Fanfic, Deportes",
+      "epoca": "Año 2023",
+      "orden": 3,
+      "sinopsis": "Esta historia es un fancfic de capitan stubasa  o algo así  que se me ocurrio metiendo personsajes que voy a crear  y los que ya conocemos y de otros animes relacionados a este deporte, soy principiante en esto de hacer historias pero intentare hacer que la historia se desarrolle ya sin muchos rodeos espero que les guste esta historia. Los personsajes no son mios si no de Yoichi Takahashi",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 28,
+        "y": 90
+      }
+    },
+    {
+      "id": "camino-heroe",
+      "titulo": "El camino para ser un héroe",
+      "icono": "imagenes/historias/camino-heroe.webp",
+      "portada": "imagenes/historias/camino-heroe.webp",
+      "fondo": "",
+      "estado": "En pausa",
+      "genero": "Fanfic, drama, romance, peleas",
+      "epoca": "Año 2025",
+      "orden": 4,
+      "sinopsis": "Desde su niñez Tn Midoriya ha admirado a las chicas mágicas soñando con convertirse en un héroe como ellas pero se enfrenta a la dura realidad de no tener magia, lo normal.  Enfrentando el rechazo hasta que un día tiene la oportunidad de hacerlo realidad. Midoriya deberá encontrar la manera de seguir persiguiendo su sueño. El comienzo del nacimiento de un héroe.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 14,
+        "y": 44
+      }
+    },
+    {
+      "id": "precio-perfeccion",
+      "titulo": "El precio de la perfección",
+      "icono": "imagenes/historias/precio-perfeccion.webp",
+      "portada": "imagenes/historias/precio-perfeccion.webp",
+      "fondo": "",
+      "estado": "Finalizado",
+      "genero": "Fanfic, superacion, poesia, drama, romance",
+      "epoca": "Año 2024",
+      "orden": 5,
+      "sinopsis": "En una familia donde la grandeza se mide por la frialdad y la perfección, dos hermanos crecieron bajo la sombra de. En un familia donde las emociones son vistas como debilidades y las conexiones humanas como distracciones, ambos hermanos tomarán caminos divergentes donde uno deberá decidir entre perpetuar un legado de indiferencia o abrazar la autenticidad que su hermana siempre defendió.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 46,
+        "y": 76
+      }
+    },
+    {
+      "id": "ecos-corazon-fugaz",
+      "titulo": "Ecos de un corazón fugaz",
+      "icono": "imagenes/historias/ecos-corazon-fugaz.webp",
+      "portada": "imagenes/historias/ecos-corazon-fugaz.webp",
+      "fondo": "",
+      "estado": "No disponible",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año ¿?",
+      "orden": 6,
+      "sinopsis": "En la Academica Tracen un joven comienza a trabajar temporalmente en las instalaciones, su vida da un giro cuando conoce a las umas y quedando maravilla como superan sus dificultades e inseguridades. Lo que comienza como una simple amistad pronto se convierte en algo más profundo, juntos descubrirán que las victorias más importantes no siempre se miden en la meta y lo que significa correr con el corazón.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad / no disponible por ahora",
+          "url": "No disponible"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 52,
+        "y": 16
+      }
+    },
+    {
+      "id": "amor-monstruo",
+      "titulo": "El amor que me convirtió en monstruo",
+      "icono": "imagenes/historias/amor-monstruo.webp",
+      "portada": "imagenes/historias/amor-monstruo.webp",
+      "fondo": "",
+      "estado": "Muy pronto",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año 2026",
+      "orden": 7,
+      "sinopsis": "Todas veen a Still in Love como una yandere pero alguna vez te haz puesto pensar ¿Que hay detras de esa faceta?.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/user/Drysluck09"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 40,
+        "y": 42
+      }
+    },
+    {
+      "id": "saga-reencarnacion",
+      "titulo": "La saga de la reencarnación",
+      "icono": "imagenes/historias/saga-reencarnacion.webp",
+      "portada": "imagenes/historias/saga-reencarnacion.webp",
+      "fondo": "",
+      "estado": "Finalizado",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año 2025",
+      "orden": 8,
+      "sinopsis": "Una mentira puede parece inofensiva pero esa mentira puede crecer hasta que llega un momento donde sale de nuestras manos.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/352330885-la-saga-de-la-reencarnaci%C3%B3n-one-shot"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 74,
+        "y": 30
+      }
+    },
+    {
+      "id": "luz-esperanza",
+      "titulo": "Luz de esperanza",
+      "icono": "imagenes/historias/luz-esperanza.webp",
+      "portada": "imagenes/historias/luz-esperanza.webp",
+      "fondo": "",
+      "estado": "Finalizado",
+      "genero": "Fanfic, drama, romance, reencarnacion, superacion, tristeza",
+      "epoca": "Año 2023",
+      "orden": 9,
+      "sinopsis": "En una vida pasada un adolescente luchó en vano por obtener la aprobación de una sociedad que valoraba el talento sobre todas las cosas. Después de su fallecimiento, renace en un mundo donde posee conocimiento del futuro hasta que se encuentra en la vida de unas chicas de la banda llamada Kessoku Band. A pesar de sus esfuerzos por mantenerse al margen y no alterar el curso de los eventos, se ve inexorablemente arrastrado hacia su destino. A medida que se fortalece tendrá que enfrenta a sus propios demonios, embarcándose en un viaje de autodescubrimiento y redención donde cada elección puede cambiar el destino de todos los involucrados.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 88,
+        "y": 74
+      }
+    },
+    {
+      "id": "mensaje-arrepentimiento",
+      "titulo": "Mensaje de arrepentimiento",
+      "icono": "imagenes/historias/mensaje-arrepentimiento.webp",
+      "portada": "imagenes/historias/mensaje-arrepentimiento.webp",
+      "fondo": "",
+      "estado": "Finalizado",
+      "genero": "Fanfic, drama, romance, egoismo",
+      "epoca": "Año 2025",
+      "orden": 10,
+      "sinopsis": "Tn Ozora es un joven mitad latinoamericano y japonés marcado por un pasado de dificultades. Tras mudarse a Japón se une al club de fútbol y ademas de tener compañeras como Gotou y Alya, está última habla a veces en ruso que hay veces donde le cuesta entenderla pero el también le juega el mismo juego cuando habla español.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 90,
+        "y": 50
+      }
+    },
+    {
+      "id": "egoista-roshidere",
+      "titulo": "Un egoísta en Roshidere",
+      "icono": "imagenes/historias/egoista-roshidere.webp",
+      "portada": "imagenes/historias/egoista-roshidere.webp",
+      "fondo": "",
+      "estado": "Sin estrenarse",
+      "genero": "Fanfic, drama, romance, futbol, egoismo, compañerismo",
+      "epoca": "Año ¿?",
+      "orden": 11,
+      "sinopsis": "Secuela de mensaje de arrepentimiento",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad/no disponible",
+          "url": "No disponible"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 64,
+        "y": 52
+      }
+    },
+    {
+      "id": "razon-proteger-sonrisas",
+      "titulo": "La razón para proteger sus sonrisas",
+      "icono": "imagenes/historias/razon-proteger-sonrisas.webp",
+      "portada": "imagenes/historias/razon-proteger-sonrisas.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance, harem, superacion",
+      "epoca": "Año 2025",
+      "orden": 12,
+      "sinopsis": "Tn Tokisaki lucha por encontrar su lugar al carecer de un talento destacado, abandonado por su propia familia, enfrentará desafíos, traiciones y rivalidades mientras busca su verdadero yo. En un viaje de autodescubrimiento, Tn desafiará las expectativas y encontrará amistades inesperadas en un mundo obsesionado con el éxito en un mundo donde la grandeza está determinada por las influyentes familias Nanakase, Tokisaki, Shinomiya, Yamagawa y Kimiko.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 68,
+        "y": 90
+      }
+    },
+    {
+      "id": "significado-vida",
+      "titulo": "El significado de mi vida",
+      "icono": "imagenes/historias/significado-vida.webp",
+      "portada": "imagenes/historias/significado-vida.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance, magia, garou",
+      "epoca": "Año 2024",
+      "orden": 13,
+      "sinopsis": "Nacer en un mundo donde la mayoría de la poblacion son mujeres puede parecer bueno ¿Verdad?. Tn urami enfrentará la discriminación de esto en su infancia siendo tratado como paria, A medida que crece tendrá que vivir en este mundo intentando conseguir la aprobacion mientras esta en la organizacion de Enormita.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 10,
+        "y": 72
+      }
+    },
+    {
+      "id": "detras-frialdad",
+      "titulo": "Detrás de esa frialdad",
+      "icono": "imagenes/historias/detras-frialdad.webp",
+      "portada": "imagenes/historias/detras-frialdad.webp",
+      "fondo": "",
+      "estado": "Finalizado",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año 2025",
+      "orden": 14,
+      "sinopsis": "Un estudiante tranquilo y reservado conoce a un chico extrovertido con grandes sueños de popularidad. Aunque al principio parecen opuestos, forjan una amistad única. Una historia que explorara la amistad, la traición y el peso de las decisiones en medio de una sociedad rápida para juzgar y lenta para comprender.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/388543344-detras-de-esa-frialdad-roshidere-zero"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 90,
+        "y": 12
+      }
+    }
+  ],
+  "conexiones_grupos": [
+    {
+      "nombre": "Conexión 1",
+      "nota": "",
+      "historias": [
+        "RanchiBizarreAventure",
+        "buscando-un-proposito",
+        "camino-heroe"
+      ]
+    },
+    {
+      "nombre": "Conexión 2",
+      "nota": "",
+      "historias": [
+        "ecos-corazon-fugaz",
+        "buscando-un-proposito",
+        "amor-monstruo"
+      ]
+    },
+    {
+      "nombre": "Conexión 3",
+      "nota": "",
+      "historias": [
+        "precio-perfeccion",
+        "razon-proteger-sonrisas"
+      ]
+    },
+    {
+      "nombre": "Conexión 4",
+      "nota": "",
+      "historias": [
+        "saga-reencarnacion",
+        "detras-frialdad",
+        "mensaje-arrepentimiento",
+        "egoista-roshidere"
+      ]
+    },
+    {
+      "nombre": "Conexión 5",
+      "nota": "",
+      "historias": [
+        "saga-reencarnacion",
+        "luz-esperanza"
+      ]
+    },
+    {
+      "nombre": "Conexión 6",
+      "nota": "",
+      "historias": [
+        "significado-vida",
+        "camino-heroe"
+      ]
+    }
+  ]
+}
