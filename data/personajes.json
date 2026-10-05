@@ -1334,7 +1334,7 @@
       "titulo": "La Uma entrenadora cientifica",
       "avatar": "",
       "arte": "imagenes/arte/PropositoPersonajes/feinberg.png",
-      "descripcion": "Chica de pelo castaño y largo con una personalidad amable, curiosa y algo ingenua, conservando sus conocimientos de ciencia y medicina.Lleva saco gris oscuro, camisa verde oscuro con botones y una cadena plateada con una piedra verde incrustada..    ",
+      "descripcion": "Umamusume de pelo castaño y largo con una personalidad amable, curiosa y algo ingenua, conservando sus conocimientos de ciencia y medicina.Lleva saco gris oscuro, camisa verde oscuro con botones y una cadena plateada con una piedra verde incrustada..    ",
       "historia_personal": "Umamusume que se hace entrenadora porque le alegra ver cómo las Umamusume cumplen sus sueños, y quiere ayudarlas a cumplirlos. Es muy estudiosa y se compromete con las investigaciones y las unas a su cargo, pero carga con un dolor y guarda recuerdos que no son del todo suyos. ",
       "datos": {
         "Edad": "21",
@@ -1858,199 +1858,245 @@
       "opiniones": []
     },
     {
-      "id": "prec-chizuru-nanakase",
-      "historia": "precio-perfeccion",
-      "nombre": "Chizuru Nanakase",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
       "id": "prec-allen-nanakase",
       "historia": "precio-perfeccion",
       "nombre": "Allen Nanakase",
-      "titulo": "¿?",
+      "titulo": "El prodigio de los Nanakase",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PrecioPersonajes/allen.jpg",
+      "descripcion": "Joven prodigio, fuerte en deporte y estudios, de mente fría y disciplinada. De niño es frío, orgulloso y reservado, convencido de que las emociones son una debilidad.",
+      "historia_personal": "Nace en una familia rica e influyente que solo valora el talento y desprecia la debilidad. Crece entrenado para ser perfecto, con padres que no muestran afecto y miden el amor por los logros. Su hermana Chizuru intenta mostrarle que la verdadera grandeza está en ser auténtico, pero él no la escucha hasta que un día se da cuenta el camino que a seguido ciegamente por lo que se aleja y empieza de cero con la promesa de proteger a quienes que son vistos como ‘sin talento’. ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "16",
+        "Altura": "1,68",
+        "Cumpleaños": "20 de diciembre",
+        "Ocupación": "Estudiante, tecnico, electricista, etc."
       },
-      "apariciones": [],
+      "apariciones": [
+         {
+          "titulo": "El precio de la perfección",
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
+        }, 
+        {
+          "titulo": "La razon para proteger sus sonrisas ",
+          "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
+        }
+      ],
       "opiniones": []
     },
     {
-      "id": "prec-aiko-takahashi",
+      "id": "prec-chizuru-nanakase",
       "historia": "precio-perfeccion",
-      "nombre": "Aiko Takahashi",
-      "titulo": "¿?",
+      "nombre": "Chizuru Nanakase",
+      "titulo": "La oveja negra de los Nanakase",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PrecioPersonajes/chizuru.jpg",
+      "descripcion": "Hermana mayor de Allen y opuesto a toda su familia fría. Es alegre, rebelde en sentido de que es opuesto a su familia, tiene un corazón con el que expresa lo que siente y cree que las emociones además de que considera que las conexiones humanas importan. ",
+      "historia_personal": "Crece en una familia donde el talento lo es todo y la debilidad se castiga provocando que Chizuru sea vista como una deshonra al no tener un ‘Talento’ y por eso la llaman lastre y deshonra. Es la única que se preocupa por Allen y le enseña que se puede ser fuerte sin dejar de ser humano.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "17 años",
+        "Altura": "1,60",
+        "Cumpleaños": "3 de marzo",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+         {
+          "titulo": "El precio de la perfección",
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
+        } 
+      ],
       "opiniones": []
     },
     {
       "id": "prec-yoyoko",
       "historia": "precio-perfeccion",
-      "nombre": "Yoyoko",
-      "titulo": "¿?",
+      "nombre": "Yoyoko Otsuki",
+      "titulo": "Vocalista y guitarrista de Sideros",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PrecioPersonajes/yoyoko.png",
+      "descripcion": "Yoyoko tiene el pelo castaño con mechas rojas recogido con dos coletas, ojos de color rojo claro, lleva una boina y una gargantilla negra. A pesar de su apariencia externa, es muy insegura y tiene un estilo de comunicación deficiente haciendo difícil que los demás se relacionen con ella.",
+      "historia_personal": "Aunque ya alcanzó la fama desde que está en SIDEROS y puede realizar sus propiedades conciertos en solitario, compara los logros de los demás con los suyos, sintiendo que no ha hecho lo suficiente para superarlos. Le gusta ir al karaoke sola, por miedo a que la gente la vea y la juzgue.  A pesar de eso, ha sido una persona considerada, especialmente con su rival Kessoku Band, y está despuesta a darles consejos para que mejoren y tengan éxito. ",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "16 años",
         "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Cumpleaños": "2 de junio",
+        "Ocupación": "Vocalistaa y guitarrista de Sideros"
       },
-      "apariciones": [],
+      "apariciones": [
+          {
+          "titulo": "El precio de la perfección",
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
+        }, 
+        {
+          "titulo": "La razon para proteger sus sonrisas ",
+          "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "prec-akubi",
       "historia": "precio-perfeccion",
-      "nombre": "Akubi",
-      "titulo": "¿?",
+      "nombre": "Akubi Hasegawa",
+      "titulo": "Baterista de Sideros",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PrecioPersonajes/akubi.png",
+      "descripcion": "Chica de cabello blanco, ojos amarillos y siempre se la ve con una máscara. siempre critica las acciones de los demás y es siempre sincera en sus comentarios sim embargo casi siempre es amable, aunque tiene un lado burlón. ",
+      "historia_personal": "Es la baterista de Sideros, donde equilibra el carácter explosivo de Yoyoko usando el humor para aliviar la tensión. Cuando ofrece su ayuda a alguien la cumple hasta el final y de colaborar con la organización de las presentaciones de la banda en FOLT, el live house donde tocan. ",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "16 años",
         "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Cumpleaños": "5 de abril",
+        "Ocupación": "Baterista de la Banda de Sideros"
       },
-      "apariciones": [],
+      "apariciones": [
+          {
+          "titulo": "El precio de la perfección",
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
+        }, 
+        {
+          "titulo": "La razon para proteger sus sonrisas ",
+          "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "prec-yuyu-uchida",
       "historia": "precio-perfeccion",
       "nombre": "Yuyu Uchida",
-      "titulo": "¿?",
+      "titulo": "Bajista de Sideros",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PrecioPersonajes/yuyu.png",
+      "descripcion": "Es la bajista de Sideros con una personalidad misteriosa, tranquila y una fascinación enorme por lo paranormal por lo que siempre anda buscando historias de fantasmas, además de objetos malditos. Es una persona amable que se vuelve muy entusiasta cuando habla de lo que le gusta.",
+      "historia_personal": "Colecciona objetos supuestamente malditos que consigue en mercados de antigüedades, subastas, o directamente de personas que quieren deshacerse de ellas. Como en su casa ya no tiene espacio, guarda la colección en una habitación oculta de FOLT decorada con velas, amuletos, objetos antiguos, donde cada pieza tiene una etiqueta con su origen, aunque nadie de la banda lo sabe porque cree que les daría miedo o que Gin le pediría tirarlo todo.",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "16",
         "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Cumpleaños": "2 de agosto",
+        "Ocupación": "Bajista de la Banda de Sideros"
       },
-      "apariciones": [],
+      "apariciones": [
+          {
+          "titulo": "El precio de la perfección",
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
+        }, 
+        {
+          "titulo": "La razon para proteger sus sonrisas ",
+          "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
+        }
+      ],
       "opiniones": []
     },
     {
-      "id": "prec-hunko-honjo",
+      "id": "prec-fuko-honjo",
       "historia": "precio-perfeccion",
-      "nombre": "Hunko Honjo",
-      "titulo": "¿?",
+      "nombre": "Fuko Honjo",
+      "titulo": "Guitarrista de Sideros",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PrecioPersonajes/fumko.png",
+      "descripcion": "Es la segunda guitarrista de Sideros, de personalidad muy extrovertida, animada, creativa, siempre con energía positiva, lo que la convierte en la primera en proponer planes en grupo",
+      "historia_personal": "Es una guitarrista con bastante experiencia que disfruta enseñar lo que sabe, siempre con paciencia y entusiasmo, logrando que cualquier ensayo o reunión sea más divertido. Valora mucho la etapa de la juventud, por eso defiende que hay que vivirla con amistades, salidas y nuevas experiencias.",
       "datos": {
-        "Edad": "¿?",
+        "Edad": "16",
         "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Cumpleaños": "30 de agosto",
+        "Ocupación": "Segunda guitarrista de la banda de Sideros"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "El precio de la perfección",
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
+        }, 
+        {
+          "titulo": "La razon para proteger sus sonrisas ",
+          "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
+        }],
       "opiniones": []
     },
     {
       "id": "prec-gin",
       "historia": "precio-perfeccion",
-      "nombre": "Gin",
-      "titulo": "¿?",
+      "nombre": "Ginjiro Yoshida",
+      "titulo": "Gerente",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
+      "arte": "imagenes/arte/PrecioPersonajes/gin.jpg",
+      "descripcion": "Yoshida tiene el cabello negro, ojos verdes y ojeras notables. Es el gerente de FOLT, un live house de Shinjuku, con una apariencia ruda que contrasta con su forma de ser ya que en el fondo es amable, atento, hasta algo delicado en ciertos momentos y sabe ponerse serio cuando toca poner orden.",
       "historia_personal": "",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "37",
+        "Altura": "176 cm",
+        "Cumpleaños": "15 de febrero",
+        "Ocupación": "Gerente del live house FOLT"
       },
-      "apariciones": [],
+      "apariciones": [
+         {
+          "titulo": "El precio de la perfección",
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
+        }
+      ],
       "opiniones": []
     },
     {
-      "id": "prec-hiroi",
+      "id": "prec-eliza",
       "historia": "precio-perfeccion",
-      "nombre": "Hiroi",
-      "titulo": "¿?",
+      "nombre": "Eliza Shimizu",
+      "titulo": "Guitarrista de Sick Hack",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PrecioPersonajes/eliza.png",
+      "descripcion": "Es la guitarrista de Sick Hack, extranjera, de cabello largo amarillo brillante y ojos azul mezclilla. Es optimista, relajada, muy divertida con una energía positiva que contagia por lo que suele ver el lado gracioso de casi cualquier situación. Mezcla frases en inglés cuando habla debido a que no domina el idioma Japones así que Shima la ayuda a estudiar, y por último a Eliza le apasiona el anime. ",
+      "historia_personal": "Se mudó a Japón por su pasión por el anime y la música, con la idea de asistir al Comiket, además de formar una banda que tocara canciones de anime. Terminó uniéndose a Sick Hack, donde aporta ánimo en los momentos tensos, sobre todo cuando los problemas del grupo se acumulan. Siempre propone seguir tocando y vender más entradas antes que preocuparse por el dinero, y disfruta convenciendo a sus compañeras de probar cosas nuevas. ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "21",
+        "Altura": "167 cm",
+        "Cumpleaños": "1 de enero",
+        "Ocupación": "Guitarrista de la banda de Sick Hack"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "El precio de la perfección",
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "prec-shima",
       "historia": "precio-perfeccion",
       "nombre": "Shima",
-      "titulo": "¿?",
+      "titulo": "Baterista de Sick Hack",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/PrecioPersonajes/shima.png",
+      "descripcion": "Es la baterista de Sick Hack, de pelo corto oscuro y ojos rojos que suele vestir una chaqueta azul marino con detalles blancos, lo que hace que a primera vista parezca un chico. Es educada, seria, responsable y pierde la paciencia cuando se trata de Hiroi si hace algo que no debe. ",
+      "historia_personal": "Es amiga de Hiroi desde hace años y a pesar de la forma de actuar de su amiga, se preocupa a tal punto de tener que regañarle sin importarle que quede como la mala. Terminó la preparatoria, aunque abandonó la universidad y la más sensata de su banda lo que hizo que sea la encargada de mantener el orden.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "25",
+        "Altura": "163 cm",
+        "Cumpleaños": "15 de mayo",
+        "Ocupación": "Baterista de la Banda de Sick Hack"
       },
-      "apariciones": [],
+      "apariciones": [
+          {
+          "titulo": "El precio de la perfección",
+          "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "ecos-ikari-oshi-tn",
       "historia": "ecos-corazon-fugaz",
       "nombre": "Ikari Oshi Tn",
-      "titulo": "¿?",
+      "titulo": "El sol de Tracen",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/EcosPersonajes/oshi1.jpg",
+      "descripcion": "Chico delgado, de cabello teñido de color naranja cobrizo brillando, algo desordenado. Es una persona extrovertida que no teme en hablarle al resto, pero a la vez siendo reservado, observador, aunque detrás de esa calma esconde una gran sensibilidad y admira profundamente a las personas capaces de sonreír sin esfuerzo, sobre todo a su hermano mayor.",
+      "historia_personal": "Creció en una familia unida junto a sus padres, su hermano mayor Kota y su hermana menor Sakura. Su vida cambió cuando su padre murió en un accidente y poco después su madre enfermó de una enfermedad rara, dejando a los tres hermanos solos. Kota se convirtió en su ejemplo a seguir ya que nunca dejo de sonreír provocando que en el futuro fuera una motivación a seguir, incluso cuando fallece. ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "22",
+        "Altura": "1,70",
+        "Cumpleaños": "21 de marzo",
+        "Ocupación": "Entrenador de Umammusume"
       },
       "apariciones": [],
       "opiniones": []
@@ -2059,34 +2105,16 @@
       "id": "ecos-meisho-doto",
       "historia": "ecos-corazon-fugaz",
       "nombre": "Meisho Doto",
-      "titulo": "¿?",
+      "titulo": "Retadora implacable",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/EcosPersonajes/doto.jpg",
+      "descripcion": "Es una uma musume alta, de cabello corto marrón con flequillo blanco, un ahoge con forma de signo de interrogación, ojos morados que a menudo parecen espirales, una cinta fina en la oreja derecha, además de una boca que siempre parece de gato. Es tímida, torpe, pesimista, con una autoestima tan baja como sus orejas caídas que tiemblan cuando está nerviosa, mientras que su cola se enreda porque la juguetea cuando se preocupa. Tropieza al hablar, aun así, mantiene una actitud positiva y se esfuerza por cambiar.",
+      "historia_personal": "Pese a su talento no se cree lo suficiente buena como otras Umamusume, pero aun así no piensa rendirse porque quiere asegurar un futuro mejor. Admira la seguridad desbordante de T.M. Opera O, a quien considera su modelo a seguir, además de su mejor amiga. Le gusta la comida muy picante, el enka, y debido a su forma de ser diferentes animales se le apegan. ",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "ecos-tamamo-cross",
-      "historia": "ecos-corazon-fugaz",
-      "nombre": "Tamamo Cross",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "1,64 cm",
+        "Cumpleaños": "25 de marzo",
+        "Ocupación": "Estudiante y corredora"
       },
       "apariciones": [],
       "opiniones": []
@@ -2095,34 +2123,52 @@
       "id": "ecos-tm-opera",
       "historia": "ecos-corazon-fugaz",
       "nombre": "Tm. Opera",
-      "titulo": "¿?",
+      "titulo": "Overlord",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/EcosPersonajes/opera.png",
+      "descripcion": "Es una uma musume de cabello corto naranja claro de mechones rizados, ojos morados, una corona rosa dorada sobre la cabeza, adornos dorados en las orejas. Tiene una actitud teatral, como si actuara sobre un escenario con una risa estruendosa mientras que sus gestos son exagerados y a menudo la oirás proclamar su grandeza de una forma u otra. ",
+      "historia_personal": "Se hace llamar 'la Soberana' con su fuerte siendo las representaciones de ópera improvisadas. Pese a su ego, tiene mucho carisma, además de un deseo sincero de que sus rivales den lo mejor de sí, además de que Meisho Doto la admira profundamente.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "1,56 cm",
+        "Cumpleaños": "13 de marzo",
+        "Ocupación": "Estudiante y corredora"
       },
       "apariciones": [],
       "opiniones": []
     },
     {
-      "id": "ecos-ikari-sakura",
+      "id": "ecos-tamamo-cross",
       "historia": "ecos-corazon-fugaz",
-      "nombre": "Ikari Sakura",
-      "titulo": "¿?",
+      "nombre": "Tamamo Cross",
+      "titulo": "El rayo gris",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
+      "arte": "imagenes/arte/EcosPersonajes/tama.jpg",
+      "descripcion": "Es una Umamusume de baja estatura con el cabello gris muy largo, grandes ojos azules, un pequeño colmillo que asoma cuando sonríe, además de unas orejeras rojas con una diadema del mismo color. Tiene una personalidad enérgica, ingeniosa, competitiva, siempre lista para actuar y sus orejas se levantan al oír palabras como oferta mientras que su cola chispea cuando se enfada.",
+      "historia_personal": "Creció en la extrema pobreza que tuvo que mudarse constantemente. Tuvo una infancia dura la motivó a correr para saldar las deudas y sacar a su familia adelante. En Tracen se volvió una de las más destacadas con su rivalidad con Oguri Cap que terminó en una profunda amistad.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,40 cm",
+        "Cumpleaños": "23 de mayo",
+        "Ocupación": "Ex corredora"
+      },
+      "apariciones": [],
+      "opiniones": []
+    },
+     {
+      "id": "ecos-oguri",
+      "historia": "ecos-corazon-fugaz",
+      "nombre": "Oguri Cap",
+      "titulo": "La bestia gris",
+      "avatar": "",
+      "arte": "imagenes/arte/EcosPersonajes/oguri.jpg",
+      "descripcion": "",
       "historia_personal": "",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "",
+        "Cumpleaños": "",
+        "Ocupación": ""
       },
       "apariciones": [],
       "opiniones": []
@@ -2130,35 +2176,35 @@
     {
       "id": "ecos-rudolf",
       "historia": "ecos-corazon-fugaz",
-      "nombre": "Rudolf",
-      "titulo": "¿?",
+      "nombre": "Symboli Rudolf",
+      "titulo": "Emperador",
       "avatar": "",
-      "arte": "",
+      "arte": "imagenes/arte/EcosPersonajes/rudolf.jpg",
       "descripcion": "¿?",
       "historia_personal": "",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "165 cm",
+        "Cumpleaños": "13 de marzo",
+        "Ocupación": "Entrenadora"
       },
       "apariciones": [],
       "opiniones": []
     },
     {
-      "id": "ecos-anaxa-feinberg",
+      "id": "ecos-masami",
       "historia": "ecos-corazon-fugaz",
-      "nombre": "Anaxa Feinberg",
+      "nombre": "Masami Komiyama",
       "titulo": "¿?",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
+      "arte": "imagenes/arte/EcosPersonajes/masami.webp",
+      "descripcion": "",
       "historia_personal": "",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "1,68 cm",
+        "Cumpleaños": "27 de mayo",
+        "Ocupación": "Entrenadora"
       },
       "apariciones": [],
       "opiniones": []
@@ -2169,14 +2215,14 @@
       "nombre": "Super Creek",
       "titulo": "¿?",
       "avatar": "",
-      "arte": "",
+      "arte": "imagenes/arte/EcosPersonajes/creek.jpeg",
       "descripcion": "¿?",
       "historia_personal": "",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "1,68 cm",
+        "Cumpleaños": "27 de mayo",
+        "Ocupación": "Ex corredora"
       },
       "apariciones": [],
       "opiniones": []
@@ -2187,7 +2233,7 @@
       "nombre": "Still In Love",
       "titulo": "¿?",
       "avatar": "",
-      "arte": "",
+      "arte": "imagenes/arte/EcosPersonajes/love.jpg",
       "descripcion": "¿?",
       "historia_personal": "",
       "datos": {
@@ -2203,9 +2249,9 @@
       "id": "amor-sakura-ikari",
       "historia": "amor-monstruo",
       "nombre": "Sakura Ikari",
-      "titulo": "¿?",
+      "titulo": "La luz de abril",
       "avatar": "",
-      "arte": "",
+      "arte": "imagenes/arte/EcosPersonajes/sakura.png",
       "descripcion": "¿?",
       "historia_personal": "",
       "datos": {
