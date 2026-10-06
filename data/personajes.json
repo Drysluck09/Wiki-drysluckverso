@@ -1210,7 +1210,29 @@
       ],
       "opiniones": []
     },
-  
+     {
+      "id": "busc-mayano",
+      "historia": "buscando-un-proposito",
+      "nombre": "Mayano top gun ",
+      "titulo": "Ace del Kaleidoscopio",
+      "avatar": "",
+      "arte": "imagenes/arte/EcosPersonajes/mayano.png",
+      "descripcion": "Es una uma musume pequeña, de personalidad alegre, despreocupada, curiosa, con un lado infantil que contrasta con su deseo de ser vista como una mujer adulta. Tiene el cabello largo de color naranja castaño, ojos naranjas, y le gusta molestar a su entrenador. ",
+      "historia_personal": "Es hija de un piloto por lo que de niña jugaba con él en el aeropuerto, de ahí su fascinación por el cielo, los aviones y aventura hasta el punto de que puede hacer un avión de papel con cualquier hoja además de ser la compañera de cuarto de Tokai Teiou.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,43 cm",
+        "Cumpleaños": "24 de marzo",
+        "Ocupación": "Estudiante y corredora"
+      },
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
+      "opiniones": []
+    },
     {
       "id": "busc-miyabi-oshizora",
       "historia": "buscando-un-proposito",
@@ -2162,15 +2184,20 @@
       "titulo": "La bestia gris",
       "avatar": "",
       "arte": "imagenes/arte/EcosPersonajes/oguri.jpg",
-      "descripcion": "",
-      "historia_personal": "",
+      "descripcion": "Es una uma musume alta, tranquila, sincera y algo distraída con cabello gris largo, flequillo delantero adornado con una banda para el cabello de 5 diamantes negra y amarilla, ojos azules con reflejos azul, lleva una banda azul con una franja amarilla central alrededor de su oreja derecha. Tiene un apetito descomunal debido a que es capaz de vaciar una olla de arroz en segundos y es conocida como el 'Monstruo Gris' por su enorme fuerza en la pista.",
+      "historia_personal": "Proviene del campo donde estudió en la Academia Tracen de Kasamatsu hasta volverse imbatible en las carreras locales. Su talento llamó la atención de Symboli Rudolf, quien la escogió para trasladarse a la Academia Tracen central, llevando consigo la ilusión de apoyar a su familia. Cuando era niña, tenía las piernas muy débiles y apenas podía pararse o caminar, pero su madre le masajeaba las piernas a diario para ayudar a fortalecer sus músculos y debido a esto adquirió la capacidad de caminar y desarrolló un amor por correr que gracias a todo su esfuerzo años después de ser reconocida recibió el apodo de 'Cenicienta' y rompiendo la idea de que las Umamusume de cabello gris no pueden correr rápido. ",
       "datos": {
         "Edad": "¿?",
-        "Altura": "",
-        "Cumpleaños": "",
-        "Ocupación": ""
+        "Altura": "1,67 cm",
+        "Cumpleaños": " 27 de marzo",
+        "Ocupación": "Ex corredora"
       },
-      "apariciones": [],
+      "apariciones": [
+            {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
     {
@@ -2180,15 +2207,20 @@
       "titulo": "Emperador",
       "avatar": "",
       "arte": "imagenes/arte/EcosPersonajes/rudolf.jpg",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es la presidenta del consejo estudiantil de la Academia Tracen con cabello largo castaño oscuro y un mechón blanco en forma de media luna en el flequillo. Es serena, disciplinada, imparcial y de una gran exigencia consigo misma. Detrás de esa seriedad es protectora, se preocupa mucho por los demás, y tiene un humor cuestionable, en especial cuando hace chistes. ",
+      "historia_personal": "Es una triple coronada invicta gracias a sus talentos y siendo admirada, aunque a veces también envidiada. Su gran sueño es crear un mundo donde todas las uma musume puedan ser felices y lidera la institución junto a Air Groove, su vicepresidenta, además de Narita Brian.",
       "datos": {
         "Edad": "¿?",
         "Altura": "165 cm",
         "Cumpleaños": "13 de marzo",
         "Ocupación": "Entrenadora"
       },
-      "apariciones": [],
+      "apariciones": [
+            {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
     {
@@ -2198,8 +2230,8 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/EcosPersonajes/masami.webp",
-      "descripcion": "",
-      "historia_personal": "",
+      "descripcion": "Es la entrenadora de Tamamo Cross, quien Tamamo llama 'Komi-chan', un apodo cariñoso que muestra la confianza que hay entre ambas. Se presenta como una persona comprometida, atenta, capaz de acompañarla y apoyarla tanto en la pista como fuera de ella.",
+      "historia_personal": "Conoció a Tamamo Cross cuando el casero de su vivienda le pidió que la entrenara a la pequeña Uma musume a pesar de que estaba estudiando para ser entrenadora profesional y desde entonces ha permanecido a su lado para guiarla.",
       "datos": {
         "Edad": "¿?",
         "Altura": "1,68 cm",
@@ -2216,8 +2248,8 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "imagenes/arte/EcosPersonajes/creek.jpeg",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es una uma musume alta, con cabello castaño rojizo recogido en una enorme trenza que llega más abajo de la espalda, atada con un gran lazo negro, ojos azules caídos que reflejan su personalidad dulce y maternal. Con un carácter tranquilo, atenta, perceptiva que se ha ganado con facilidad el apodo de 'Mamá Creek'.",
+      "historia_personal": "Debido a que ayuda en la guardería de su familia hizo que tenga un instinto de cuidar a todos, perdonando casi cualquier error y valora el crecimiento de los demás por encima de sus propios logros, aunque esa indulgencia a veces la aplica incluso consigo misma. Se especializa en carreras de larga distancia donde pasa de ser dulce a una rival feroz. ",
       "datos": {
         "Edad": "¿?",
         "Altura": "1,68 cm",
@@ -2231,18 +2263,23 @@
       "id": "amor-still-in-love",
       "historia": "amor-monstruo",
       "nombre": "Still In Love",
-      "titulo": "¿?",
+      "titulo": "La uma yandere",
       "avatar": "",
       "arte": "imagenes/arte/EcosPersonajes/love.jpg",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es una uma musume de estatura media, cabello castaño, ojos rojos tranquila con personalidad tranquila, sensata y tímida sim embargo en las carreras muestra un apetito feroz por competir causando que pase de ser una chica tímida a una posesiva capaz de devorar la pista y superar a cualquier rival.",
+      "historia_personal": "En su infancia no tuvo muchos amigos debido a su ‘otra yo’ que hacía que las personas se alejaran. Mayormente es una chica reservada que habla poco de sí misma sim embargo su otra personalidad hace que sea vista como una ‘Yandere’ sim saber que en realidad Still in Love no es así. ",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "1,53 cm",
+        "Cumpleaños": "2 de mayo",
+        "Ocupación": "Estudiante y corredora"
       },
-      "apariciones": [],
+      "apariciones": [
+            {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
     {
@@ -2252,123 +2289,201 @@
       "titulo": "La luz de abril",
       "avatar": "",
       "arte": "imagenes/arte/EcosPersonajes/sakura.png",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Es una Uma Musume de cabello rosado, de carácter alegre y curioso, con tanta energía que no soporta quedarse quieta por mucho tiempo. Siempre lleva consigo un adorno muy preciado porque funciona como su amuleto, tiende a tener una visión optimista de la vida con una actitud contagiosa que quienes la rodean, la adoren. ",
+      "historia_personal": "Sus padres le pusieron Sakura por la flor de cerezo que representa belleza, fragilidad y la capacidad de renacer después de cada invierno. Desde pequeña creció junto a su hermano debido a que perdió a sus padres, hasta que con el pasar de los años conoció a Still in Love, con quien prometió ingresar a la Academia Tracen para enfrentarse algún día como rivales en la pista. Ese sueño de correr, sentir el viento en el rostro y competir con su mejor amiga es lo que la mueve desde entonces.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "1,50 cm",
+        "Cumpleaños": "5 de abril",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Buscando un propósito - Umamusume",
+          "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "saga-kusanagi-tokisaki",
       "historia": "saga-reencarnacion",
       "nombre": "Kusanagi Tokisaki",
-      "titulo": "¿?",
+      "titulo": "La Sombra Sonriente del Trio",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/tokisaki.png",
+      "descripcion": "Chico pelirojo, ojos amarillos, sonriente con un buen carisma, pero por dentro siempre siente inferior además de tener un carácter algo terco y se esfuerza hasta el final a pesar de que los resultados no siempre lleguen. Trata de ser amable con todos y le cuesta decir que no cuando alguien le pide ayuda incluso si eso significa sacrificar su propio tiempo.",
+      "historia_personal": "Es el menor de los hermanos Tokisaki, una familia famosa por el talento de todos sus miembros causando que creciera a la sombra de su familia y hermanos. Tuvo que esforzarse el doble para ganarse un lugar en a la familia mientras recibía críticas de la gente que esperaban que fuera como sus hermanos causando rechazo hacia él y que estuviera casi siempre solo hasta que conoció a Hotaro y a Yuki, quienes se convirtieron en sus primeros amigos de verdad y sin juzgarlo por su apellido. Por dentro ama a Yuki sim embargo prefiere no decirlo para no arruinar su amistad",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "16 años",
+        "Altura": "1,68 cm",
+        "Cumpleaños": "18 de septiembre",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "La saga de la reencarnacion",
+          "url": "https://www.wattpad.com/story/352330885-la-saga-de-la-reencarnaci%C3%B3n-one-shot"
+        } , 
+        {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }, 
+        {
+          "titulo": "Mensaje de arrepentimiento Alya x Yuki x Tn - Roshidere",
+          "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "saga-yuki",
       "historia": "saga-reencarnacion",
-      "nombre": "Yuki",
-      "titulo": "¿?",
+      "nombre": "Yuki Kamihara",
+      "titulo": "La Nieve que Abriga del Trio",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/yuki.png",
+      "descripcion": "Es una chica amable, de pelo rosado y ojos azules con una personalidad algo tímida al comienzo, pero con el tiempo se vuelve alegre y positiva. Siempre esta con sus amigos Okazaki y Hotaro que cada vez que es San Valentín les prepara chocolates caseros para agradecerles por su amistad. ",
+      "historia_personal": "Vive con su hermano menor y su padre, mientras que en la escuela otras chicas solían burlarse de ella por su físico hasta que Tokisaki y Hotaro la defendieron, momento en el cual los tres se hicieron amigos cercanos y prometieron apoyarse siempre en lo que necesitaran. Ella admira y ama a Tokisaki en secreto sim embargo tampoco quiere arruinar la amistad que han llevado. ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "16 años",
+        "Altura": "1,58 cm",
+        "Cumpleaños": "7 de diciembre",
+        "Ocupación": "Estudiante"
       },
-      "apariciones": [],
+      "apariciones": [
+             {
+          "titulo": "La saga de la reencarnacion",
+          "url": "https://www.wattpad.com/story/352330885-la-saga-de-la-reencarnaci%C3%B3n-one-shot"
+        } , 
+        {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }, 
+        {
+          "titulo": "Mensaje de arrepentimiento Alya x Yuki x Tn - Roshidere",
+          "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
+        }
+      ],
       "opiniones": []
     },
     {
-      "id": "saga-jotaro",
+      "id": "saga-hotaro",
       "historia": "saga-reencarnacion",
-      "nombre": "Jotaro",
-      "titulo": "¿?",
+      "nombre": "Hotaro Kye",
+      "titulo": "La Luciérnaga del Trio",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/hotaro.webp",
+      "descripcion": "Es un chico bromista, algo molesto en ocasiones, pero muy leal con sus amigos a quienes siempre intenta animar incluso cuando no sabe qué decir. ",
+      "historia_personal": "También tenía problemas con su familia hasta que conoció a Kusanagi con quien terminó formando su primera amistad y poco después ambos defendieron a Yuki de unas compañeras que se burlaban de ella, lo que daría origen al trío de amigos. ",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
+        "Edad": "16 años",
+        "Altura": "1,68 cm",
+        "Cumpleaños": "20 de junio",
         "Ocupación": "¿?"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "La saga de la reencarnacion",
+          "url": "https://www.wattpad.com/story/352330885-la-saga-de-la-reencarnaci%C3%B3n-one-shot"
+        } , 
+        {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "luz-kusanagi-kamado",
       "historia": "luz-esperanza",
       "nombre": "Kusanagi Kamado",
-      "titulo": "¿?",
+      "titulo": "El Baterista Inexpresivo",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/kamado.jpg",
+      "descripcion": "Es un chico tranquilo, solitario y algo perezoso que practica la batería. Casi siempre mantiene una expresión neutra que le cuesta mostrar lo que siente, pero se preocupa mucho por la gente cercana, además prefiere pasar desapercibido antes que llamar la atención de los demás.",
+      "historia_personal": "Reencarnado que vive con su madre Sakura y su hermana Emilia en su vida actual. Suele pasar el tiempo encerrado en su cuarto practicando la batería hasta que conoce a Kessoku Band. A diferencia de su contraparte alegre, él es más frio por todo lo que vivió como Kusanagi Tokisaki y razón del que decidiera empezar de cero con una forma de ser distinta de ser.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "15 años",
+        "Altura": "1,65",
+        "Cumpleaños": "20 de enero",
+        "Ocupación": "Baterrista temporal"
       },
-      "apariciones": [],
+      "apariciones": [
+        {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "luz-emilia-kamado",
       "historia": "luz-esperanza",
       "nombre": "Emilia Kamado",
+      "titulo": "La Estrella Pequeña",
+      "avatar": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/emilia.jpg",
+      "descripcion": "Es la hermana menor de Kusanagi, una niña muy energética, cariñosa de pelo negro y ojos morados al igual que su madre. No duda en lanzace a abrazar a su hermano apenas lo ve y que sueña con convertirse algún día en idol.",
+      "historia_personal": "Usualmente graba a escondidas a su hermano mientras toca la batería porque quiere que el mundo vea su talento y a pesar de que Kusanagi sea algo frio, por dentro ella sabe que la aprecia. ",
+      "datos": {
+        "Edad": "12 años",
+        "Altura": "1,48",
+        "Cumpleaños": "3 de marzo",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+          {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "luz-sakura",
+      "historia": "luz-esperanza",
+      "nombre": "Sakura Kamado",
       "titulo": "¿?",
       "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/sakura.jpg",
+      "descripcion": "Es la madre de Kusanagi y de Emilia, una mujer de pelo negro, ojos morados y algo estricta pero cariñosa que no duda en corregir a sus hijos cuando se portan mal. Cocina con mucho entusiasmo pese a que casi siempre se le quema algo y se emociona fácilmente cuando ve los logros pequeños de sus hijos. ",
+      "historia_personal": "Hace años se separó de su marido debido a que no quería ir a otro país y abandonar a su familia por lo que suele trabajar mucho para mantener a sus hijos. Les tiene tanto amor a sus hijos y se preocupó mucho al ver lo aislado que era Kusanagi, razón por la cual se puso contenta al enterarse de que había entrado a una banda, hasta el punto de comprarle una batería nueva para animarlo a seguir tocando.",
       "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Edad": "35 años",
+        "Altura": "1,60 cm",
+        "Cumpleaños": "10 de abril",
+        "Ocupación": "Oficinista"
       },
-      "apariciones": [],
+      "apariciones": [
+          {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "luz-hitori-gotou",
       "historia": "luz-esperanza",
       "nombre": "Hitori Gotou",
-      "titulo": "¿?",
+      "titulo": "Guitar Hero",
       "avatar": "",
       "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Hitori es una chica introvertida que le cuesta mantener una conversación, pero por dentro es una chica amable y sincera además de tener un talento enorme con la guitarra. Tiene el pelo rosa en la cual lleva atada con un accesorio en forma de cubo azul y amarillo en el lado derecho de la cabeza con ojos color azul. Suele vestir un chándal rosa sobre su uniforme, con falda larga gris, calcetines negros y zapatos marrones.",
+      "historia_personal": "Toca desde pequeña la guitarra de su padre, convencida de que así haría amigos y entraría a una banda. Pasó la secundaria sola, practicando horas en su armario y subiendo videos con el nombre 'Guitar Hero'. Cuando conoce a Nijika, esa ilusión empieza a hacerse realidad, y poco a poco aprende a convivir con otras personas.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Cumpleaños": "21 de febrero",
+        "Ocupación": "Guitarrista de Kessoku Band"
       },
-      "apariciones": [],
+      "apariciones": [
+          {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
       "opiniones": []
     },
     {
@@ -2378,15 +2493,20 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Baterista y fundadora de Kessoku Band de pelo rubio con una coleta lateral con personalidad alegre, sociable, optimista, etc. Es la que mantiene a la banda en orden en la banda y la que más se preocupa. ",
+      "historia_personal": "Perdió a su madre de pequeña y su padre casi nunca está en casa así que mira a su hermana mayor Seika como una guía. Fundó la banda para cumplir un sueño que comparte con ella: Volver a ‘Strarry’ un Live House reconocida. ",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
         "Cumpleaños": "¿?",
         "Ocupación": "¿?"
       },
-      "apariciones": [],
+      "apariciones": [
+           {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
       "opiniones": []
     },
     {
@@ -2396,8 +2516,8 @@
       "titulo": "¿?",
       "avatar": "",
       "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
+      "descripcion": "Bajista de la banda, de pelo azul oscuro y expresión neutra que puede parecer ser una persona seria además de ser sarcástica, aficionada a las rarezas y escribe la mayor parte de las letras. A pesar de su forma de ser puede ser algo descuidada a tal punto de pedir dinero por lo que Nijika siempre sabe cuidarla. ",
+      "historia_personal": "e fue de su banda anterior por diferencias creativas, y Nijika la convenció de empezar de nuevo con ella. Vive modestamente y, según se cuenta, sobrevive con comida muy barata, aunque nunca pierde la calma.",
       "datos": {
         "Edad": "¿?",
         "Altura": "¿?",
