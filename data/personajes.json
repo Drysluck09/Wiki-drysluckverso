@@ -1836,7 +1836,7 @@
     {
       "id": "cami-beako",
       "historia": "camino-heroe",
-      "nombre": "Beako",
+      "nombre": "Beako Shinomiya",
       "titulo": "La muñeca loca",
       "avatar": "",
       "arte": "imagenes/arte/HeroePersonajes/beako.jpg",
@@ -2316,7 +2316,7 @@
       "historia_personal": "Es el menor de los hermanos Tokisaki, una familia famosa por el talento de todos sus miembros causando que creciera a la sombra de su familia y hermanos. Tuvo que esforzarse el doble para ganarse un lugar en a la familia mientras recibía críticas de la gente que esperaban que fuera como sus hermanos causando rechazo hacia él y que estuviera casi siempre solo hasta que conoció a Hotaro y a Yuki, quienes se convirtieron en sus primeros amigos de verdad y sin juzgarlo por su apellido. Por dentro ama a Yuki sim embargo prefiere no decirlo para no arruinar su amistad",
       "datos": {
         "Edad": "16 años",
-        "Altura": "1,68 cm",
+        "Altura": "1,60 cm",
         "Cumpleaños": "18 de septiembre",
         "Ocupación": "Estudiante"
       },
@@ -2407,7 +2407,7 @@
         "Edad": "15 años",
         "Altura": "1,65",
         "Cumpleaños": "20 de enero",
-        "Ocupación": "Baterrista temporal"
+        "Ocupación": "Estudiante y baterrista temporal"
       },
       "apariciones": [
         {
@@ -2469,14 +2469,14 @@
       "nombre": "Hitori Gotou",
       "titulo": "Guitar Hero",
       "avatar": "",
-      "arte": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/hitori.jpg",
       "descripcion": "Hitori es una chica introvertida que le cuesta mantener una conversación, pero por dentro es una chica amable y sincera además de tener un talento enorme con la guitarra. Tiene el pelo rosa en la cual lleva atada con un accesorio en forma de cubo azul y amarillo en el lado derecho de la cabeza con ojos color azul. Suele vestir un chándal rosa sobre su uniforme, con falda larga gris, calcetines negros y zapatos marrones.",
       "historia_personal": "Toca desde pequeña la guitarra de su padre, convencida de que así haría amigos y entraría a una banda. Pasó la secundaria sola, practicando horas en su armario y subiendo videos con el nombre 'Guitar Hero'. Cuando conoce a Nijika, esa ilusión empieza a hacerse realidad, y poco a poco aprende a convivir con otras personas.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
+        "Altura": "1,56 cm",
         "Cumpleaños": "21 de febrero",
-        "Ocupación": "Guitarrista de Kessoku Band"
+        "Ocupación": "Estudiante y Guitarrista de Kessoku Band"
       },
       "apariciones": [
           {
@@ -2490,16 +2490,16 @@
       "id": "luz-nijika-ijichi",
       "historia": "luz-esperanza",
       "nombre": "Nijika Ijichi",
-      "titulo": "¿?",
+      "titulo": "Baterrista de Kessoku Band",
       "avatar": "",
-      "arte": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/nijika.jpg",
       "descripcion": "Baterista y fundadora de Kessoku Band de pelo rubio con una coleta lateral con personalidad alegre, sociable, optimista, etc. Es la que mantiene a la banda en orden en la banda y la que más se preocupa. ",
       "historia_personal": "Perdió a su madre de pequeña y su padre casi nunca está en casa así que mira a su hermana mayor Seika como una guía. Fundó la banda para cumplir un sueño que comparte con ella: Volver a ‘Strarry’ un Live House reconocida. ",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "1,54 cm",
+        "Cumpleaños": "29 de mayo",
+        "Ocupación": "Estudiante y bateriste de la banda Kessoku Band"
       },
       "apariciones": [
            {
@@ -2513,24 +2513,191 @@
       "id": "luz-ryo-yamada",
       "historia": "luz-esperanza",
       "nombre": "Ryo Yamada",
-      "titulo": "¿?",
+      "titulo": "Bajista de Kessoku Band",
       "avatar": "",
-      "arte": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/ryo.jpg",
       "descripcion": "Bajista de la banda, de pelo azul oscuro y expresión neutra que puede parecer ser una persona seria además de ser sarcástica, aficionada a las rarezas y escribe la mayor parte de las letras. A pesar de su forma de ser puede ser algo descuidada a tal punto de pedir dinero por lo que Nijika siempre sabe cuidarla. ",
-      "historia_personal": "e fue de su banda anterior por diferencias creativas, y Nijika la convenció de empezar de nuevo con ella. Vive modestamente y, según se cuenta, sobrevive con comida muy barata, aunque nunca pierde la calma.",
+      "historia_personal": "Se fue de su banda anterior por diferencias creativas, y Nijika la convenció de empezar de nuevo con ella. Vive modestamente y, según se cuenta, sobrevive con comida muy barata, aunque nunca pierde la calma.",
       "datos": {
         "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
+        "Altura": "1,63 cm",
+        "Cumpleaños": "18 de septiembre",
+        "Ocupación": "Estudiante y bajista de la banda Kessoku Kand"
       },
-      "apariciones": [],
+      "apariciones": [
+             {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
       "opiniones": []
     },
     {
       "id": "luz-kita-ikuyo",
       "historia": "luz-esperanza",
       "nombre": "Kita Ikuyo",
+      "titulo": "Vocalista y guitarrista de Kessoku band",
+      "avatar": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/kita.jpg",
+      "descripcion": "Es una guitarrista rítmica y vocalista, de pelo rojo con ojos verdes con una personalidad extrovertida, brillante, sociable, popular, muy segura pero oculta bastante inseguridad y va a la misma preparatoria que Bocchi.",
+      "historia_personal": "Fue una integrante de Kessoku band sim embargo se alejaria y regresa cuando hitori le pide que se una a la banda. Con la ayuda de Bocchi se volvió una guitarrista mejor que practica a escondidas para estar a la altura de sus compañeras.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,58 cm",
+        "Cumpleaños": "21 de abril",
+        "Ocupación": "Estudiante y vocalista de la banda Kessoku Band"
+      },
+      "apariciones": [
+           {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
+      "opiniones": []
+    },
+  
+    {
+      "id": "luz-ayato",
+      "historia": "luz-esperanza",
+      "nombre": "Ayato",
+      "titulo": "El reencarnado en Bocchi the Rock",
+      "avatar": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/ayato.png",
+      "descripcion": "Es un hombre despreocupado, bromista, rara vez tiene dinero, miente con facilidad incluso sobre su propio nombre y disfruta molestar a sus compañeros, pero sobre todo a Seika. Tiene la apariencia de Yato de Noragami y tiene la costumbre de decir cualquier cosa en cualquier conversación sin importar si los demás las entienden.",
+      "historia_personal": "Reencarnó mucho antes que Kusanagi por lo que conoce gran parte de lo que va a suceder y en el pasado perdió a sus amigos reencarnados por lo que tuvo que alejarse para no desviar la historia mientras cuida a su hermana, cuyos tratamientos son tan caros que trabaja más de lo normal para pagarlos y motivo por el que siempre anda sin dinero, pero decidido a seguir. ",
+      "datos": {
+        "Edad": "30 años",
+        "Altura": "1,73 cm",
+        "Cumpleaños": "27 de diciembre",
+        "Ocupación": "Mensajero y repartidor."
+      },
+      "apariciones": [
+          {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "luz-seika-ijichi",
+      "historia": "luz-esperanza",
+      "nombre": "Seika Ijichi",
+      "titulo": "Gerente de Starry",
+      "avatar": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/seika.jpg",
+      "descripcion": "Hermana mayor de Nijika y gerente de STARRY con una actitud algo seria y distante, pero tiene un lado suave que casi nunca enseña. Es rubia y exigente con las bandas que tocan allí.",
+      "historia_personal": "Fue guitarrista principal de una banda universitaria hasta que su madre falleció en un accidente de tráfico cuando ella tenía veintiún años, momento en que se refugió en la música dejando a Nijika sola, aunque al ver que la música también salvaba a su hermana abandonó su grupo para abrir Starry, local donde recibe a bandas jóvenes, mientras mantiene una amistad caótica con Hiroi, que fue su junior en la universidad.",
+      "datos": {
+        "Edad": "30",
+        "Altura": "1,66 cm",
+        "Cumpleaños": "24 de diciembre",
+        "Ocupación": "Gerente del live house Starry"
+      },
+      "apariciones": [
+         {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "luz-pa-san",
+      "historia": "luz-esperanza",
+      "nombre": "Pa-San",
+      "titulo": "Alto otogi",
+      "avatar": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/pa.jpg",
+      "descripcion": "Chica con piel pálida, pelo negro largo, ojos verdes, un piercing en el labio, ropa oscura con una gargantilla, pero pese a su apariencia es alguien amable, tranquila y atenta. Además de ser una streamer que le encanta mucho los videojuegos. ",
+      "historia_personal": "Abandonó la preparatoria en temprana edad y trabaja como técnica de sonido de Starry apoyando a Seika mientras sigue manteniendo su carrera como VTuber con el nombre Alto Otogi y evita hablar de su nombre real hasta el punto de incomodarse cuando se lo preguntan.",
+      "datos": {
+        "Edad": "24",
+        "Altura": "1,62 cm",
+        "Cumpleaños": "1 de noviembre",
+        "Ocupación": "¿?"
+      },
+      "apariciones": [
+         {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "luz-hiroi-kikuri",
+      "historia": "luz-esperanza",
+      "nombre": "Hiroi Kikuri",
+      "titulo": "Bajista de Sick Hack",
+      "avatar": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/hiroi.jpg",
+      "descripcion": "Chica de   pelo rosa oscuro en una trenza lateral, ojos magenta-púrpura, un cuerpo muy delgado y una afición enorme por el sake barato en caja. Es la bajista, vocalista y líder de la banda SICK HACK que toca rock psicodélico en el local FOLT de Shinjuku, aunque cuando está sobria es tímida, cautelosa, nerviosa, casi idéntica a Hitori.",
+      "historia_personal": "Fue una chica reservada hasta la preparatoria que empezó a beber para controlar los nervios en los escenarios, mientras que en la universidad se unió al club de música ligera por admirar a Seika. Ella forma la banda con su amiga Shima Iwashita a formar SICK HACK, así que vive endeudada en un departamento viejo sin baño, aunque se convierte en una mentora informal para Bocchi porque ve en ella su propio pasado.",
+      "datos": {
+        "Edad": "¿?",
+        "Altura": "1,58 cm",
+        "Cumpleaños": "1 de septiembre",
+        "Ocupación": "Bajista y Volcalista de la banda Sick Hack"
+      },
+      "apariciones": [
+        {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
+      "opiniones": []
+    },
+      {
+      "id": "luz-tomoe",
+      "historia": "luz-esperanza",
+      "nombre": "Tomoe Tokisaki",
+      "titulo": "La karateca Tokisaki",
+      "avatar": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/tomoe.jpg",
+      "descripcion": "Es la única hermana de los Tokisaki y siendo la más fuerte tanto física como emocionalmente además de cariñosa con Kusanagi. Tiene tendencia a hacerle bromas pesadas con un enorme talento para el karate junto a cualquier deporte de combate.",
+      "historia_personal": "Es la tercera hermana y famosa en todo el país por ganar grandes competencias de karate. Le enseñó a Kusanagi a defenderse pidiéndole que nunca usara esa fuerza para lastimar a nadie y cuando su hermano se sintió mal lo consuela dejándolo descansar en su regazo mientras le recuerda que nadie es perfecto.",
+      "datos": {
+        "Edad": "20 años",
+        "Altura": "1, 70 cm",
+        "Cumpleaños": "17 de julio",
+        "Ocupación": "Deportista Karateca"
+      },
+      "apariciones": [
+          {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "luz-leonel",
+      "historia": "luz-esperanza",
+      "nombre": "Leonel Hayase",
+      "titulo": "¿?",
+      "avatar": "",
+      "arte": "imagenes/arte/EsperanzaPersonajes/leo.jpg",
+      "descripcion": "Es un chico hiperactivo y bromista que se parece mucho a Hotaro en su forma de ser, aunque es aún más inquieto. Le encantan los videojuegos hasta el punto de contar los días para estrenar uno nuevo y resulta molesto cuando se emociona pero se muestra leal con sus amigos e intenta hacerlos reír siempre.",
+      "historia_personal": "Es compañero de clase de Kusanagi desde el principio y se convirtió en su amigo más cercano con quien sale a comprar videojuegos o a comer mientras se queja de lo poco que se estudia. Mantiene una relación de constantes peleas con Yukino aunque en el fondo se llevan mejor de lo que aparentan. ",
+      "datos": {
+        "Edad": "15 años",
+        "Altura": "1,68 cm",
+        "Cumpleaños": "29 de agostro",
+        "Ocupación": "Estudiante"
+      },
+      "apariciones": [
+          {
+          "titulo": "Luz de esperanza - Bocchi the rock",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
+      "opiniones": []
+    },
+    {
+      "id": "luz-kotetsu",
+      "historia": "luz-esperanza",
+      "nombre": "Kotetsu",
       "titulo": "¿?",
       "avatar": "",
       "arte": "",
@@ -2564,9 +2731,9 @@
       "opiniones": []
     },
     {
-      "id": "luz-ayato",
+      "id": "luz-kotetsu",
       "historia": "luz-esperanza",
-      "nombre": "Ayato (Tn Hiroko)",
+      "nombre": "Kotetsu",
       "titulo": "¿?",
       "avatar": "",
       "arte": "",
@@ -2582,45 +2749,9 @@
       "opiniones": []
     },
     {
-      "id": "luz-seika-ijichi",
+      "id": "luz-kotetsu",
       "historia": "luz-esperanza",
-      "nombre": "Seika Ijichi",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "luz-pa-san",
-      "historia": "luz-esperanza",
-      "nombre": "Pa San",
-      "titulo": "¿?",
-      "avatar": "",
-      "arte": "",
-      "descripcion": "¿?",
-      "historia_personal": "",
-      "datos": {
-        "Edad": "¿?",
-        "Altura": "¿?",
-        "Cumpleaños": "¿?",
-        "Ocupación": "¿?"
-      },
-      "apariciones": [],
-      "opiniones": []
-    },
-    {
-      "id": "luz-hiroi-kikuri",
-      "historia": "luz-esperanza",
-      "nombre": "Hiroi Kikuri",
+      "nombre": "Kotetsu",
       "titulo": "¿?",
       "avatar": "",
       "arte": "",
