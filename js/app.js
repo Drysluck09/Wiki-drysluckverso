@@ -414,6 +414,29 @@ function closeWorld() {
 }
 
 /* Pestaña Universo: las historias de cada universo salen de data/universos.json */
+// "Basado en...": cada caja toma la proporción real de su imagen (sin rellenos ni fondos)
+function fitBase() {
+  const b = $('#uni-base'), t = b.querySelector('.ub-top'), d = b.querySelector('.ub-desc');
+  if (!t || !d) return;
+  const boxes = [...t.querySelectorAll('.ub-img')];
+  if (window.innerWidth <= 900) { [b, t, d, ...boxes].forEach(x => x.removeAttribute('style')); return; }
+  const ratio = el => { const i = el.querySelector('img'); return i && i.naturalWidth && i.naturalHeight ? i.naturalWidth / i.naturalHeight : null; };
+  const r1 = ratio(boxes[0]) || 0.75, r2 = ratio(boxes[1]) || 1.78, r3 = ratio(boxes[2]) || 1.78, g = 18;
+  const k = 1 / r2 + 1 / r3;                                // columna derecha: dos imágenes con el mismo ancho
+  const wOf = H => r1 * H + g + (H - g) / k;                // ancho del conjunto de imágenes para un alto H
+  const hFit = Wmax => (Wmax - g + g / k) / (r1 + 1 / k);   // alto máximo para un ancho disponible
+  const cw = b.clientWidth, ch = b.clientHeight, minD = 300;
+  const Hb = Math.max(240, Math.min(ch - 120 - g, hFit(cw)));   // opción 1: descripción debajo
+  const Hs = Math.max(240, Math.min(ch, hFit(cw - minD - g)));  // opción 2: descripción al lado (imágenes más grandes)
+  const side = cw > 1000 && Hs > Hb * 1.08;
+  const H = side ? Hs : Hb, w = (H - g) / k, W = wOf(H);
+  b.style.flexDirection = side ? 'row' : 'column';
+  b.style.justifyContent = side ? 'center' : '';
+  t.style.cssText = `width:${W}px;height:${H}px;grid-template-columns:${r1 * H}px ${w}px;grid-template-rows:${w / r2}px ${w / r3}px`;
+  d.style.cssText = side ? `width:${Math.min(520, cw - W - g)}px;height:${H}px` : `width:${W}px`;
+}
+window.addEventListener('resize', () => { if (!$('#uni-base').hidden) fitBase(); });
+
 function renderUniverso(uid, sid, mode) {
   const us = S.universos || [];
   if (!us.length) return;
@@ -429,10 +452,19 @@ function renderUniverso(uid, sid, mode) {
   $('#uni-unis').innerHTML = us.map(x => `<div class="uni-grp">
     <button class="uni-btn ${x.id === u.id && !base ? 'active' : ''}" data-uni="${esc(x.id)}">${esc(x.nombre || x.id)}</button>
     <button class="uni-btn ${x.id === u.id && base ? 'active' : ''}" data-base="${esc(x.id)}">Basado en...</button></div>`).join('');
-  $('#uni-list').innerHTML = ids.map(id => {
-    const s = storyById(id);
-    return `<button class="uni-item ${id === S.uniStory && !base ? 'active' : ''}" data-story="${esc(id)}">${imgTag(s.icono, s.titulo)}<span>${esc(s.titulo)}</span></button>`;
-  }).join('') || '<p class="hint">Aún no hay historias en este universo.</p>';
+  // Rutas del universo (opcional en universos.json): la lista se agrupa por ruta y cada una tiene su color
+  const rutas = (u.rutas || []).map(r => ({ ...r, ids: (r.historias || []).filter(storyById) })).filter(r => r.ids.length);
+  const rutasDe = id => rutas.filter(r => r.ids.includes(id));
+  const rc = r => esc(r.color || 'var(--gold)');
+  const item = (id, r) => {
+    const s = storyById(id), on = id === S.uniStory && !base ? 'active' : '';
+    if (!r) return `<button class="uni-item ${on}" data-story="${esc(id)}">${imgTag(s.icono, s.titulo)}<span>${esc(s.titulo)}</span></button>`;
+    const otras = rutasDe(id).filter(x => x !== r).map(x => x.nombre);
+    return `<button class="uni-item mini ${on}" data-story="${esc(id)}">${imgTag(s.icono, s.titulo)}<span>${esc(s.titulo)}${otras.length ? `<small>También en: ${esc(otras.join(', '))}</small>` : ''}</span></button>`;
+  };
+  $('#uni-list').innerHTML = (rutas.length
+    ? rutas.map(r => `<div class="uni-ruta" style="--rc:${rc(r)}"><h4>${esc(r.nombre)}</h4>${r.ids.map(id => item(id, r)).join('')}</div>`).join('')
+    : ids.map(id => item(id)).join('')) || '<p class="hint">Aún no hay historias en este universo.</p>';
   $('#uni-main').hidden = base;
   $('#uni-base').hidden = !base;
 
@@ -441,11 +473,13 @@ function renderUniverso(uid, sid, mode) {
     // La imagen se ve completa y, si no encaja en la caja, el resto se rellena con la misma imagen difuminada
     const box = (n, cls) => {
       const s = (b.imagenes || [])[n];
-      return s ? `<div class="ub-img ${cls}" style="--bg:url(${esc(JSON.stringify(s))})">${imgTag(s, `Imagen ${n + 1}`)}</div>`
+      return s ? `<div class="ub-img ${cls}">${imgTag(s, `Imagen ${n + 1}`)}</div>`
                : `<div class="ub-img ${cls}"><div class="ub-ph">Imagen ${n + 1}</div></div>`;
     };
     $('#uni-base').innerHTML = `<div class="ub-top">${box(0, 'a')}${box(1, '')}${box(2, '')}</div>
       <div class="ub-desc">${b.descripcion ? paragraphs(b.descripcion) : '<p class="hint">Aquí va la descripción de en qué se basa este universo.</p>'}</div>`;
+    $$('#uni-base img').forEach(i => { if (!i.complete) i.addEventListener('load', fitBase); });
+    fitBase();
     return;
   }
   if (!h) { $('#uni-card').innerHTML = ''; $('#uni-cover').innerHTML = ''; return; }
@@ -459,7 +493,8 @@ function renderUniverso(uid, sid, mode) {
   if (pic.complete) ar(); else pic.addEventListener('load', ar);
 
   const chars = S.personajes.filter(p => p.historia === h.id);
-  $('#uni-card').innerHTML = `<h3>${esc(h.titulo)}</h3>
+  const chips = rutasDe(h.id).length ? `<div class="uni-rutas">${rutasDe(h.id).map(r => `<span class="ruta-chip" style="--rc:${rc(r)}">${esc(r.nombre)}</span>`).join('')}</div>` : '';
+  $('#uni-card').innerHTML = `${chips}<h3>${esc(h.titulo)}</h3>
     <p class="mv-meta">${esc([h.estado, h.genero].filter(Boolean).join(' - '))}</p>
     <div class="links">${linksHtml(h.enlaces)}</div>
     <div class="uni-chars">${chars.map(c =>
@@ -468,7 +503,8 @@ function renderUniverso(uid, sid, mode) {
 }
 
 function renderTimeline() {
-  const list = [...S.historias].sort((a, b) => (a.orden ?? 999) - (b.orden ?? 999));
+  const list = S.historias.filter(h => h.orden !== '' && h.orden != null && !isNaN(h.orden))
+    .sort((a, b) => Number(a.orden) - Number(b.orden));
   $('#timeline').innerHTML = list.map((h, i) => `
     <li class="tl-item">
       <span class="tl-mark">${i + 1}</span>

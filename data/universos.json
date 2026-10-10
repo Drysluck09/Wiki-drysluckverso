@@ -8,29 +8,62 @@
       ],
       "basado_en": {
         "imagenes": [
-          "",
-          "",
-          ""
+          "imagenes/universos/u1portada1.jpg",
+          "imagenes/universos/u1portada2.jpg",
+          "imagenes/universos/u1portada3.png"
         ],
-        "descripcion": ""
+        "descripcion": "'Ranchi Bizarre Adventure' es la historia que lo comenzó todo y representa el 'Universo 1'. Está basada en un juego de roleplay de un servidor de Discord, por lo que sus personajes están inspirados en personas de la vida real. La historia abarca un total de 27 arcos y aunque cuenta con muchos opening y arcos, aquí solo se hará un resumen de cada uno de ellos. Al ser el origen de todo, en este universo se explica el tema de las almas reencarnadas y cómo este mundo se conecta con el resto de las historias."
       }
     },
     {
       "id": "universo-2",
       "nombre": "Universo 2",
       "historias": [
-        "detras-frialdad",
+        "precio-perfeccion",
+        "razon-proteger-sonrisas",
+        "saga-reencarnacion",
         "luz-esperanza",
+        "detras-frialdad",
         "mensaje-arrepentimiento"
       ],
       "basado_en": {
         "imagenes": [
-          "",
-          "",
-          ""
+          "imagenes/universos/u2portada1.png",
+          "imagenes/universos/u2portada2.jpg",
+          "imagenes/universos/u2portada3.png"
         ],
-        "descripcion": ""
-      }
+        "descripcion": "El 'Universo 2' cuenta la historia de Hotaro, Yuki y Tokisaki, tres amigos que reencarnan en mundos diferentes. En cada vida deben adaptarse a su nueva vida mientras intentan superar las heridas del pasado, los secretos que nunca se atrevieron a decir y el peso de sus arrepentimientos.Este universo está inspirado en las tristes historias de la 'Saga del Mal', algo que se nota claramente en la relación entre Tokisaki y Yuki, quienes cargan con una profunda culpa al creer que cada uno es responsable de la muerte del otro.La historia se divide en tres caminos o rutas distintas: la Ruta del Alma Fragmentada, la Ruta del Corazón Perdido y la Ruta del Destino Entretejido. Cada una cuenta una aventura diferente, pero todas tienen en común a Hotaro, Tokisaki y Yuki, ya sea como los protagonistas o secundarios. "
+      },
+      "rutas": [
+        {
+          "id": "alma-fragmentada",
+          "nombre": "Ruta del Alma Fragmentada",
+          "color": "#6fb1ff",
+          "historias": [
+            "saga-reencarnacion",
+            "luz-esperanza"
+          ]
+        },
+        {
+          "id": "corazon-perdido",
+          "nombre": "Ruta del Corazón Perdido",
+          "color": "#ff7f9f",
+          "historias": [
+            "precio-perfeccion",
+            "razon-proteger-sonrisas"
+          ]
+        },
+        {
+          "id": "destino-entretejido",
+          "nombre": "Ruta del Destino Entretejido",
+          "color": "#5fd4a6",
+          "historias": [
+            "saga-reencarnacion",
+            "detras-frialdad",
+            "mensaje-arrepentimiento"
+          ]
+        }
+      ]
     },
     {
       "id": "universo-3",
@@ -42,11 +75,11 @@
       ],
       "basado_en": {
         "imagenes": [
-          "",
-          "",
-          ""
+          "imagenes/universos/u3portada1.jpg",
+          "imagenes/universos/u3portada2.png",
+          "imagenes/universos/u3portada3.webp"
         ],
-        "descripcion": ""
+        "descripcion": "Inspirado en los Herederos de Chrysos de Honkai: Star Rail, el universo 3 sigue a los miembros de 'Las Cadenas de Prometeo', un grupo que decidió desafiar a los dioses que obligan a las almas a reencarnar una y otra vez. Cada miembro vive ciclos en su propio mundo sin recordar su propósito hasta recibir el poder del portador anterior, lo que le permite recuperar sus memorias, asimilar todas sus habilidades y potenciar este poder para transferirlo al siguiente, permitiendo que el alma del portador actual por fin pueda descansar en paz. Y es que estos dioses no solo hacen que las almas vuelvan a nacer en otros mundos sin memoria, sino que en ocasiones se divierten observando el sufrimiento de las almas atrapadas en ese proceso. El nombre viene de Prometeo, el titán que robó el fuego a los dioses para dárselo a la humanidad y ellos hacen algo parecido al transferir este poder, haciendolo más fuerte para enfrentarse a los dioses con el objetivo de liberar a las almas."
       }
     }
   ]
