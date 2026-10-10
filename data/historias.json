@@ -36,7 +36,7 @@
       "estado": "Finalizado",
       "genero": "Fanfic, drama, romance",
       "epoca": "Año 2025",
-      "orden": 2,
+      "orden": 10,
       "sinopsis": "Tn Kawaragi nunca soñó con ser entrenador, ni siquiera entiende por qué las Uma Musume corren con tanta pasión. Pero su vida da un giro inesperado cuando, contra su voluntad, es obligado a tomar el puesto. Lo que empieza como una tarea aburrida y sin sentido pronto se convierte en un viaje para descubrir la verdadera razón detrás de las carreras.",
       "enlaces": [
         {
@@ -51,38 +51,38 @@
       }
     },
     {
-      "id": "capitan-tsubasa",
-      "titulo": "Capitán Tsubasa: una nueva historia",
-      "icono": "imagenes/historias/capitan-tsubasa.webp",
-      "portada": "imagenes/historias/capitan-tsubasa.webp",
+      "id": "significado-vida",
+      "titulo": "El significado de mi vida",
+      "icono": "imagenes/historias/significado-vida.webp",
+      "portada": "imagenes/historias/significado-vida.webp",
       "fondo": "",
-      "estado": "Cancelada",
-      "genero": "Fanfic, Deportes",
-      "epoca": "Año 2023",
-      "orden": 3,
-      "sinopsis": "Esta historia es un fancfic de capitan stubasa  o algo así  que se me ocurrio metiendo personsajes que voy a crear  y los que ya conocemos y de otros animes relacionados a este deporte, soy principiante en esto de hacer historias pero intentare hacer que la historia se desarrolle ya sin muchos rodeos espero que les guste esta historia. Los personsajes no son mios si no de Yoichi Takahashi",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance, magia, garou",
+      "epoca": "Año 2024",
+      "orden": 8,
+      "sinopsis": "Nacer en un mundo donde la mayoría de la poblacion son mujeres puede parecer bueno ¿Verdad?. Tn urami enfrentará la discriminación de esto en su infancia siendo tratado como paria, A medida que crece tendrá que vivir en este mundo intentando conseguir la aprobacion mientras esta en la organizacion de Enormita.",
       "enlaces": [
         {
           "plataforma": "Wattpad",
-          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
+          "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         }
       ],
       "conexiones": [],
       "mapa": {
-        "x": 28,
-        "y": 90
+        "x": 10,
+        "y": 72
       }
     },
     {
       "id": "camino-heroe",
       "titulo": "El camino para ser un héroe",
-      "icono": "imagenes/historias/camino-heroe.webp",
-      "portada": "imagenes/historias/camino-heroe.webp",
+      "icono": "imagenes/historias/camino-heroe.jpg",
+      "portada": "imagenes/historias/camino-heroe.jpg",
       "fondo": "",
       "estado": "En pausa",
       "genero": "Fanfic, drama, romance, peleas",
       "epoca": "Año 2025",
-      "orden": 4,
+      "orden": 9,
       "sinopsis": "Desde su niñez Tn Midoriya ha admirado a las chicas mágicas soñando con convertirse en un héroe como ellas pero se enfrenta a la dura realidad de no tener magia, lo normal.  Enfrentando el rechazo hasta que un día tiene la oportunidad de hacerlo realidad. Midoriya deberá encontrar la manera de seguir persiguiendo su sueño. El comienzo del nacimiento de un héroe.",
       "enlaces": [
         {
@@ -97,6 +97,29 @@
       }
     },
     {
+      "id": "luz-esperanza",
+      "titulo": "Luz de esperanza",
+      "icono": "imagenes/historias/luz-esperanza.webp",
+      "portada": "imagenes/historias/luz-esperanza.webp",
+      "fondo": "",
+      "estado": "Finalizado",
+      "genero": "Fanfic, drama, romance, reencarnacion, superacion, tristeza",
+      "epoca": "Año 2023",
+      "orden": 4,
+      "sinopsis": "En una vida pasada un adolescente luchó en vano por obtener la aprobación de una sociedad que valoraba el talento sobre todas las cosas. Después de su fallecimiento, renace en un mundo donde posee conocimiento del futuro hasta que se encuentra en la vida de unas chicas de la banda llamada Kessoku Band. A pesar de sus esfuerzos por mantenerse al margen y no alterar el curso de los eventos, se ve inexorablemente arrastrado hacia su destino. A medida que se fortalece tendrá que enfrenta a sus propios demonios, embarcándose en un viaje de autodescubrimiento y redención donde cada elección puede cambiar el destino de todos los involucrados.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 88,
+        "y": 74
+      }
+    },
+    {
       "id": "precio-perfeccion",
       "titulo": "El precio de la perfección",
       "icono": "imagenes/historias/precio-perfeccion.webp",
@@ -105,7 +128,7 @@
       "estado": "Finalizado",
       "genero": "Fanfic, superacion, poesia, drama, romance",
       "epoca": "Año 2024",
-      "orden": 5,
+      "orden": 2,
       "sinopsis": "En una familia donde la grandeza se mide por la frialdad y la perfección, dos hermanos crecieron bajo la sombra de. En un familia donde las emociones son vistas como debilidades y las conexiones humanas como distracciones, ambos hermanos tomarán caminos divergentes donde uno deberá decidir entre perpetuar un legado de indiferencia o abrazar la autenticidad que su hermana siempre defendió.",
       "enlaces": [
         {
@@ -120,6 +143,29 @@
       }
     },
     {
+      "id": "razon-proteger-sonrisas",
+      "titulo": "La razón para proteger sus sonrisas",
+      "icono": "imagenes/historias/razon-proteger-sonrisas.webp",
+      "portada": "imagenes/historias/razon-proteger-sonrisas.webp",
+      "fondo": "",
+      "estado": "En emisión",
+      "genero": "Fanfic, drama, romance, harem, superacion",
+      "epoca": "Año 2025",
+      "orden": 3,
+      "sinopsis": "Tn Tokisaki lucha por encontrar su lugar al carecer de un talento destacado, abandonado por su propia familia, enfrentará desafíos, traiciones y rivalidades mientras busca su verdadero yo. En un viaje de autodescubrimiento, Tn desafiará las expectativas y encontrará amistades inesperadas en un mundo obsesionado con el éxito en un mundo donde la grandeza está determinada por las influyentes familias Nanakase, Tokisaki, Shinomiya, Yamagawa y Kimiko.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 68,
+        "y": 90
+      }
+    },
+    {
       "id": "ecos-corazon-fugaz",
       "titulo": "Ecos de un corazón fugaz",
       "icono": "imagenes/historias/ecos-corazon-fugaz.webp",
@@ -128,7 +174,7 @@
       "estado": "No disponible",
       "genero": "Fanfic, drama, romance",
       "epoca": "Año ¿?",
-      "orden": 6,
+      "orden": "",
       "sinopsis": "En la Academica Tracen un joven comienza a trabajar temporalmente en las instalaciones, su vida da un giro cuando conoce a las umas y quedando maravilla como superan sus dificultades e inseguridades. Lo que comienza como una simple amistad pronto se convierte en algo más profundo, juntos descubrirán que las victorias más importantes no siempre se miden en la meta y lo que significa correr con el corazón.",
       "enlaces": [
         {
@@ -151,7 +197,7 @@
       "estado": "Muy pronto",
       "genero": "Fanfic, drama, romance",
       "epoca": "Año 2026",
-      "orden": 7,
+      "orden": "",
       "sinopsis": "Todas veen a Still in Love como una yandere pero alguna vez te haz puesto pensar ¿Que hay detras de esa faceta?.",
       "enlaces": [
         {
@@ -166,6 +212,29 @@
       }
     },
     {
+      "id": "detras-frialdad",
+      "titulo": "Detrás de esa frialdad",
+      "icono": "imagenes/historias/detras-frialdad.webp",
+      "portada": "imagenes/historias/detras-frialdad.webp",
+      "fondo": "",
+      "estado": "Finalizado",
+      "genero": "Fanfic, drama, romance",
+      "epoca": "Año 2025",
+      "orden": 5,
+      "sinopsis": "Un estudiante tranquilo y reservado conoce a un chico extrovertido con grandes sueños de popularidad. Aunque al principio parecen opuestos, forjan una amistad única. Una historia que explorara la amistad, la traición y el peso de las decisiones en medio de una sociedad rápida para juzgar y lenta para comprender.",
+      "enlaces": [
+        {
+          "plataforma": "Wattpad",
+          "url": "https://www.wattpad.com/story/388543344-detras-de-esa-frialdad-roshidere-zero"
+        }
+      ],
+      "conexiones": [],
+      "mapa": {
+        "x": 90,
+        "y": 12
+      }
+    },
+    {
       "id": "saga-reencarnacion",
       "titulo": "La saga de la reencarnación",
       "icono": "imagenes/historias/saga-reencarnacion.webp",
@@ -174,7 +243,7 @@
       "estado": "Finalizado",
       "genero": "Fanfic, drama, romance",
       "epoca": "Año 2025",
-      "orden": 8,
+      "orden": 6,
       "sinopsis": "Una mentira puede parece inofensiva pero esa mentira puede crecer hasta que llega un momento donde sale de nuestras manos.",
       "enlaces": [
         {
@@ -189,29 +258,6 @@
       }
     },
     {
-      "id": "luz-esperanza",
-      "titulo": "Luz de esperanza",
-      "icono": "imagenes/historias/luz-esperanza.webp",
-      "portada": "imagenes/historias/luz-esperanza.webp",
-      "fondo": "",
-      "estado": "Finalizado",
-      "genero": "Fanfic, drama, romance, reencarnacion, superacion, tristeza",
-      "epoca": "Año 2023",
-      "orden": 9,
-      "sinopsis": "En una vida pasada un adolescente luchó en vano por obtener la aprobación de una sociedad que valoraba el talento sobre todas las cosas. Después de su fallecimiento, renace en un mundo donde posee conocimiento del futuro hasta que se encuentra en la vida de unas chicas de la banda llamada Kessoku Band. A pesar de sus esfuerzos por mantenerse al margen y no alterar el curso de los eventos, se ve inexorablemente arrastrado hacia su destino. A medida que se fortalece tendrá que enfrenta a sus propios demonios, embarcándose en un viaje de autodescubrimiento y redención donde cada elección puede cambiar el destino de todos los involucrados.",
-      "enlaces": [
-        {
-          "plataforma": "Wattpad",
-          "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }
-      ],
-      "conexiones": [],
-      "mapa": {
-        "x": 88,
-        "y": 74
-      }
-    },
-    {
       "id": "mensaje-arrepentimiento",
       "titulo": "Mensaje de arrepentimiento",
       "icono": "imagenes/historias/mensaje-arrepentimiento.webp",
@@ -220,7 +266,7 @@
       "estado": "Finalizado",
       "genero": "Fanfic, drama, romance, egoismo",
       "epoca": "Año 2025",
-      "orden": 10,
+      "orden": 7,
       "sinopsis": "Tn Ozora es un joven mitad latinoamericano y japonés marcado por un pasado de dificultades. Tras mudarse a Japón se une al club de fútbol y ademas de tener compañeras como Gotou y Alya, está última habla a veces en ruso que hay veces donde le cuesta entenderla pero el también le juega el mismo juego cuando habla español.",
       "enlaces": [
         {
@@ -243,7 +289,7 @@
       "estado": "Sin estrenarse",
       "genero": "Fanfic, drama, romance, futbol, egoismo, compañerismo",
       "epoca": "Año ¿?",
-      "orden": 11,
+      "orden": "",
       "sinopsis": "Secuela de mensaje de arrepentimiento",
       "enlaces": [
         {
@@ -258,72 +304,26 @@
       }
     },
     {
-      "id": "razon-proteger-sonrisas",
-      "titulo": "La razón para proteger sus sonrisas",
-      "icono": "imagenes/historias/razon-proteger-sonrisas.webp",
-      "portada": "imagenes/historias/razon-proteger-sonrisas.webp",
+      "id": "capitan-tsubasa",
+      "titulo": "Capitán Tsubasa: una nueva historia",
+      "icono": "imagenes/historias/capitan-tsubasa.webp",
+      "portada": "imagenes/historias/capitan-tsubasa.webp",
       "fondo": "",
-      "estado": "En emisión",
-      "genero": "Fanfic, drama, romance, harem, superacion",
-      "epoca": "Año 2025",
-      "orden": 12,
-      "sinopsis": "Tn Tokisaki lucha por encontrar su lugar al carecer de un talento destacado, abandonado por su propia familia, enfrentará desafíos, traiciones y rivalidades mientras busca su verdadero yo. En un viaje de autodescubrimiento, Tn desafiará las expectativas y encontrará amistades inesperadas en un mundo obsesionado con el éxito en un mundo donde la grandeza está determinada por las influyentes familias Nanakase, Tokisaki, Shinomiya, Yamagawa y Kimiko.",
+      "estado": "Cancelada",
+      "genero": "Fanfic, Deportes",
+      "epoca": "Año 2023",
+      "orden": "",
+      "sinopsis": "Esta historia es un fancfic de capitan stubasa  o algo así  que se me ocurrio metiendo personsajes que voy a crear  y los que ya conocemos y de otros animes relacionados a este deporte, soy principiante en esto de hacer historias pero intentare hacer que la historia se desarrolle ya sin muchos rodeos espero que les guste esta historia. Los personsajes no son mios si no de Yoichi Takahashi",
       "enlaces": [
         {
           "plataforma": "Wattpad",
-          "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
+          "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
         }
       ],
       "conexiones": [],
       "mapa": {
-        "x": 68,
+        "x": 28,
         "y": 90
-      }
-    },
-    {
-      "id": "significado-vida",
-      "titulo": "El significado de mi vida",
-      "icono": "imagenes/historias/significado-vida.webp",
-      "portada": "imagenes/historias/significado-vida.webp",
-      "fondo": "",
-      "estado": "En emisión",
-      "genero": "Fanfic, drama, romance, magia, garou",
-      "epoca": "Año 2024",
-      "orden": 13,
-      "sinopsis": "Nacer en un mundo donde la mayoría de la poblacion son mujeres puede parecer bueno ¿Verdad?. Tn urami enfrentará la discriminación de esto en su infancia siendo tratado como paria, A medida que crece tendrá que vivir en este mundo intentando conseguir la aprobacion mientras esta en la organizacion de Enormita.",
-      "enlaces": [
-        {
-          "plataforma": "Wattpad",
-          "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
-        }
-      ],
-      "conexiones": [],
-      "mapa": {
-        "x": 10,
-        "y": 72
-      }
-    },
-    {
-      "id": "detras-frialdad",
-      "titulo": "Detrás de esa frialdad",
-      "icono": "imagenes/historias/detras-frialdad.webp",
-      "portada": "imagenes/historias/detras-frialdad.webp",
-      "fondo": "",
-      "estado": "Finalizado",
-      "genero": "Fanfic, drama, romance",
-      "epoca": "Año 2025",
-      "orden": 14,
-      "sinopsis": "Un estudiante tranquilo y reservado conoce a un chico extrovertido con grandes sueños de popularidad. Aunque al principio parecen opuestos, forjan una amistad única. Una historia que explorara la amistad, la traición y el peso de las decisiones en medio de una sociedad rápida para juzgar y lenta para comprender.",
-      "enlaces": [
-        {
-          "plataforma": "Wattpad",
-          "url": "https://www.wattpad.com/story/388543344-detras-de-esa-frialdad-roshidere-zero"
-        }
-      ],
-      "conexiones": [],
-      "mapa": {
-        "x": 90,
-        "y": 12
       }
     }
   ],

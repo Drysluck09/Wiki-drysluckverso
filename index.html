@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Nunito+Sans:wght@400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css?v=3">
+  <link rel="stylesheet" href="css/style.css?v=7">
 </head>
 <body>
   <div class="stars" aria-hidden="true"></div>
@@ -135,6 +135,7 @@
         <div class="seg" role="tablist">
           <button class="seg-btn active" id="tab-mapa" role="tab">Mapa</button>
           <button class="seg-btn" id="tab-cron" role="tab">Cronología</button>
+          <button class="seg-btn" id="tab-uni" role="tab">Universo</button>
         </div>
       </div>
 
@@ -150,6 +151,7 @@
         </div>
 
         <aside class="mv-panel" id="mv-panel">
+          <button class="mv-close" id="mv-close" aria-label="Cerrar">&times;</button>
           <p class="hint" id="mv-hint">Toca un mundo para ver de qué trata y con cuáles se conecta.</p>
           <div id="mv-info" hidden>
             <h3 id="mv-title"></h3>
@@ -164,6 +166,20 @@
           </div>
         </aside>
       </div>
+
+      <section class="uni" id="mv-uni" hidden>
+        <aside class="uni-side">
+          <div class="uni-unis" id="uni-unis"></div>
+          <div class="uni-list" id="uni-list"></div>
+        </aside>
+        <div class="uni-stage">
+          <div class="uni-main" id="uni-main">
+            <div class="uni-card" id="uni-card"></div>
+            <div class="uni-cover" id="uni-cover"></div>
+          </div>
+          <div class="uni-base" id="uni-base" hidden></div>
+        </div>
+      </section>
 
       <ol class="timeline" id="timeline" hidden></ol>
     </div>
@@ -190,6 +206,6 @@
     </div>
   </div>
 
-  <script src="js/app.js?v=3"></script>
+  <script src="js/app.js?v=7"></script>
 </body>
 </html>

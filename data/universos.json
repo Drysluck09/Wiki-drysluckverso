@@ -1,0 +1,53 @@
+{
+  "universos": [
+    {
+      "id": "universo-1",
+      "nombre": "Universo 1",
+      "historias": [
+        "RanchiBizarreAventure"
+      ],
+      "basado_en": {
+        "imagenes": [
+          "",
+          "",
+          ""
+        ],
+        "descripcion": ""
+      }
+    },
+    {
+      "id": "universo-2",
+      "nombre": "Universo 2",
+      "historias": [
+        "detras-frialdad",
+        "luz-esperanza",
+        "mensaje-arrepentimiento"
+      ],
+      "basado_en": {
+        "imagenes": [
+          "",
+          "",
+          ""
+        ],
+        "descripcion": ""
+      }
+    },
+    {
+      "id": "universo-3",
+      "nombre": "Universo 3",
+      "historias": [
+        "RanchiBizarreAventure",
+        "buscando-un-proposito",
+        "camino-heroe"
+      ],
+      "basado_en": {
+        "imagenes": [
+          "",
+          "",
+          ""
+        ],
+        "descripcion": ""
+      }
+    }
+  ]
+}

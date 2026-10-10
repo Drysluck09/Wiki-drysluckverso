@@ -1,20 +1,174 @@
 {
   "noticias": [
-    {
-      "fecha": "2026-09-25",
-      "etiqueta": "Capítulo nuevo",
-      "titulo": "Ya está disponible el capítulo 6",
-      "texto": "Sale un nuevo capítulo de Ranchi Bizarre Aventure: la carrera que todos esperaban.",
-      "historia": "RanchiBizarreAventure",
-      "url": "https://www.wattpad.com/",
+    
+     {
+      "fecha": "2024-10-08",
+      "etiqueta": "Nueva historia",
+      "titulo": "Nueva historia: Mensaje de arrepentimiento",
+      "texto": "Se estrena una historia inspirado en el universo de Roshidere.",
+      "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn",
       "url_texto": "Leer en Wattpad"
     },
     {
-      "fecha": "2026-09-10",
-      "etiqueta": "Sitio",
-      "titulo": "Nueva sección: Multiverso",
-      "texto": "Ahora puedes ver cómo se conectan las historias y en qué orden ocurren.",
-      "historia": ""
+      "fecha": "2026-08-07",
+      "etiqueta": "",
+      "titulo": "NUEVAS HISTORIAS",
+      "texto": "Se comfirma nuevas historias inspiradas en el univero de Roshidere y Bocchi The Rock. La de Roshidere se llamara 'Un egoista en Roshidere' que sera la secuela de 'Mensaje de arrepentimiento' mientras que en la de bocchi the rock no se sabe aun el titulo pero sera un Remake de Luz de esperanza."
+    },
+    {
+      "fecha": "2025-04-06",
+      "etiqueta": "Fin historia",
+      "titulo": "Capitulo final del fanfic: Mensaje de arrepentimiento.",
+      "texto": "Con un total de 16 capitulos y 3 canciones. El fanfic Mensaje de arrepentimiento Finaliza ",
+      "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn",
+      "url_texto": "Leer en Wattpad"
+    },
+
+    {
+      "fecha": "2025-01-25",
+      "etiqueta": "Nueva historia",
+      "titulo": "Nueva historia: Detras de esa frialdad - Roshidere Zero",
+      "texto": "Se estrena una historia inspirado en el universo de Roshidere.",
+      "url": "https://www.wattpad.com/story/388543344-detras-de-esa-frialdad-roshidere-zero",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2024-07-03",
+      "etiqueta": "Fin historia",
+      "titulo": "Capitulo final del fanfic: El precio de la perfección.",
+      "texto": "Con un total de 16 capitulos y 1 cancion. El precio de la perfección Finaliza ",
+      "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2024-05-28",
+      "etiqueta": "Nueva historia",
+      "titulo": "Nueva historia: El precio de la perfección",
+      "texto": "Se estrena una historia inspirado en el universo de Bocchi the rock y que sera una precuela de Bocchi the Rock - La razon para proteger sus sonrisas.",
+      "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x",
+      "url_texto": "Leer en Wattpad"
+    },
+
+     {
+      "fecha": "2025-08-10",
+      "etiqueta": "Pausa de historia",
+      "titulo": "Pausa indefinido del fanfic El camino para ser un Héroe - Mahou shoujo ni akogarete ",
+      "texto": "Con un total de 6 capitulos y 1 opening, entra en hiatus la historia El camino para ser un Héroe hasta nuevo aviso."
+    },
+    {
+      "fecha": "2024-07-6",
+      "etiqueta": "Nueva historia",
+      "titulo": "Nueva historia: El camino para ser un Héroe ",
+      "texto": "Se estrena una historia inspirado en el universo de Mahou shoujo ni akogarete.",
+      "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou",
+      "url_texto": "Leer en Wattpad"
+    },
+
+    {
+      "fecha": "2025-04-36",
+      "etiqueta": "Nueva historia",
+      "titulo": "Nueva historia: La saga de la reencarnación One shot.",
+      "texto": "Se estrena un one shot inspirado en el universo de Bocchi the rock.",
+      "url": "https://www.wattpad.com/story/352330885-la-saga-de-la-reencarnaci%C3%B3n-one-shot",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2024-09-30",
+      "etiqueta": "Fin historia",
+      "titulo": "Capitulo final del fanfic: El significa de mi vida - Mahou shoujo ni akogarete ",
+      "texto": "Con un total de 38 capitulos, 4 opening y 1 ending y 2 canciones. El significa de mi vida - Mahou shoujo ni akogarete.",
+      "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2024-03-19",
+      "etiqueta": "Nueva historia",
+      "titulo": "Nueva historia: El significa de mi vida - Mahou shoujo ni akogarete",
+      "texto": "Se estrena una historia inspirado en el universo de Mahou shoujo ni akogarete.",
+      "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete",
+      "url_texto": "Leer en Wattpad"
+    },
+
+    {
+      "fecha": "2026-06-4",
+      "etiqueta": "Fin historia",
+      "titulo": "Capitulo final del fanfic: Buscando un propósito - Umamusume ",
+      "texto": "Con un total de 35 capitulos,3 opening, 4 ending y 2 canciones. El fanfic Buscando un propósito - Umamusume  Finaliza.",
+      "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2025-09-2",
+      "etiqueta": "Nueva historia",
+      "titulo": "Nueva historia: Buscando un propósito - Umamusume ",
+      "texto": "Se estrena una historia inspirado en el universo de Umamusume Pretty Derby.",
+      "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2024-06-10",
+      "etiqueta": "Cambio de nombre ",
+      "titulo": "Nuevo nombre al fanfic de Bocchi the rock",
+      "texto": "El fanfic Un reencarnado en Bocchi the rock pasa a llamarse Bocchi the rock - Luz de esperanza"
+    },
+    {
+      "fecha": "2025-08-21",
+      "etiqueta": "Fin historia",
+      "titulo": "Capitulo final del fanfic: La razon para proteger sus sonrisas",
+      "texto": "Con un total de 36 capitulos y 2 canciones. El fanfic La razon para proteger sus sonrisas Finaliza.",
+      "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2024-05-8",
+      "etiqueta": "Nueva historia",
+      "titulo": "Nueva historia: La razon para proteger sus sonrisas ",
+      "texto": "Se estrena una historia inspirado en el universo de bocchi the rock.",
+      "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2023-11-10",
+      "etiqueta": "Fin historia",
+      "titulo": "Capitulo final del fanfic Un reencarnado en Bocchi the rock",
+      "texto": "Con un total de 52 capitulos, 5 opening, 10 ending y 2 canciones. El fanfic de Un reencarnado en Bocchi the Rock Finaliza.",
+      "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2023-02-12",
+      "etiqueta": "Nueva historia",
+      "titulo": "Nueva historia: Un reencarnado en Bocchi the rock",
+      "texto": "Se estrena una historia inspirado en el universo de bocchi the rock.",
+      "historia": "luz-esperanza",
+      "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock",
+      "url_texto": "Leer en Wattpad"
+    },
+    {
+      "fecha": "2023-02-06",
+      "etiqueta": "Intento de subirlo a wattpad",
+      "titulo": "Ranchi Bizarre Aventure en publicacion",
+      "texto": "Despues de mucho tiempo se intenta se sube Ramchi Bizarre Aventure a wattpad sim embargo por las bajas vistas, se posterga"
+    },
+     {
+      "fecha": "2023-02-06",
+      "etiqueta": "Cancelacion de historia",
+      "titulo": "Final abrupto de Capitan Tsubasa una nueva historia ",
+      "texto": "Tras 26 capitulos y un opening, se cancela la historia por lo dificil de desarollarlo"
+    },
+    {
+      "fecha": "2022-08-25",
+      "etiqueta": "Nueva historia",
+      "titulo": "Nueva historia: Capitan Tsubasa una nueva historia",
+      "texto": "Se estrena una historia inspirado en el universo de Capitan Tsubasa en la cual se mezclara personajes de los anime del mundo del futbol .",
+      "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada",
+      "url_texto": "Leer en Wattpad"
+    },
+   {
+      "fecha": "2022-03-02",
+      "etiqueta": "",
+      "titulo": "INICIO DE TODO",
+      "texto": "Aparece la primera historia escrita en discord, titulada Ranchi Bizarre Aventure basado en un roleplay de discord"
     }
   ]
 }

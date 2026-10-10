@@ -63,12 +63,13 @@ async function loadData() {
     if (!r.ok) throw new Error(`No se pudo cargar data/${f}.json`);
     return r.json();
   });
-  const [cfg, historias, personajes, noticias, media] = await Promise.all(
-    ['config', 'historias', 'personajes', 'noticias', 'media'].map(get)
+  const [cfg, historias, personajes, noticias, media, universos] = await Promise.all(
+    ['config', 'historias', 'personajes', 'noticias', 'media', 'universos'].map(get)
   );
   S.cfg = cfg;
   S.historias = historias.historias || [];
   S.gruposRaw = historias.conexiones_grupos || [];
+  S.universos = universos.universos || [];
   S.personajes = personajes.personajes || [];
   S.noticias = noticias.noticias || [];
   S.media = media.media || [];
@@ -87,10 +88,10 @@ function showView(v) {
 }
 
 function route() {
-  const [v, arg] = location.hash.slice(1).split('/');
+  const [v, arg, ch] = location.hash.slice(1).split('/');
   const view = showView(v);
   window.scrollTo(0, 0);
-  if (view === 'personajes') selectStory(arg && storyById(arg) ? arg : (S.storyId || S.historias[0]?.id), false);
+  if (view === 'personajes') { selectStory(arg && storyById(arg) ? arg : (S.storyId || S.historias[0]?.id), false); if (ch && charById(ch)) selectChar(ch); }
 }
 
 document.addEventListener('click', e => {
@@ -294,8 +295,25 @@ function showOpinion(targetId) {
 /* ============================================================
    MULTIVERSO
    ============================================================ */
-function worldPos(h, i) {
-  return h.mapa || { x: 16 + (i * 23) % 68, y: 22 + (i * 31) % 56 };
+// Reparte los mundos por todo el mapa y separa los que quedan muy juntos
+function layoutPos() {
+  const P = S.historias.map((h, i) => {
+    const m = h.mapa || { x: 16 + (i * 23) % 68, y: 22 + (i * 31) % 56 };
+    return { x: m.x, y: m.y };
+  });
+  for (let it = 0; it < 80; it++) {
+    for (let a = 0; a < P.length; a++) for (let b = a + 1; b < P.length; b++) {
+      const dx = (P[b].x - P[a].x) * 2, dy = P[b].y - P[a].y; // el mapa es ~2 veces más ancho que alto
+      const d = Math.hypot(dx, dy) || 0.01, min = 24;
+      if (d < min) {
+        const k = (min - d) / (2 * d);
+        P[a].x -= dx * k / 2; P[a].y -= dy * k;
+        P[b].x += dx * k / 2; P[b].y += dy * k;
+      }
+    }
+    P.forEach(p => { p.x = Math.min(92, Math.max(8, p.x)); p.y = Math.min(88, Math.max(10, p.y)); });
+  }
+  return P;
 }
 
 /* Conexiones: cada "grupo" es un punto de tu documento (historias que se conectan entre sí).
@@ -319,7 +337,8 @@ function buildGroups() {
 function renderMapa() {
   buildGroups();
   const pos = {};
-  S.historias.forEach((h, i) => { pos[h.id] = worldPos(h, i); });
+  const L = layoutPos();
+  S.historias.forEach((h, i) => { pos[h.id] = L[i]; });
 
   let lines = '';
   S.grupos.forEach((g, gi) => g.edges.forEach(e => {
@@ -340,6 +359,7 @@ function selectWorld(id, g) {
   const h = storyById(id);
   if (!h) return;
   S.worldId = id;
+  $('#mv-body').classList.add('open');
   const touches = e => e.a === id || e.b === id;
   const mine = S.grupos.map((_, i) => i).filter(i => S.grupos[i].edges.some(touches));
   const active = mine.includes(g) ? g : (mine.includes(S.activeGroup) ? S.activeGroup : mine[0]);
@@ -385,6 +405,68 @@ function selectWorld(id, g) {
   }).join('') || '<span class="hint">Aún sin conexiones.</span>';
 }
 
+function closeWorld() {
+  S.worldId = null;
+  $('#mv-body').classList.remove('open');
+  $$('.node').forEach(n => n.classList.remove('active', 'dim'));
+  $('#mv-lines').classList.remove('sel');
+  $$('#mv-lines line').forEach(l => l.classList.remove('on'));
+}
+
+/* Pestaña Universo: las historias de cada universo salen de data/universos.json */
+function renderUniverso(uid, sid, mode) {
+  const us = S.universos || [];
+  if (!us.length) return;
+  const u = us.find(x => x.id === (uid || S.uniId)) || us[0];
+  S.uniId = u.id;
+  if (mode) S.uniMode = mode;
+  const base = S.uniMode === 'base';
+  const ids = (u.historias || []).filter(storyById);
+  if (sid) S.uniStory = sid;
+  if (!ids.includes(S.uniStory)) S.uniStory = ids[0];
+  const h = storyById(S.uniStory);
+
+  $('#uni-unis').innerHTML = us.map(x => `<div class="uni-grp">
+    <button class="uni-btn ${x.id === u.id && !base ? 'active' : ''}" data-uni="${esc(x.id)}">${esc(x.nombre || x.id)}</button>
+    <button class="uni-btn ${x.id === u.id && base ? 'active' : ''}" data-base="${esc(x.id)}">Basado en...</button></div>`).join('');
+  $('#uni-list').innerHTML = ids.map(id => {
+    const s = storyById(id);
+    return `<button class="uni-item ${id === S.uniStory && !base ? 'active' : ''}" data-story="${esc(id)}">${imgTag(s.icono, s.titulo)}<span>${esc(s.titulo)}</span></button>`;
+  }).join('') || '<p class="hint">Aún no hay historias en este universo.</p>';
+  $('#uni-main').hidden = base;
+  $('#uni-base').hidden = !base;
+
+  if (base) {
+    const b = u.basado_en || {};
+    // La imagen se ve completa y, si no encaja en la caja, el resto se rellena con la misma imagen difuminada
+    const box = (n, cls) => {
+      const s = (b.imagenes || [])[n];
+      return s ? `<div class="ub-img ${cls}" style="--bg:url(${esc(JSON.stringify(s))})">${imgTag(s, `Imagen ${n + 1}`)}</div>`
+               : `<div class="ub-img ${cls}"><div class="ub-ph">Imagen ${n + 1}</div></div>`;
+    };
+    $('#uni-base').innerHTML = `<div class="ub-top">${box(0, 'a')}${box(1, '')}${box(2, '')}</div>
+      <div class="ub-desc">${b.descripcion ? paragraphs(b.descripcion) : '<p class="hint">Aquí va la descripción de en qué se basa este universo.</p>'}</div>`;
+    return;
+  }
+  if (!h) { $('#uni-card').innerHTML = ''; $('#uni-cover').innerHTML = ''; return; }
+
+  // El recuadro de la portada toma la proporción real de la imagen (sin espacios vacíos)
+  const cv = $('#uni-cover');
+  cv.style.setProperty('--ar', '2 / 3');
+  cv.innerHTML = imgTag(h.portada || h.icono, h.titulo);
+  const pic = cv.firstElementChild;
+  const ar = () => { if (pic.naturalWidth) cv.style.setProperty('--ar', `${pic.naturalWidth} / ${pic.naturalHeight}`); };
+  if (pic.complete) ar(); else pic.addEventListener('load', ar);
+
+  const chars = S.personajes.filter(p => p.historia === h.id);
+  $('#uni-card').innerHTML = `<h3>${esc(h.titulo)}</h3>
+    <p class="mv-meta">${esc([h.estado, h.genero].filter(Boolean).join(' - '))}</p>
+    <div class="links">${linksHtml(h.enlaces)}</div>
+    <div class="uni-chars">${chars.map(c =>
+      `<a class="uni-char" href="#personajes/${esc(h.id)}/${esc(c.id)}" title="${esc(c.nombre)}">${imgTag(c.arte || c.avatar, c.nombre)}<span>${esc(c.nombre)}</span></a>`
+    ).join('') || '<p class="hint">Esta historia todavía no tiene personajes registrados.</p>'}</div>`;
+}
+
 function renderTimeline() {
   const list = [...S.historias].sort((a, b) => (a.orden ?? 999) - (b.orden ?? 999));
   $('#timeline').innerHTML = list.map((h, i) => `
@@ -399,11 +481,11 @@ function renderTimeline() {
 }
 
 function setMvTab(tab) {
-  const mapa = tab === 'mapa';
-  $('#tab-mapa').classList.toggle('active', mapa);
-  $('#tab-cron').classList.toggle('active', !mapa);
-  $('#mv-body').hidden = !mapa;
-  $('#timeline').hidden = mapa;
+  ['mapa', 'cron', 'uni'].forEach(t => $('#tab-' + t).classList.toggle('active', t === tab));
+  $('#mv-body').hidden = tab !== 'mapa';
+  $('#timeline').hidden = tab !== 'cron';
+  $('#mv-uni').hidden = tab !== 'uni';
+  if (tab === 'uni') renderUniverso();
 }
 
 /* ============================================================
@@ -475,6 +557,14 @@ function bindEvents() {
   });
   $('#tab-mapa').onclick = () => setMvTab('mapa');
   $('#tab-cron').onclick = () => setMvTab('cron');
+  $('#tab-uni').onclick = () => setMvTab('uni');
+  $('#mv-close').onclick = closeWorld;
+  $('#mv-uni').addEventListener('click', e => {
+    const u = e.target.closest('[data-uni]'), b = e.target.closest('[data-base]'), s = e.target.closest('[data-story]');
+    if (u) renderUniverso(u.dataset.uni, null, 'historia');
+    else if (b) renderUniverso(b.dataset.base, null, 'base');
+    else if (s) renderUniverso(null, s.dataset.story, 'historia');
+  });
 
   // Media
   $('#media-filters').addEventListener('click', e => { const b = e.target.closest('[data-filter]'); if (b) { mediaFilter = b.dataset.filter; renderMedia(); } });
