@@ -29,7 +29,7 @@ function ph(name = '?') {
 window.ph = ph;
 
 const imgTag = (src, name, cls = '') =>
-  `<img class="${cls}" src="${esc(src || ph(name))}" alt="${esc(name)}" loading="lazy" onerror="this.onerror=null;this.src=ph(this.alt)">`;
+  `<img class="${cls}" src="${esc(src || ph(name))}" alt="${esc(name)}" loading="lazy" decoding="async" onerror="this.onerror=null;this.src=ph(this.alt)">`;
 
 const linksHtml = (links = []) =>
   links.map(l => `<a href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener">${esc(l.plataforma || l.titulo || 'Enlace')}</a>`).join('');

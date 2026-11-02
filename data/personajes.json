@@ -43,7 +43,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Asuka(Venti)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/asuka1.webp",
       "arte": "imagenes/arte/RamchiPersonajes/asuka1.webp",
       "descripcion": "Tiene el aspecto de Venti. Es noble, sensible y amable. Es capaz de ver lo bueno en los demás y suele busca paz.",
       "historia_personal": "",
@@ -53,11 +53,12 @@
         "Cumpleaños": "¿?",
         "Ocupación": "Cuarto al mando de hijos de omnia"
       },
-      "apariciones": [        
+      "apariciones": [
         {
           "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
           "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
-        }],
+        }
+      ],
       "opiniones": []
     },
     {
@@ -97,7 +98,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Ikari(Tanya)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/ikari1.webp",
       "arte": "imagenes/arte/RamchiPersonajes/ikari1.webp",
       "descripcion": "Tiene el aspecto de Tanya Degurechaff. Es serio, disciplinado y perfeccionista. Trabaja siempre bajo la exigencia de Ramchi y reservado con sus emociones aunque aveces es tsudere.",
       "historia_personal": "Se unio a ramchi despues de que este le ofreciera su ayuda cuando nadie mas lo hizo, siendo razon por la cual lo respeta",
@@ -107,7 +108,7 @@
         "Cumpleaños": "¿?",
         "Ocupación": "Tercer al mando de los hijos de omnia"
       },
-      "apariciones": [      
+      "apariciones": [
         {
           "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
           "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
@@ -149,7 +150,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Lobby(Sanji)",
       "titulo": "Pasante",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/lobby1.webp",
       "arte": "imagenes/arte/RamchiPersonajes/lobby1.webp",
       "descripcion": "Es carismático, amable y observador.",
       "historia_personal": "Llego a la ciudad de excalesol junto a manin y despues de haber vivido los sucesos de chocolat , decidio proteger la ciudad",
@@ -160,7 +161,7 @@
         "Ocupación": "Pasante y ayudante de los hijos de omnia"
       },
       "apariciones": [
-           {
+        {
           "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
           "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
         }
@@ -172,7 +173,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Manin(Sasuke)",
       "titulo": "Pasante ",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/manin1.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manin1.webp",
       "descripcion": "Tiene el aspecto de Sasuke uchiha. Es leal, amable y dispuesto a acompañar a sus amigos.",
       "historia_personal": "Es el amigo que nunca abandona a nadie, llegando a la ciudad tras meses perdido, buscando un sitio al que pertenecer.",
@@ -195,7 +196,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Chocolat",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/chocolat.webp",
       "arte": "imagenes/arte/RamchiPersonajes/chocolat.webp",
       "descripcion": "Es dulce, amable y protectora. Al inicio es alguien malvada pero despues se convierte en alguien muy emocional que se preocupa profundamente por sus amigos y está dispuesta a sacrificarse por ellos.",
       "historia_personal": "u pasado está marcado por situaciones en las que tuvo que actuar en contra de su voluntad. Su relación con Francis y los demás termina siendo muy importante para ella, y aun después de convertirse irse continúa ayudándolos.",
@@ -206,7 +207,7 @@
         "Ocupación": "¿?"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Ranchi´s Bizarre Aventure Arco 1-3 resumen",
           "url": "https://www.youtube.com/watch?v=mOpgchVv2k0"
         }
@@ -218,7 +219,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Mika",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/mika.webp",
       "arte": "imagenes/arte/RamchiPersonajes/mika.webp",
       "descripcion": "Es la amiga de la infancia de Ramchi, una niña que solo anhelaba vivir en paz bajo el aspecto de Maika.",
       "historia_personal": "Tras ser secuestrada, su vida da un giro trágico al ser utilizada como un peón sim embargo su lealtad hacia Ramchi nunca desaparece.",
@@ -236,7 +237,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Lobby(Dio)",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/lobby2.webp",
       "arte": "imagenes/arte/RamchiPersonajes/lobby2.webp",
       "descripcion": "Controla el tiempo, drena poder y oculta su verdadero aspecto hasta que lo revela.",
       "historia_personal": "Fingir ser amable solamente para obtener el poder de omnia",
@@ -254,7 +255,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Francis(Araragi)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/francis2.webp",
       "arte": "imagenes/arte/RamchiPersonajes/francis2.webp",
       "descripcion": "Con el aspecto de Araragi sigue siendo leal, impulsivo y emocional. con la promesa a Chocolat de seguir sonriendo.",
       "historia_personal": "Aunque sufre al presenciar muertes injustas y sentirse impotente frente a enemigos superiores, Francis se aferra a esta promesa como su motor para no perder la esperanza.",
@@ -272,7 +273,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Manin(Rengoku)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/manin2.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manin2.webp",
       "descripcion": "Con aspecto de Rengoku y ahora es mas sonriente, mas fiel a ayudar a sus amigos pero sobre todo a Ikari",
       "historia_personal": "Despues de los sucesos con chocolat y lobby, se convierte en parte de uno de los hijos de omnia",
@@ -290,7 +291,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Ikari(Kiritsugu)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/ikari2.webp",
       "arte": "imagenes/arte/RamchiPersonajes/ikari2.webp",
       "descripcion": "Serio y exigente pero por dentro es amable, aunque se va un año y reaparece frío, como cazador de vampiros junto a Tobi.",
       "historia_personal": "Despues de alejarse de sus amigos y reencontrarse con ellos, decide volver mas decidido a proteger a su ciudad y a sus compañeros",
@@ -308,7 +309,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Manuel(Joker)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/manuel2.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manuel2.webp",
       "descripcion": "Posee el aspecto de Joder persona 5 y es el cerebro técnico del grupo",
       "historia_personal": "Su evolución lo lleva a desarrollar una mayor desconfianza y agudeza, siendo el primero en percatarse de los inquietantes y sutiles cambios en la personalidad de sus aliados más cercanos.",
@@ -326,7 +327,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Ranchi(Batman)",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/ranchi2.webp",
       "arte": "imagenes/arte/RamchiPersonajes/ranchi2.webp",
       "descripcion": "Es excéntrico e imprevisible, y pierde su humor por la pérdida de Mika.",
       "historia_personal": "Tras la muerte de Maika se vuelve frío y severo, convirtiendose en Ramchi Batman y decidido a cubrir venganza por quien la hizo desaparecer",
@@ -344,7 +345,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Asuka(Renly)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/asuka2.webp",
       "arte": "imagenes/arte/RamchiPersonajes/asuka2.webp",
       "descripcion": "Es amable como siempre y mas cuando se enamora de una chica que conocio",
       "historia_personal": "Despues de perder a Fumiko, pierde el control cuando ella muere y sigue el camino de la venganza hacia su atacante",
@@ -362,8 +363,8 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Buendigo(Deku)",
       "titulo": "Pasante",
-      "avatar": "",
-      "arte": "imagenes/arte/RamchiPersonajes/buendigo2.jpg",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/buendigo2.webp",
+      "arte": "imagenes/arte/RamchiPersonajes/buendigo2.webp",
       "descripcion": "En la historia original hace batallas de pokeduel pero en la historia es un chico amable y desea ser un hijo de omnia",
       "historia_personal": "Al igual que manin, llego a la ciudad para buscar un futuro mejor y al ver como los hijos de omnia trabajaban decide ser uno de estos y unirse a sus filas",
       "datos": {
@@ -380,7 +381,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Astra Sol",
       "titulo": "Reencarnada",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/manin3.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manin3.webp",
       "descripcion": "Su personalidad se caracteriza por una fuerte resistencia a permanecer sometida y por luchar constantemente contra quienes intentan detenerla.",
       "historia_personal": "Astra permaneció encerrada durante siglos dentro de un objeto original. Hace un pacto con Manin para ocupar su cuerpo y ayudar a sus amigos pero detras de este trato, ella quiere terminar con el mundo al saber la verdad del mundo.",
@@ -398,7 +399,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Thomas",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/thomas.webp",
       "arte": "imagenes/arte/RamchiPersonajes/thomas.webp",
       "descripcion": "burlón, provocador y bastante cruel. Le gusta provocar a sus enemigos, especialmente a Asuka y parece disfrutar de llevarlo al límite emocionalmente. También es muy seguro de sí mismo y no muestra demasiada preocupación por el sufrimiento que causa.",
       "historia_personal": "Thomas trabaja junto a Ayato y Sakamaki y participa en sus planes para conseguir los artefactos relacionados con el poder de Omnia",
@@ -416,7 +417,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Yato Sakamichi",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/yato.webp",
       "arte": "imagenes/arte/RamchiPersonajes/yato.webp",
       "descripcion": "Es arrogante, confiado y disfruta demostrando su superioridad frente a sus enemigos. Incluso cuando encuentra dificultades, suele mantener una actitud burlona y fría.",
       "historia_personal": "Ayato persigue el poder de Omnia convencido de que puede darle un poder extraordinario. Durante su enfrentamiento con Francis demuestra tener una capacidad de regeneración muy avanzada, además de otras habilidades que hacen de él uno de los principales obstáculos para los hijos de omnia",
@@ -434,7 +435,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Ikari(Xu Fuan)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/ikari3.webp",
       "arte": "imagenes/arte/RamchiPersonajes/ikari3.webp",
       "descripcion": "Estratega tranquilo y agradecido de tener a sus amigos, que no le importaria sacrificarse por ellos",
       "historia_personal": "Despues de los acontecimientos de Astra sol, Ikari le tiene mas apego a sus amigos a un punto que no le importa dar su vida con tal de que sus amigos esten bien y a pesar de su caracter frio por dentro es agradecido de estar rodeado con gente que lo adora",
@@ -452,7 +453,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Buendigo(Jhon Urdinary)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/buendigo.webp",
       "arte": "imagenes/arte/RamchiPersonajes/buendigo.webp",
       "descripcion": "Posee su caracter alegre , aprendiendo a controlar sus nuevo poderes de copiar habilidades para ayudar mas a los hijos de omnia ",
       "historia_personal": "Despues de haber sido piesa cable contra Astra sol, ramchi le da el poder de hijo de omnia y convirtiendose en uno de los que protegen a Excalesol ",
@@ -470,8 +471,8 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Asuka(Kido)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
-      "arte": "imagenes/arte/RamchiPersonajes/asuka5.jpg",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/asuka5.webp",
+      "arte": "imagenes/arte/RamchiPersonajes/asuka5.webp",
       "descripcion": "Se vuelve una persona mas seria y dejando de lado esa parte bondadoso de si mismo ya que ese caracter lo hizo vulnerable",
       "historia_personal": "DEspues de perder a fumiko, sigue un camino de odio sin darse cuenta que la venganza no es la solucion",
       "datos": {
@@ -482,13 +483,13 @@
       },
       "apariciones": [],
       "opiniones": []
-    }, 
+    },
     {
       "id": "Manin4",
       "historia": "RanchiBizarreAventure",
       "nombre": "Manin4(Asta)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/manin5.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manin5.webp",
       "descripcion": "A pesar de los años sigue siendo un chico amable, cambio su aspecto a Asta para poder contrarestar la magia de Ayato cuando regresara",
       "historia_personal": "Despues de los acontecimientos de Astra sol, Manin se alejo de la ciudad para convertirse en una version de si misma y ser mas fuerte para enfrentar a Ayato",
@@ -506,7 +507,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Manuel(Yukino)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/manuel3.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manuel3.webp",
       "descripcion": "A pesar de su aspecto de Yukino sigue siendo el mismo chico calculador, quien intenta anticiparse a cada movimiento de su enemigo",
       "historia_personal": "Despues de los acontecimientos de Astra sol, Manuel decidio pasar desapercibido ya que habria otra amenaza por lo que tomo un perfil mas discreto conparado a quien era al inicio",
@@ -524,7 +525,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Ranchi(Denji)",
       "titulo": "Lider de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/ranchi3.webp",
       "arte": "imagenes/arte/RamchiPersonajes/ranchi3.webp",
       "descripcion": "Bromista y un poco mas simpatico despues de haber vivido su peor etapa de ramchi Batman",
       "historia_personal": "A pesar de haber jurado venganza, algo dentro de el sabia que estaba mal por lo que conciente de ese camino decidio ser mejor lider y cambian su aspecto a algo mas actual a el, siendo lo mas cercano a Denji",
@@ -542,7 +543,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Asuka(Phos)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/asuka3.webp",
       "arte": "imagenes/arte/RamchiPersonajes/asuka3.webp",
       "descripcion": "Se vuelve una persona mas seria y dejando de lado esa parte bondadoso de si mismo ya que ese caracter lo hizo vulnerable",
       "historia_personal": "Despues de darse cuenta que se estaba dejando llevar por sus emociones, decidio no seguir el camino que Ramchi siguio en su momento por lo que esta vez volveria a pensar en sus acciones sim embargo su caracter amable lo abandono y volviendo en una un poco mas seria",
@@ -554,13 +555,13 @@
       },
       "apariciones": [],
       "opiniones": []
-    }, 
+    },
     {
       "id": "Manin6",
       "historia": "RanchiBizarreAventure",
       "nombre": "Manin(Meliodas)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/manin4.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manin4.webp",
       "descripcion": "Con el aspecto de meliodas y dejar atras su fase de asta, utiliza contrataque para poder luchar contra Ayato.",
       "historia_personal": "Cambia su aspecto para la batalla final contra Ayato para poder derrotarlo una vez por todas, despues de los sucesos contra Gilgamesh decide abandonar la ciudad definitivamente a pesar de que tuvo momentos inolvidables. Decide abandonar todo para obtener una vida de paz y dejar atras todo el combate, mas cuando Ikari tambien se fue de la ciudad",
@@ -578,7 +579,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Manuel(Dark Iruma)",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/manuel4.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manuel4.webp",
       "descripcion": "Sigue siendo el mismo chico de siempre pero cambiando su aspecto de Iruma para la pelea final contra Ayato",
       "historia_personal": "Es el unico que queda de los hijos de omnia despues de los sucesos de Gilgamesh y peleando junto a Ramchi con Asuka para hacer prosperar la ciudad",
@@ -596,7 +597,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Franuel",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/franuel.webp",
       "arte": "imagenes/arte/RamchiPersonajes/franuel.webp",
       "descripcion": "Es una fusión de Francis y Manuel, por lo que combina las capacidades de ambos. Se muestra seguro de sí mismo y muy poderoso, llegando a enfrentarse a Ayato con una enorme superioridad.",
       "historia_personal": "Nace cuando Francis y Manuel utilizan los anillos que les había entregado Chocolat. La fusión es permanente y combina la inmortalidad heredada de Araragi con la magia que pertenecía a Iruma. Durante la batalla final, Franuel lucha junto a Akiko contra Ayato y consigue herirlo hasta el punto de superar su capacidad de regeneración. Despues aparecio para tratar de detener el arma que gilgamesh activo",
@@ -614,7 +615,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Akiko",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/akiko.webp",
       "arte": "imagenes/arte/RamchiPersonajes/akiko.webp",
       "descripcion": "Es una fusión de Manin y Chocolat. Se caracteriza por su enorme poder y velocidad, y durante la batalla demuestra una actitud decidida, enfrentándose directamente a Ayato.",
       "historia_personal": "Nace cuando Chocolat, después de morir, aparece como espíritu y decide fusionarse temporalmente con Manin para salvarle la vida. La fusión permite que ambos escapen de una situación en la que Manin estaba a punto de morir. Más adelante, Akiko vuelve a aparecer durante la batalla final contra Ayato y lucha junto a Franuel.",
@@ -632,7 +633,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Ikari(Hitori)",
       "titulo": "Ex hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/ikari4.webp",
       "arte": "imagenes/arte/RamchiPersonajes/ikari4.webp",
       "descripcion": "Es timido debido a la perdida de sus recuerdos, sim embargo nunca olvido el sentimiento de ayudar a sus amigos cuando estuvieron en problemas",
       "historia_personal": "Vuelve con el aspecto de Hitori Gotou, sin memoria ni su nombre. Es impaciente pero protector con Ruben y Kailed. Despues de los sucesos contra Gilgamesh decide igual que Manin alejarse de todo por lo que le regrea al poder de ramchi y se va a vivir junto a Kailed",
@@ -650,8 +651,8 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Kailed",
       "titulo": "¿?",
-      "avatar": "",
-      "arte": "imagenes/arte/RamchiPersonajes/kailed.jpg",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/kailed.webp",
+      "arte": "imagenes/arte/RamchiPersonajes/kailed.webp",
       "descripcion": "Es una persona cercana a Ruben e Ikari y representa uno de los vínculos familiares más importantes dentro de su historia. A pesar de las situaciones que atraviesa, conserva una conexión muy fuerte con ambos.",
       "historia_personal": "En el pasado vivía junto a Ruben y su amada. Los tres acogieron a Ikari después de encontrarlo gravemente herido y sin recuerdos, formando durante un tiempo una pequeña familia. Su vida cambia cuando Kakeru vuelve a aparecer y posteriormente ella es víctima de uno de los poderes que él puede reproducir.",
       "datos": {
@@ -668,7 +669,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Gilgamesh (Kakeru)",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/kakeru.webp",
       "arte": "imagenes/arte/RamchiPersonajes/kakeru.webp",
       "descripcion": "Kakeru se presenta como un personaje extremadamente peligroso, decidido y obsesionado con obtener aquello que considera necesario. No duda en utilizar poderes ajenos para alcanzar sus objetivos.",
       "historia_personal": "Su conexión con Gilgamesh es fundamental para entender sus habilidades: gracias a ese poder puede recrear las capacidades de objetos que ha presenciado. Esto le permite utilizar una enorme variedad de armas y habilidades, convirtiéndolo en alguien capaz de enfrentarse al grupo utilizando poderes que originalmente no le pertenecían. Al igual que Astra sol, decide robar el poder de omnia y asi destruir el mundo que los tiene atado",
@@ -686,7 +687,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Lobby(Gojo)",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/lobby3.webp",
       "arte": "imagenes/arte/RamchiPersonajes/lobby3.webp",
       "descripcion": "Reaparece con aspecto de Gojo. Es calculador y recela de todos, pero ayuda contra Kakeru.",
       "historia_personal": "Al saber la verdad sobre el mundo y sobre el poder de omnia, queda sin un rumbo que seguir sim embargo decide ayudar a los hijos de omnia porque el sentia que ellos podian cambiar el rumbo del mundo que habia seguido por siglos",
@@ -704,7 +705,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Ruben",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/ruben.webp",
       "arte": "imagenes/arte/RamchiPersonajes/ruben.webp",
       "descripcion": "Tiene el aspecto de Archer emiya, Es alguien protector, pero profundamente marcado por las pérdidas de su pasado. Durante mucho tiempo se convierte en una persona emocionalmente apagada, aunque debajo de esa apariencia mantiene un fuerte sentido de responsabilidad hacia Kailed e Ikari.",
       "historia_personal": "es de los acontecimientos principales, Ruben vivía con su amada y Kailed. Cuando encontraron a Ikari sin recuerdos, decidieron acogerlo, pero Kakeru apareció buscando llevárselo; la amada de Ruben murió intentando protegerlo y le pidió que cuidara de Kailed e Ikari. Desde entonces, Ruben carga con esa promesa y con el deseo de protegerlos.",
@@ -722,7 +723,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Dream",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/dream.webp",
       "arte": "imagenes/arte/RamchiPersonajes/dream.webp",
       "descripcion": "Es alguien alegre pero a la vez lo suficiente serio, ademas paciente y marcado por una experiencia que abarca muchas vidas. Su forma de pensar está profundamente relacionada con su deseo de terminar con el sufrimiento del mundo.",
       "historia_personal": "Miembro de las Cadenas de Prometeo. Dream conserva recuerdos de diferentes ciclos de existencia. En una vida anterior perteneció a los Hijos de Omnia junto a otros compañeros y, después de experimentar repetidamente las mismas tragedias, comenzó a buscar una manera de liberar definitivamente a las almas de ese ciclo. Su historia termina estando relacionada con una lucha mucho más grande que la de los personajes actuales: romper el sistema que mantiene a las almas atrapadas.",
@@ -740,7 +741,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Asuka Final",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/asuka4.webp",
       "arte": "imagenes/arte/RamchiPersonajes/asuka4.webp",
       "descripcion": "Uno de los tres líderes de la ciudad que quedan",
       "historia_personal": "A pesar de haber visto a los hijos de omnia irse, el decidio quedarse para proteger la ciudad",
@@ -758,7 +759,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Ranchi Final",
       "titulo": "Lider de los hijos de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/ranchi4.webp",
       "arte": "imagenes/arte/RamchiPersonajes/ranchi4.webp",
       "descripcion": "Se ha convertido en una figura mucho más madura y experimentada. Sigue siendo uno de los principales responsables de Excalesol y continúa cargando con el peso de todo lo que ha ocurrido.",
       "historia_personal": "Después de la caída de Kakeru, permanece en Excalesol junto a Manuel y Asuka. Durante estos dos años aprende a controlar cada vez mejor su poder de Omnia. Para la época de Dream, Ramchi es uno de los principales objetivos de quienes quieren apoderarse de ese poder.",
@@ -776,7 +777,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Francis Final",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/francis3.webp",
       "arte": "imagenes/arte/RamchiPersonajes/francis3.webp",
       "descripcion": "Sigue siendo un combatiente muy resistente, con una gran capacidad de regeneración y muy ligado emocionalmente a sus antiguos compañeros.",
       "historia_personal": "espués del time skip se había alejado de los Hijos de Omnia. Sin embargo, cuando comienza la crisis provocada por Dream vuelve a luchar junto a los demás.",
@@ -794,7 +795,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Ikari Final",
       "titulo": "Ex hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/ikari5.webp",
       "arte": "imagenes/arte/RamchiPersonajes/ikari5.webp",
       "descripcion": "Es más tranquilo y reservado, pero conserva un fuerte vínculo con sus compañeros.",
       "historia_personal": "abía abandonado los Hijos de Omnia y elegido quedarse junto a Kailed para vivir tranquilamente. Sin embargo, durante la crisis de Dream regresa junto a Manin para ayudar a sus antiguos compañeros.",
@@ -812,7 +813,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Kioko",
       "titulo": "Ex hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/manin6.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manin6.webp",
       "descripcion": "Es alguien mucho más experimentado después de todo lo vivido. Mantiene una relación cercana con Ikari y conserva el vínculo con sus antiguos compañeros.",
       "historia_personal": "Se había alejado de los Hijos de Omnia junto con Francis buscando una vida más tranquila. Durante la crisis de Dream regresa y vuelve a luchar junto al grupo. En la batalla protege a Ikari de un ataque, resultando gravemente herido. Al final decide descansar en paz después de haber vivido nuevamente junto a sus compañeros.",
@@ -830,7 +831,7 @@
       "historia": "RanchiBizarreAventure",
       "nombre": "Manuel Final",
       "titulo": "Hijo de omnia",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/RamchiPersonajes/manuel5.webp",
       "arte": "imagenes/arte/RamchiPersonajes/manuel5.webp",
       "descripcion": "Se vuelva mas amable, es el más interesado en comprender el verdadero origen y funcionamiento del poder de Omnia. Es tranquilo, racional y actúa como alguien que intenta mantener unido al grupo.",
       "historia_personal": "ras el retiro de varios Hijos de Omnia, Manuel permanece en Excalesol junto a Ramchi y Asuka. Dedica gran parte de los dos años a investigar por qué el poder de Omnia ha sido tan codiciado durante generaciones. Cuando conoce a Dream, decide entrenarlo personalmente y termina convirtiéndose en una figura muy importante para él y al final salvando al mundo despues de saber la verdad",
@@ -847,8 +848,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Tn Kawaragi",
       "titulo": "El sin proposito",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/kawaragi1.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/kawaragi1.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/kawaragi1.webp",
       "descripcion": "Chico de 15 años, siempre esta con el celular o los audífonos. Es flojo, sarcástico y vive de juegos gacha pero detrás de las bromas es noble y se preocupa por los de su alrededor, aunque lo disimule.",
       "historia_personal": "Es uno de los 3 aspirantes a ser entrenador junto a Reina y anaxa. Hijo de un famoso reportero de carreras, creció en primera fila sin entender por qué la gente se emocionaba tanto por ver correr a las Umamusume.  Casi siempre se toma todo como burla y sin vocación, hasta que empieza a ver las carreras de otra manera al convivir en la Academia Tracen.",
       "datos": {
@@ -870,8 +871,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Reina Kanzaki",
       "titulo": "La fantasma egoista",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/reina1.png",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/reina1.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/reina1.webp",
       "descripcion": "Chica de cabello azulado y exfutbolista. Tiene un caracter frio, orgullosa y suele liberar una presencia intimidante.",
       "historia_personal": "Es una de los 3 aspirante a entrenadores. Su padre fue un entrenador bondadoso cuyo nombre terminó manchado, y su madre se fue. Creció con burlas y una traición de su única amiga, y aprendió que confiar es ser vulnerable. Entrena umas <<egoistas>>, convencida de que el mundo no premia la bondad. ",
       "datos": {
@@ -893,8 +894,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Anaxa",
       "titulo": "El cientifico loco",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/anaxa1.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/anaxa1.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/anaxa1.webp",
       "descripcion": "Tiene un gorro café, pelo castaño, bata blanca, ojos rojizos y familia de los Agnes. Es un científico excéntrico y sarcástico, suele usar a las Umamusume como sujetos de prueba, pero a diferencia de su hermana Agnes Taychon, el primero verifica que no corran peligro e incluso probándolas en el mismo si es necesario. ",
       "historia_personal": "Es un pasante en Rigil que estudia medicina y predice resultados con una precisión que asusta. Casi siempre evita los hipódromos y su pasado es un misterio.",
       "datos": {
@@ -904,7 +905,7 @@
         "Ocupación": "Aspirante a entrenador y aspirante a medico"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Buscando un propósito - Umamusume",
           "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
         }
@@ -916,8 +917,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Special Week",
       "titulo": "El comandante supremo de Japón",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/special.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/special.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/special.webp",
       "descripcion": "Special Week tiene un bob corto de color marrón púrpura, con flequillo blanco que se inclina ligeramente hacia su izquierda. Tiene trenzas blancas atadas a la parte posterior del cabello y orejas cortas y rechonchas de color marrón, con un lazo morado en la oreja derecha. Sus ojos redondos y alegres son de color púrpura claro",
       "historia_personal": "Nacido en Hokkaido, Special Week es un Umamusume brillante, alegre y trabajador. Después de perder a su madre biológica, Special Week fue criada por la amiga de su madre. Ahora, espera enorgullecer a sus dos mamás cumpliendo su promesa de convertirse en la mejor corredora de Japón. Aunque pueda flaquear en el camino, su espíritu indomable le asegura correr siempre hacia adelante.",
       "datos": {
@@ -939,8 +940,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Silence Suzuka",
       "titulo": "Príncipe de la Velocidad Sónica",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/suzuka.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/suzuka.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/suzuka.webp",
       "descripcion": "Suzuka tiene un cabello largo y sedoso de color naranja rojizo, un flequillo recto, lleva una diadema blanca asegurada con un accesorio de estrella plateada. Sus orejas están envueltas en tela verde, con una pequeña cinta de color verde y amarillo colgando de su oreja derecha con sus ojos de color azulado.",
       "historia_personal": "Una Umamusume vista como un prodigio que siempre está por delante del resto, se absorbe tanto corriendo que parece distante, pero la mayoría sabe que es dedicada y además de ser compañera de cuarto con Special Week ",
       "datos": {
@@ -962,7 +963,7 @@
       "historia": "buscando-un-proposito",
       "nombre": "Entrenador (Torena)",
       "titulo": "Entrenador",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/ryo.webp",
       "arte": "imagenes/arte/PropositoPersonajes/ryo.webp",
       "descripcion": "Siempre lleva una paleta en la boca, tiene la piel bronceada, ojos de color ámbar con cabello castaño y un corte rapado en el lado izquierdo de la cabeza. Viste un chaleco negro sobre una camisa amarilla abotonada y pantalones negros. ",
       "historia_personal": "Es el entrenador de Spica. En lugar de instruir adecuadamente a sus alumnas con estrategias de carreras, confía en ellos y les permite correr según sus propios deseos.  A pesar de su forma “única” e impulsiva de gestionar su equipo, las cosas van bien…casi siempre. ",
@@ -985,8 +986,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Tokai Teiou",
       "titulo": "El Monarca",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/teiou.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/teiou.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/teiou.webp",
       "descripcion": "Es una Umamusume de tamaño pequeño, pero con un gran carisma, tiene el cabello largo de color marrón ámbar atado en una cola de caballo y una cinta rosa. También tiene una raya de pelo blanco en el flequillo, además de tener una joya de ámbar con dos colas de cinta en su oreja derecha u sus ojos de color azul cielo.",
       "historia_personal": "Admira mucho a Symboli Rudolf y aspira a la Triple Corona japonesa sim embargo en el transcurso de su vida sufre de muchas fracturas, pero en vez de decaer siguió esforzándose, demostrándonos que, si lo deseas y te esfuerzas, puedes lograrlo. ",
       "datos": {
@@ -1008,8 +1009,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Mejiro McQueen",
       "titulo": "El Rey de las Largas Distancias",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/mcqueen.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/mcqueen.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/mcqueen.webp",
       "descripcion": "Es una umamusume pequeña con cabello lavanda brillante, tiene puntas marrones en las orejas y una cinta verde azulado en la derecha. Sus ojos son violetas y tienen reflejos blancos en el centro",
       "historia_personal": "Nacido en una familia de leyendas de las carreras, Mejiro McQueen es un corredor de larga distancia que es la envidia de sus compañeros. Tiene clase y decoro propios de su prestigio, y está decidida a conseguir el primer puesto en Tenno Sho como muchos corredores de Mejiro antes que ella. En sus días libres, le gusta tomar el té de la tarde con muchos otros residentes de la finca Mejiro.",
       "datos": {
@@ -1031,8 +1032,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Daiwa Scarlet",
       "titulo": "Miss Perfect - La Triple Tiara Fantasma",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/scarlet.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/scarlet.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/scarlet.webp",
       "descripcion": "Una Umamusume muy competitiva con cabello castaño rojizo, tiene colas largas y cintas azules, un lazo rojo atado a la cola izquierda. Lleva una tiara con una gema azul en el centro, que sostiene ligeramente su cabello, ojos son de color escarlata y en su boca sobresale un colmillo. ",
       "historia_personal": "Inflexible, de voluntad fuerte y algo tsudere, quiere ser el número uno en todo lo que hace. Generalmente desempeña el papel de la estudiante de honor perfecta y de modales, pero la verdad es que odia perder más que cualquier otra cosa. Es compañera de cuarto con Vodka, quien la ve como su motivación y su rival.",
       "datos": {
@@ -1054,8 +1055,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Vodka",
       "titulo": "La emperatriz extraordinaria - La reina del Derby",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/vodka.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/vodka.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/vodka.webp",
       "descripcion": "Tiene cabello corto de color marrón oscuro en la parte delantera con puntas que se curvan hacia afuera. Además de la mancha blanca en su flequillo, lleva una banda amarilla en la oreja izquierda y un accesorio en el cabello.",
       "historia_personal": "Dedicada a ser la más genial, hace todo lo posible para actuar como una delincuente, siempre ha sido amante de las motocicletas y debido a su naturaleza no tiene miedo de lo que pueda enfrentar. Comúnmente desafía mucho a Daiwa Scarlet y aunque parecen que se llevan mal, la verdad es que son buenas amigas.",
       "datos": {
@@ -1077,8 +1078,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Gold Ship",
       "titulo": "El revelde",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/golship.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/golship.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/golship.webp",
       "descripcion": "Tiene el cabello largo y liso de color gris plateado con flequillo liso que cubre su frente. Lleva un sombrero cilíndrico marrón que está conectado a correas marrones que corren al lado y detrás de su cabeza. Sus ojos son de color casi rosado y lleva un lazo morado en la oreja derecha con una actitud impredecible. ",
       "historia_personal": "Debido a su comportamiento impredecible, no se sabe al correr si lo hara en serio o no. A pesar de su actitud es muy rapida que arrebaza a sus oponentes enseguida y ademas de formar una rivalidad con Orfevre y Gentildonna",
       "datos": {
@@ -1100,8 +1101,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Tn Kawaragi adulto",
       "titulo": "El entrenador maldito",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/kawaragi2.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/kawaragi2.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/kawaragi2.webp",
       "descripcion": "Viste un chaleco azul marino sobre una camisa amarilla abotonada de manga larga, pantalones de color azul oscuro y un cinturón blanco. Sigue siendo bromista y sarcástico sim embargo utiliza ese humor como una forma de ocultar sus preocupaciones y emociones. Es amable, paciente y muy protector con sus Umamusume, pero se culpa con facilidad cuando algo sale mal. ",
       "historia_personal": "Debido a su fama de <<entrenador maldito>> se le hace difícil conseguir que alguien se una a su equipo, pero igual lo intenta y sigue adelante. Carga con las críticas de las redes, con el miedo a fallarles y creyendo que cada derrota es culpa suya, pero sin dejar de sonreír para que no preocupar a sus alumnas.",
       "datos": {
@@ -1123,8 +1124,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Reina Kanzaki adulta",
       "titulo": "La entrenadora egoista",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/reina2.png",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/reina2.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/reina2.webp",
       "descripcion": "Lleva una chaqueta azul sobre un vestido negro con encaje, un lazo en el pecho, un cinturón negro y un collar de gargantilla negro. Sigue siendo directa y fuerte pero su mirada ya no es fría con sus ojos recuperado su brillo, siendo más abierta y humana.",
       "historia_personal": "Después de ver la realidad y consecuencias de sus acciones, ya no busca pisotear a los demás sino enseñar a amarse lo suficiente para no destruirse. Ahora cuida a sus unas y con el temor de volver a quedarse sola. ",
       "datos": {
@@ -1146,8 +1147,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Kaname",
       "titulo": "El destello negro",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/kaname.png",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/kaname.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/kaname.webp",
       "descripcion": "Un uma hombre de pelo castaño, ojos rojizos con un traje negro y una corbata roja. Tiene un carácter que desprecia a los demás y no le importa las personas de su alrededor.",
       "historia_personal": "Nació en un laboratorio como el primer uma macho y creció como experimento y marginado. Cuando corría, se volvió el <<destello negro>> Kaname, alguien que ganaba aplastando sueños. Una persona especial le enseñó a reír y le pidió una promesa que lo sigue marcando que pasó de ser alguien que destruía esperanzas a cuidarlas, aunque aún le temen la pista y su pasado. Actualmente es un médico para ayudar a las Umamusume a cumplir sus sueños pero sobre todo intentar perdonarse por todo el daño que hizo en el pasado. ",
       "datos": {
@@ -1169,8 +1170,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Haru Urara",
       "titulo": "La esperanza de japon",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/urara.png",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/urara.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/urara.webp",
       "descripcion": "Tiene cabello rosa y rosado atado hacia atrás en una cola de caballo con un flequillo corto. Sus orejas están cubiertas por tela de color rosado y tiene un lazo blanco en la oreja izquierda. Sus ojos grandes y redondos de color rosado con patrones de pétalos de flores de cerezo en sus iris.",
       "historia_personal": "A pesar de tener una racha de carreras perdidas ¡Pero ella nunca se rinde! Si bien puede que no sea la más hábil su determinación es inspiradora además de ser una estudiante alegre, extremadamente optimista, amable y muy sociable.",
       "datos": {
@@ -1192,8 +1193,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Rice Shower",
       "titulo": "La asesina de sueños",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/rice.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/rice.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/rice.webp",
       "descripcion": "Tiene el cabello largo y ondulado de color marrón oscuro castaño con un flequillo largo que le cubre casi por completo el ojo derecho. Sus ojos son de color púrpura violeta, orejas largas y su cola son de color castaño oscuro mientras que en su oreja derecha lleva un adorno con un sombrero pequeño de color azul oscuro decorado con una rosa azul.",
       "historia_personal": "Rice Shower entra a Tracen buscando aprobación, pero al ganar carreras importantes que el público no quería que gane provoco que la rechazaran y fuera apoda como la <<Asesina de Leyendas>>. Deprimida por el rechazo intenta retirarse, pero con ayuda de su entrenador y sus rivales vuelve a competir, demostrando su esfuerzo hasta ganarse el respeto del público y cambiar su imagen a la de una heroína.",
       "datos": {
@@ -1210,13 +1211,13 @@
       ],
       "opiniones": []
     },
-     {
+    {
       "id": "busc-mayano",
       "historia": "buscando-un-proposito",
       "nombre": "Mayano top gun ",
       "titulo": "Ace del Kaleidoscopio",
-      "avatar": "",
-      "arte": "imagenes/arte/EcosPersonajes/mayano.png",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/mayano.webp",
+      "arte": "imagenes/arte/EcosPersonajes/mayano.webp",
       "descripcion": "Es una uma musume pequeña, de personalidad alegre, despreocupada, curiosa, con un lado infantil que contrasta con su deseo de ser vista como una mujer adulta. Tiene el cabello largo de color naranja castaño, ojos naranjas, y le gusta molestar a su entrenador. ",
       "historia_personal": "Es hija de un piloto por lo que de niña jugaba con él en el aeropuerto, de ahí su fascinación por el cielo, los aviones y aventura hasta el punto de que puede hacer un avión de papel con cualquier hoja además de ser la compañera de cuarto de Tokai Teiou.",
       "datos": {
@@ -1238,8 +1239,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Miyabi Oshizora",
       "titulo": "La uma egoista",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/miyabi.png",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/miyabi.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/miyabi.webp",
       "descripcion": "Uma joven, de cuerpo frágil, siempre última en sus carreras. Es ingenua, tenaz y capaz de enormes sacrificios. Cuando despierta su <<zona>> libera un aura verde que luego pasa a rosa y blanca.",
       "historia_personal": "Su madre fue una corredora que murió de una enfermedad degenerativa, y su padre que era médico perdió la alegría desde entonces. Entró a Tracen para devolverle la sonrisa a su padre y al convivir con su Entrenadora decide tambien devolversela, convencida de que el dolor es el precio de la victoria y no le importa soporta el entrenamiento por más duro que sea.",
       "datos": {
@@ -1261,8 +1262,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Gentildonna",
       "titulo": "La reina eterna - Dama de hierro",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/gentil.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/gentil.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/gentil.webp",
       "descripcion": "Tiene el cabello castaño oscuro muy largo y liso, dividido en dos coletas bajas con un flequillo recto en la frente y dos mechones largos a los lados. Sus ojos son grandes de color rojo, orejas largas y cola de caballo de color castaño oscuro mientras que en su oreja derecha lleva un adorno redondo de color rojo con bordes dorados. Gentildonna es una de las umas mas fuertes que hay debido a que puede aplastar bolas de hierro hasta que tengan un tamaño de pelota de tennis",
       "historia_personal": "Posee una fuerza física enorme que a menudo oculta tras una fachada de elegancia y buenos modales. Es una de las ganadoras de la triple ademas de tener su rivalidad contra Orfevre y Gold Ship.",
       "datos": {
@@ -1272,7 +1273,7 @@
         "Ocupación": "Estudiante y corredora"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Buscando un propósito - Umamusume",
           "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
         }
@@ -1284,7 +1285,7 @@
       "historia": "buscando-un-proposito",
       "nombre": "Agnes Digital",
       "titulo": "Otaku todoterreno",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/digital.webp",
       "arte": "imagenes/arte/PropositoPersonajes/digital.webp",
       "descripcion": "Tiene el cabello largo de color rosa con un peinado en dos coletas altas a los lados con puntas curvadas hacia arriba y un flequillo sobre la frente, sus ojos son de color azul claro violeta, sus orejas y cola son del mismo color rosa que su cabello mientras en la parte superior de la cabeza lleva un moño gigante amarillo con una gema roja en el centro. ",
       "historia_personal": "Entra a Tracen por su obsesión extrema hacia las Umamusume, compitiendo en las pistas para ver a sus ídolos desde el mejor lugar posible. Posee un talento increíble que le permite adaptarse a cualquier superficie en las pistas, tanto en césped como en tierra. ",
@@ -1307,8 +1308,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Agnes Taychon",
       "titulo": "El Fantasma de la Triple Corona",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/taychon.jpg",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/taychon.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/taychon.webp",
       "descripcion": "Tiene el cabello corto de color castaño claro desordenado con un mechón largo cayendo entre los ojos, ojos de color rojo intenso con pupilas rasgadas y ojeras marcadas. Lleva una bata blanca de laboratorio sobre su uniforme y un pendiente en la oreja izquierda con un carácter excéntrica y obsesivo hacia la ciencia. ",
       "historia_personal": "Entra a Tracen no por los trofeos, sino para usar las carreras como un laboratorio de pruebas. Es una científica obsesionada con llevar el potencial físico de las chicas caballo al límite absoluto a través de experimentos, fórmulas y pociones cuestionables que ella misma elabora y prueba en sí misma o en sus compañeros. Experimentos que casi siempre provocan unas pequeñas explosiones",
       "datos": {
@@ -1330,8 +1331,8 @@
       "historia": "buscando-un-proposito",
       "nombre": "Esmerald",
       "titulo": "Entrenadora de la familia Satono",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/satono.png",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/satono.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/satono.webp",
       "descripcion": "Chica de cabello y ojos verdes que trabaja como maid y asistente de la familia Satono. Es amable, trabajadora y muy buena cocinera, aunque suele ser algo despistada y un poco impulsiva, sobre todo con su rival Sao, pero se esfuerza y no se rinde.",
       "historia_personal": "",
       "datos": {
@@ -1348,14 +1349,13 @@
       ],
       "opiniones": []
     },
-    
     {
       "id": "busc-feinberg-agnes",
       "historia": "buscando-un-proposito",
       "nombre": "Feinberg Agnes",
       "titulo": "La Uma entrenadora cientifica",
-      "avatar": "",
-      "arte": "imagenes/arte/PropositoPersonajes/feinberg.png",
+      "avatar": "imagenes/miniaturas/PropositoPersonajes/feinberg.webp",
+      "arte": "imagenes/arte/PropositoPersonajes/feinberg.webp",
       "descripcion": "Umamusume de pelo castaño y largo con una personalidad amable, curiosa y algo ingenua, conservando sus conocimientos de ciencia y medicina.Lleva saco gris oscuro, camisa verde oscuro con botones y una cadena plateada con una piedra verde incrustada..    ",
       "historia_personal": "Umamusume que se hace entrenadora porque le alegra ver cómo las Umamusume cumplen sus sueños, y quiere ayudarlas a cumplirlos. Es muy estudiosa y se compromete con las investigaciones y las unas a su cargo, pero carga con un dolor y guarda recuerdos que no son del todo suyos. ",
       "datos": {
@@ -1377,8 +1377,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Tsubasa Ozora",
       "titulo": "Genio del fútbol",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/tsubasa.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/tsubasa.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/tsubasa.webp",
       "descripcion": "Niño alegre, entusiasta, nunca se separa de su balón y lo considera su mejor amigo. Entrena sin cansarse, es de buen corazón y tiene un tiro muy potente.",
       "historia_personal": "Vive con su madre, Natsuko, y de pequeño un balón lo salvó de ser atropellado. Se muda a la prefectura de Shizuoka, donde Ishisaki es su primer amigo y en el futuro conoce a Roberto quien lo entrena. Reta a Genzo Wakabayashi y con el pasar del tiempo se hace el capitán del Nakatsu.  ",
       "datos": {
@@ -1400,8 +1400,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Tsukushi Takahashi(beta)",
       "titulo": "El jugador limitado",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/takahashi.png",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/takahashi.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/takahashi.webp",
       "descripcion": "Compañero de Ishisaki y Tsubasa. Es tranquilo, serio y algo melancólico pero amable y muy humilde además de que siempre resta mérito a lo que hace. Tiene un tiro de trayectoria curva muy difícil de detener y juega como arquero y por su limitada condición de delantero por unos minutos.",
       "historia_personal": "Al llegar a la primaria se hizo amigo de Ishisaki, era muy bueno en el fútbol, pero un problema de corazón le impide jugar más de diez o quince minutos. Una mala experiencia en una final lo hizo querer dejar el fútbol que desde entonces carga con la culpa. Se intento alejar del equipo, pero gracias a Ishisaki, mas con el ánimo de Nana y la llegada de Tsubasa, empieza a creer de nuevo y decide darlo todo mientras pueda.",
       "datos": {
@@ -1411,7 +1411,7 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Capitan Tsubasa una nueva historia",
           "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
         }
@@ -1423,8 +1423,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Ryo Ishisaki",
       "titulo": "Bloqueo Facial",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/ishisaki.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/ishisaki.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/ishisaki.webp",
       "descripcion": "Compañero de clase y mejor amigo de Tsubasa. Es amable, bromista y algo flojo, organiza al grupo y se acuerda de los detalles que los demás olvidan.",
       "historia_personal": "Es el primero en hacerse amigo de Tsubasa y quiere derrotar al Shutetsu ya que fueron derrotados por tres años seguidos. Es muy cercano a Tsukushi además de ser quien lo animó a no dejar el fútbol, proteger a los suyos y se esfuerza más de lo que aparenta.",
       "datos": {
@@ -1446,8 +1446,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Nana Shimura (beta version)",
       "titulo": "La genia prodigia",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/nana.png",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/nana.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/nana.webp",
       "descripcion": "Amiga de Tsukushi, compañera de curso, jugadora del equipo femenino del Nakatsu con carácter alegre, enérgica, muy competitiva y algo torpe.",
       "historia_personal": "Hace dos años fue una de las mejores jugadoras de su escuela y llevó a su equipo a la final, pero un error suyo les costó el partido y su rival Hiromi se burló de ella, pero Tsukushi la animo siendo la razón del porque casi siempre están juntos. ",
       "datos": {
@@ -1469,8 +1469,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Taro Misaki",
       "titulo": "Artista del campo",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/misaki.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/misaki.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/misaki.webp",
       "descripcion": "Compañero y jugador del Nankatsu, mediocampista ofensivo muy talentoso con un carácter alegre, humilde, sumamente habilidoso con el balón y poseedor de una gran visión de juego.",
       "historia_personal": " Llegó al Nankatsu debido a los constantes viajes de su padre pintor. Se unió al equipo justo a tiempo para el torneo nacional de primaria, donde formó la legendaria <<Dueto Dorado>> ",
       "datos": {
@@ -1480,7 +1480,7 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Capitan Tsubasa una nueva historia",
           "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
         }
@@ -1492,8 +1492,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Genzo Wakabayashi",
       "titulo": "Portero Prodigioso",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/genzo.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/genzo.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/genzo.webp",
       "descripcion": "Portero del Shutetsu. Es muy arrogante, seguro de sí mismo y de carácter fuerte, con una confianza que a veces lo hace descuidarse. Es un portero excepcional y casi nadie le había anotado.",
       "historia_personal": "Vive en una mansión y entrena en el parque con su equipo, al que ayuda a conseguir la cancha tras humillar a los adultos que se la disputaban. Se encuentra con Tsubasa gracias a un balón con un mensaje y acepta un reto con él.",
       "datos": {
@@ -1515,8 +1515,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Shingo Takasugi",
       "titulo": "La defensa del shutetsu",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/shingo.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/shingo.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/shingo.webp",
       "descripcion": "Defensa del Shutetsu, es alto, corpulento y muy fuerte, apodado el <<gigante>>.",
       "historia_personal": "Fue el líbero del Shutetsu y sigue a Wakabayashi por su confianza en él. Se pone delante de rivales como Tsubasa y Hyuga para frenarlos y no se rinde fácil que con el tiempo se convierte en la defensa del Nakatsu.",
       "datos": {
@@ -1538,8 +1538,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Mamoru Aizawa",
       "titulo": "El mediocampista del shutetsu",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/aizawa.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/aizawa.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/aizawa.webp",
       "descripcion": "Elegante mediocampista ofensivo y creador de juego del Shutetsu y del Nankatsu, de cabello largo, famoso por su excelente técnica, control del balón y su espectacular capacidad para saltar y rematar de cabeza",
       "historia_personal": "",
       "datos": {
@@ -1561,8 +1561,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Teppei Kisugi",
       "titulo": "Delantero del Shutetsu",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/kisugi.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/kisugi.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/kisugi.webp",
       "descripcion": "Delantero y goleador del Shutetsu, parte del cuarteto con Takasugi, Aizawa y Taki. Es disciplinado, reservado y muy leal a su capitán ademas de que siempre encuentra la forma de llegar al arco.",
       "historia_personal": ": Confía ciegamente en Wakabayashi y se disculpa cuando el equipo falla. No entiende por qué su capitán casi no habla con nadie, pero se esfuerza en apoyarlo. Combina con Taki y Aizawa para romper defensas y aprovechar el espacio libre.",
       "datos": {
@@ -1572,7 +1572,7 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-            {
+        {
           "titulo": "Capitan Tsubasa una nueva historia",
           "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
         }
@@ -1584,8 +1584,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Hajime Taki",
       "titulo": "El mediocampista del shutetsu y Rey de las asistencias",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/taki.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/taki.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/taki.webp",
       "descripcion": "Mediocampista del Shutetsu, conocido como el <<rey de las asistencias>> Es rápido, ágil de pies, competitivo y a veces demasiado confiado.",
       "historia_personal": "",
       "datos": {
@@ -1602,13 +1602,13 @@
       ],
       "opiniones": []
     },
-     {
+    {
       "id": "tsub-kojiro-hyuga",
       "historia": "capitan-tsubasa",
       "nombre": "Kojiro Hyuga",
       "titulo": "El tigre de japon",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/hyuga.png",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/hyuga.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/hyuga.webp",
       "descripcion": "Capitán y delantero del Meiwa. Es arrogante, brusco y muy competitivo: juega con fuerza y no le importa empujar o dar un codazo para ganar. Se cree el mejor jugador y detesta perder, sobre todo contra Tsubasa.",
       "historia_personal": "Se esfuerza por salir de una situación familiar difícil, y los cazatalentos del colegio Toho lo reclutan con la promesa de ayudar a su familia si gana el campeonato. Entrena un año entero para derrotar a Tsubasa y demostrarle <<el verdadero espíritu deportivo>> y esa meta lo empuja a no rendirse sim embargo detrás de su dureza hay una enorme necesidad de ganar para salvar a los suyos.",
       "datos": {
@@ -1618,7 +1618,7 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Capitan Tsubasa una nueva historia",
           "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
         }
@@ -1630,8 +1630,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Takeshi Sawada",
       "titulo": "Técnico Diminuto",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/takeshi.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/takeshi.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/takeshi.webp",
       "descripcion": "Mediocampista del Meiwa y compañero de Hyuga. Es pequeño, técnico y brillante en las asistencias. Respeta mucho a su capitán, pero no duda en decirle sus errores.",
       "historia_personal": "Entró al Meiwa después de que Hyuga le diera una oportunidad cuando no lo aceptaban en las pruebas. El entrenador Kira lo formó desde entonces y se enteró de la situación familiar de Hyuga, así que se prometió ganar por él.",
       "datos": {
@@ -1653,8 +1653,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Ken Wakashimazu",
       "titulo": "El portero karateca",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/ken.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/ken.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/ken.webp",
       "descripcion": "Espectacular portero estrella del Meiwa FC y caracterizado por su agilidad, reflejos extraordinarios y un fuerte sentido de la lealtad hacia Hyuga",
       "historia_personal": "Inicialmente iba a ser delantero, pero decidió convertirse en guardameta para ayudar a su equipo. Tras recuperarse de un accidente de tráfico, debutó de forma increíble en las semifinales del torneo de primaria. En la gran final contra el Nankatsu, defendió la portería usando técnicas de karate heredadas de su familia como impulsarse en los postes. ",
       "datos": {
@@ -1664,7 +1664,7 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Capitan Tsubasa una nueva historia",
           "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
         }
@@ -1676,8 +1676,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Kawata Hiromi",
       "titulo": "La doncella de cañon",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/kawata.png",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/kawata.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/kawata.webp",
       "descripcion": "Delantera de un equipo rival, arrogante, burlona y muy segura de sí misma. Va siempre con su amiga Tami.",
       "historia_personal": "Humilló a Nana hace dos años en una final y desde entonces se burla de que <<nunca la vencerá>>. Para ella perder no es una opción, y no soporta que Nana mejore.",
       "datos": {
@@ -1694,14 +1694,13 @@
       ],
       "opiniones": []
     },
-    
     {
       "id": "tsub-tami",
       "historia": "capitan-tsubasa",
       "nombre": "Tami Manako",
       "titulo": "Mediocampista inesperada",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/tami.png",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/tami.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/tami.webp",
       "descripcion": "Amiga y compañera de Hiromi. Es un poco mas tranquila y más sensata que su amiga kawata.",
       "historia_personal": "Acompaña a Hiromi en sus visitas a los partidos y le recuerda las obligaciones, como volver al tren o reunirse con el equipo.",
       "datos": {
@@ -1711,7 +1710,7 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Capitan Tsubasa una nueva historia",
           "url": "https://www.wattpad.com/story/320334453-capitan-tsubasa-una-nueva-historia-cancelada"
         }
@@ -1723,8 +1722,8 @@
       "historia": "capitan-tsubasa",
       "nombre": "Rin Nakano",
       "titulo": "Entrenadora de futbol",
-      "avatar": "",
-      "arte": "imagenes/arte/TsubasaPersonajes/rin.jpg",
+      "avatar": "imagenes/miniaturas/TsubasaPersonajes/rin.webp",
+      "arte": "imagenes/arte/TsubasaPersonajes/rin.webp",
       "descripcion": "Entrenadora del equipo femenino del Nakatsu. Es amable y optimista, y confía mucho en sus jugadoras.",
       "historia_personal": "Lleva al primer equipo femenino de la primaria y comparte con Kyo la meta de ir a las nacionales.",
       "datos": {
@@ -1746,8 +1745,8 @@
       "historia": "camino-heroe",
       "nombre": "Tn Midoriya",
       "titulo": "Deku",
-      "avatar": "",
-      "arte": "imagenes/arte/HeroePersonajes/tnmidoriya.jpg",
+      "avatar": "imagenes/miniaturas/HeroePersonajes/tnmidoriya.webp",
+      "arte": "imagenes/arte/HeroePersonajes/tnmidoriya.webp",
       "descripcion": "Es un chico de preparatoria tenaz, ingenuo, de gran corazón que provoca que se mueva antes de pensar cuando alguien está en peligro. Lleva siempre un cuaderno donde anota información de las chicas mágicas y ademas de ser uno de los pocos hombres del mundo.",
       "historia_personal": "Desde pequeño admira a las chicas mágicas, en especial a Luna Estelar y siendo su inspiración para ser un héroe sim embargo para serlo necesita tener magia, pero Midoriya no posee eso. Un dia mientras andaba en la ciudad se encontró con Aoko quien al ver como arriesgo su vida para salvar a una chica, le dice que puede ser un héroe y que se convierta en su alumno. ",
       "datos": {
@@ -1760,7 +1759,8 @@
         {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
-        },  {
+        },
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         }
@@ -1772,8 +1772,8 @@
       "historia": "camino-heroe",
       "nombre": "Oshino Yamazaki",
       "titulo": "La heroina de Shibuya",
-      "avatar": "",
-      "arte": "imagenes/arte/HeroePersonajes/oshino.jpg",
+      "avatar": "imagenes/miniaturas/HeroePersonajes/oshino.webp",
+      "arte": "imagenes/arte/HeroePersonajes/oshino.webp",
       "descripcion": "Chica mágica de rango B de ojos azules brillantes y usa magia de luz con una actitud amable, alegre y carismática causando que la gente la adore, pero pesar de su positivismo no le tiembla las palabras al decir la verdad. ",
       "historia_personal": "Desde pequeña decidio convertirse en una chica magica por lo que al tener la oportunidad se hizo una. Oshino cree que mostrar una sonrisa es una forma de ocultar el miedo, y que ser chica mágica es cansado pero necesario para no preocupar a la gente.",
       "datos": {
@@ -1783,7 +1783,7 @@
         "Ocupación": "Chica magica"
       },
       "apariciones": [
-         {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
@@ -1799,8 +1799,8 @@
       "historia": "camino-heroe",
       "nombre": "Aoko Shizuka",
       "titulo": "Blue Rock Shooter",
-      "avatar": "",
-      "arte": "imagenes/arte/HeroePersonajes/aoko.jpg",
+      "avatar": "imagenes/miniaturas/HeroePersonajes/aoko.webp",
+      "arte": "imagenes/arte/HeroePersonajes/aoko.webp",
       "descripcion": "Chica mágica de cabello negro azulado y ojos con llamas azules con una vestimenta casi descubierta de color negro. Es escandalosa, bromista, perezosa y presumida pero detrás de esa actitud es alguien protectora y no duda en crear armas con su magia como cadenas, espada y balas, para proteger a las personas que Aoko aprecia. ",
       "historia_personal": "Fue una de las cinco mejores chicas mágicas de Japón que su grupo trajo la paz por mucho tiempo, pero después del incidente de hace dos o tres años en la prefectura de Shizuoka, el grupo se separó. Ahora vive junto a la playa, con deudas con Chimozuke y se hace cargo de entrenar a Tn porque cree que alguien como él puede ser héroe, además de ser la sucesora de una magia que se transfiere por cada portador. ",
       "datos": {
@@ -1810,7 +1810,7 @@
         "Ocupación": "Chica magica"
       },
       "apariciones": [
-         {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
@@ -1826,8 +1826,8 @@
       "historia": "camino-heroe",
       "nombre": "Shiroko Emiya",
       "titulo": "Mirage",
-      "avatar": "",
-      "arte": "imagenes/arte/HeroePersonajes/shiroko.png",
+      "avatar": "imagenes/miniaturas/HeroePersonajes/shiroko.webp",
+      "arte": "imagenes/arte/HeroePersonajes/shiroko.webp",
       "descripcion": "Chica de 17 años y cabello rojo con personalidad amable, discreta y algo insegura. Fue una chica magica en el pasado pero ahora cuida de su familia y vive como una chica común, convencida de que su tiempo como heroína terminó,",
       "historia_personal": "Fue la heroína Mirage del grupo Komachi de cuatro integrantes, sus compañeras brillaban más y la hacían sentir un estorbo por su magia limitada que de tanto desprecio tuvo que abandonar el grupo.",
       "datos": {
@@ -1837,7 +1837,7 @@
         "Ocupación": "Chica magica"
       },
       "apariciones": [
-         {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
@@ -1853,8 +1853,8 @@
       "historia": "camino-heroe",
       "nombre": "Beako Shinomiya",
       "titulo": "La muñeca loca",
-      "avatar": "",
-      "arte": "imagenes/arte/HeroePersonajes/beako.jpg",
+      "avatar": "imagenes/miniaturas/HeroePersonajes/beako.webp",
+      "arte": "imagenes/arte/HeroePersonajes/beako.webp",
       "descripcion": "Ex chica mágica que usa un martillo y rayos que inmovilizan al rival. Es fuerte, dura, desafiante, muy lista en combate que anticipa casi todos los ataques incluso habla con frialdad y desprecia a las chicas mágicas. ",
       "historia_personal": "Fue una de las cinco mejores de Japón junto a Aoko, pero a diferencia de ella, ya no quiere estar en un bando que obliga a seguir un camino ni respalda un sistema hipócrita. Busca eliminar a las chicas mágicas por abusar de su estatus debido a que para el ojo de la gente puedan ser heroínas sim embargo por dentro están podridas.",
       "datos": {
@@ -1864,11 +1864,11 @@
         "Ocupación": "Liga de Villanas"
       },
       "apariciones": [
-         {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
-          {
+        {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
         }
@@ -1880,8 +1880,8 @@
       "historia": "camino-heroe",
       "nombre": "Luna Estelar",
       "titulo": "Magia Estelar",
-      "avatar": "",
-      "arte": "imagenes/arte/HeroePersonajes/estelar.jpg",
+      "avatar": "imagenes/miniaturas/HeroePersonajes/estelar.webp",
+      "arte": "imagenes/arte/HeroePersonajes/estelar.webp",
       "descripcion": "‘Heroína’ de cabello rosado de actitud juguetona, burlona, descarada y tranquila incluso en situaciones peligrosas. Usa Magia de manipulación de cuerpo que le permite tomar traspasar su alma a otro cuerpo además de obtener sus habilidades. ",
       "historia_personal": "Miembro de las Cadenas de Prometeo y heroína favorita de Midoriya. Se mantuvo oculta para buscar un poder que a estado buscando por generaciones para lograr su objetivo, pero sin éxito y ahora siendo parte de la liga de Villanas junto a Beako. ",
       "datos": {
@@ -1891,11 +1891,11 @@
         "Ocupación": "Ex chica magica"
       },
       "apariciones": [
-         {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
-          {
+        {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
         }
@@ -1907,8 +1907,8 @@
       "historia": "precio-perfeccion",
       "nombre": "Allen Nanakase",
       "titulo": "El prodigio de los Nanakase",
-      "avatar": "",
-      "arte": "imagenes/arte/PrecioPersonajes/allen.jpg",
+      "avatar": "imagenes/miniaturas/PrecioPersonajes/allen.webp",
+      "arte": "imagenes/arte/PrecioPersonajes/allen.webp",
       "descripcion": "Joven prodigio, fuerte en deporte y estudios, de mente fría y disciplinada. De niño es frío, orgulloso y reservado, convencido de que las emociones son una debilidad.",
       "historia_personal": "Nace en una familia rica e influyente que solo valora el talento y desprecia la debilidad. Crece entrenado para ser perfecto, con padres que no muestran afecto y miden el amor por los logros. Su hermana Chizuru intenta mostrarle que la verdadera grandeza está en ser auténtico, pero él no la escucha hasta que un día se da cuenta el camino que a seguido ciegamente por lo que se aleja y empieza de cero con la promesa de proteger a quienes que son vistos como ‘sin talento’. ",
       "datos": {
@@ -1918,10 +1918,10 @@
         "Ocupación": "Estudiante, tecnico, electricista, etc."
       },
       "apariciones": [
-         {
+        {
           "titulo": "El precio de la perfección",
           "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
-        }, 
+        },
         {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
@@ -1934,8 +1934,8 @@
       "historia": "precio-perfeccion",
       "nombre": "Chizuru Nanakase",
       "titulo": "La oveja negra de los Nanakase",
-      "avatar": "",
-      "arte": "imagenes/arte/PrecioPersonajes/chizuru.jpg",
+      "avatar": "imagenes/miniaturas/PrecioPersonajes/chizuru.webp",
+      "arte": "imagenes/arte/PrecioPersonajes/chizuru.webp",
       "descripcion": "Hermana mayor de Allen y opuesto a toda su familia fría. Es alegre, rebelde en sentido de que es opuesto a su familia, tiene un corazón con el que expresa lo que siente y cree que las emociones además de que considera que las conexiones humanas importan. ",
       "historia_personal": "Crece en una familia donde el talento lo es todo y la debilidad se castiga provocando que Chizuru sea vista como una deshonra al no tener un ‘Talento’ y por eso la llaman lastre y deshonra. Es la única que se preocupa por Allen y le enseña que se puede ser fuerte sin dejar de ser humano.",
       "datos": {
@@ -1945,10 +1945,10 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-         {
+        {
           "titulo": "El precio de la perfección",
           "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
-        } 
+        }
       ],
       "opiniones": []
     },
@@ -1957,8 +1957,8 @@
       "historia": "precio-perfeccion",
       "nombre": "Yoyoko Otsuki",
       "titulo": "Vocalista y guitarrista de Sideros",
-      "avatar": "",
-      "arte": "imagenes/arte/PrecioPersonajes/yoyoko.png",
+      "avatar": "imagenes/miniaturas/PrecioPersonajes/yoyoko.webp",
+      "arte": "imagenes/arte/PrecioPersonajes/yoyoko.webp",
       "descripcion": "Yoyoko tiene el pelo castaño con mechas rojas recogido con dos coletas, ojos de color rojo claro, lleva una boina y una gargantilla negra. A pesar de su apariencia externa, es muy insegura y tiene un estilo de comunicación deficiente haciendo difícil que los demás se relacionen con ella.",
       "historia_personal": "Aunque ya alcanzó la fama desde que está en SIDEROS y puede realizar sus propiedades conciertos en solitario, compara los logros de los demás con los suyos, sintiendo que no ha hecho lo suficiente para superarlos. Le gusta ir al karaoke sola, por miedo a que la gente la vea y la juzgue.  A pesar de eso, ha sido una persona considerada, especialmente con su rival Kessoku Band, y está despuesta a darles consejos para que mejoren y tengan éxito. ",
       "datos": {
@@ -1968,10 +1968,10 @@
         "Ocupación": "Vocalistaa y guitarrista de Sideros"
       },
       "apariciones": [
-          {
+        {
           "titulo": "El precio de la perfección",
           "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
-        }, 
+        },
         {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
@@ -1984,8 +1984,8 @@
       "historia": "precio-perfeccion",
       "nombre": "Akubi Hasegawa",
       "titulo": "Baterista de Sideros",
-      "avatar": "",
-      "arte": "imagenes/arte/PrecioPersonajes/akubi.png",
+      "avatar": "imagenes/miniaturas/PrecioPersonajes/akubi.webp",
+      "arte": "imagenes/arte/PrecioPersonajes/akubi.webp",
       "descripcion": "Chica de cabello blanco, ojos amarillos y siempre se la ve con una máscara. siempre critica las acciones de los demás y es siempre sincera en sus comentarios sim embargo casi siempre es amable, aunque tiene un lado burlón. ",
       "historia_personal": "Es la baterista de Sideros, donde equilibra el carácter explosivo de Yoyoko usando el humor para aliviar la tensión. Cuando ofrece su ayuda a alguien la cumple hasta el final y de colaborar con la organización de las presentaciones de la banda en FOLT, el live house donde tocan. ",
       "datos": {
@@ -1995,10 +1995,10 @@
         "Ocupación": "Baterista de la Banda de Sideros"
       },
       "apariciones": [
-          {
+        {
           "titulo": "El precio de la perfección",
           "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
-        }, 
+        },
         {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
@@ -2011,8 +2011,8 @@
       "historia": "precio-perfeccion",
       "nombre": "Yuyu Uchida",
       "titulo": "Bajista de Sideros",
-      "avatar": "",
-      "arte": "imagenes/arte/PrecioPersonajes/yuyu.png",
+      "avatar": "imagenes/miniaturas/PrecioPersonajes/yuyu.webp",
+      "arte": "imagenes/arte/PrecioPersonajes/yuyu.webp",
       "descripcion": "Es la bajista de Sideros con una personalidad misteriosa, tranquila y una fascinación enorme por lo paranormal por lo que siempre anda buscando historias de fantasmas, además de objetos malditos. Es una persona amable que se vuelve muy entusiasta cuando habla de lo que le gusta.",
       "historia_personal": "Colecciona objetos supuestamente malditos que consigue en mercados de antigüedades, subastas, o directamente de personas que quieren deshacerse de ellas. Como en su casa ya no tiene espacio, guarda la colección en una habitación oculta de FOLT decorada con velas, amuletos, objetos antiguos, donde cada pieza tiene una etiqueta con su origen, aunque nadie de la banda lo sabe porque cree que les daría miedo o que Gin le pediría tirarlo todo.",
       "datos": {
@@ -2022,10 +2022,10 @@
         "Ocupación": "Bajista de la Banda de Sideros"
       },
       "apariciones": [
-          {
+        {
           "titulo": "El precio de la perfección",
           "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
-        }, 
+        },
         {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
@@ -2038,8 +2038,8 @@
       "historia": "precio-perfeccion",
       "nombre": "Fuko Honjo",
       "titulo": "Guitarrista de Sideros",
-      "avatar": "",
-      "arte": "imagenes/arte/PrecioPersonajes/fumko.png",
+      "avatar": "imagenes/miniaturas/PrecioPersonajes/fumko.webp",
+      "arte": "imagenes/arte/PrecioPersonajes/fumko.webp",
       "descripcion": "Es la segunda guitarrista de Sideros, de personalidad muy extrovertida, animada, creativa, siempre con energía positiva, lo que la convierte en la primera en proponer planes en grupo",
       "historia_personal": "Es una guitarrista con bastante experiencia que disfruta enseñar lo que sabe, siempre con paciencia y entusiasmo, logrando que cualquier ensayo o reunión sea más divertido. Valora mucho la etapa de la juventud, por eso defiende que hay que vivirla con amistades, salidas y nuevas experiencias.",
       "datos": {
@@ -2052,11 +2052,12 @@
         {
           "titulo": "El precio de la perfección",
           "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
-        }, 
+        },
         {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
-        }],
+        }
+      ],
       "opiniones": []
     },
     {
@@ -2064,8 +2065,8 @@
       "historia": "precio-perfeccion",
       "nombre": "Ginjiro Yoshida",
       "titulo": "Gerente",
-      "avatar": "",
-      "arte": "imagenes/arte/PrecioPersonajes/gin.jpg",
+      "avatar": "imagenes/miniaturas/PrecioPersonajes/gin.webp",
+      "arte": "imagenes/arte/PrecioPersonajes/gin.webp",
       "descripcion": "Yoshida tiene el cabello negro, ojos verdes y ojeras notables. Es el gerente de FOLT, un live house de Shinjuku, con una apariencia ruda que contrasta con su forma de ser ya que en el fondo es amable, atento, hasta algo delicado en ciertos momentos y sabe ponerse serio cuando toca poner orden.",
       "historia_personal": "",
       "datos": {
@@ -2075,7 +2076,7 @@
         "Ocupación": "Gerente del live house FOLT"
       },
       "apariciones": [
-         {
+        {
           "titulo": "El precio de la perfección",
           "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
         }
@@ -2087,8 +2088,8 @@
       "historia": "precio-perfeccion",
       "nombre": "Eliza Shimizu",
       "titulo": "Guitarrista de Sick Hack",
-      "avatar": "",
-      "arte": "imagenes/arte/PrecioPersonajes/eliza.png",
+      "avatar": "imagenes/miniaturas/PrecioPersonajes/eliza.webp",
+      "arte": "imagenes/arte/PrecioPersonajes/eliza.webp",
       "descripcion": "Es la guitarrista de Sick Hack, extranjera, de cabello largo amarillo brillante y ojos azul mezclilla. Es optimista, relajada, muy divertida con una energía positiva que contagia por lo que suele ver el lado gracioso de casi cualquier situación. Mezcla frases en inglés cuando habla debido a que no domina el idioma Japones así que Shima la ayuda a estudiar, y por último a Eliza le apasiona el anime. ",
       "historia_personal": "Se mudó a Japón por su pasión por el anime y la música, con la idea de asistir al Comiket, además de formar una banda que tocara canciones de anime. Terminó uniéndose a Sick Hack, donde aporta ánimo en los momentos tensos, sobre todo cuando los problemas del grupo se acumulan. Siempre propone seguir tocando y vender más entradas antes que preocuparse por el dinero, y disfruta convenciendo a sus compañeras de probar cosas nuevas. ",
       "datos": {
@@ -2110,8 +2111,8 @@
       "historia": "precio-perfeccion",
       "nombre": "Shima",
       "titulo": "Baterista de Sick Hack",
-      "avatar": "",
-      "arte": "imagenes/arte/PrecioPersonajes/shima.png",
+      "avatar": "imagenes/miniaturas/PrecioPersonajes/shima.webp",
+      "arte": "imagenes/arte/PrecioPersonajes/shima.webp",
       "descripcion": "Es la baterista de Sick Hack, de pelo corto oscuro y ojos rojos que suele vestir una chaqueta azul marino con detalles blancos, lo que hace que a primera vista parezca un chico. Es educada, seria, responsable y pierde la paciencia cuando se trata de Hiroi si hace algo que no debe. ",
       "historia_personal": "Es amiga de Hiroi desde hace años y a pesar de la forma de actuar de su amiga, se preocupa a tal punto de tener que regañarle sin importarle que quede como la mala. Terminó la preparatoria, aunque abandonó la universidad y la más sensata de su banda lo que hizo que sea la encargada de mantener el orden.",
       "datos": {
@@ -2121,7 +2122,7 @@
         "Ocupación": "Baterista de la Banda de Sick Hack"
       },
       "apariciones": [
-          {
+        {
           "titulo": "El precio de la perfección",
           "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
         }
@@ -2133,8 +2134,8 @@
       "historia": "ecos-corazon-fugaz",
       "nombre": "Ikari Oshi Tn",
       "titulo": "El sol de Tracen",
-      "avatar": "",
-      "arte": "imagenes/arte/EcosPersonajes/oshi1.jpg",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/oshi1.webp",
+      "arte": "imagenes/arte/EcosPersonajes/oshi1.webp",
       "descripcion": "Chico delgado, de cabello teñido de color naranja cobrizo brillando, algo desordenado. Es una persona extrovertida que no teme en hablarle al resto, pero a la vez siendo reservado, observador, aunque detrás de esa calma esconde una gran sensibilidad y admira profundamente a las personas capaces de sonreír sin esfuerzo, sobre todo a su hermano mayor.",
       "historia_personal": "Creció en una familia unida junto a sus padres, su hermano mayor Kota y su hermana menor Sakura. Su vida cambió cuando su padre murió en un accidente y poco después su madre enfermó de una enfermedad rara, dejando a los tres hermanos solos. Kota se convirtió en su ejemplo a seguir ya que nunca dejo de sonreír provocando que en el futuro fuera una motivación a seguir, incluso cuando fallece. ",
       "datos": {
@@ -2151,8 +2152,8 @@
       "historia": "ecos-corazon-fugaz",
       "nombre": "Meisho Doto",
       "titulo": "Retadora implacable",
-      "avatar": "",
-      "arte": "imagenes/arte/EcosPersonajes/doto.jpg",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/doto.webp",
+      "arte": "imagenes/arte/EcosPersonajes/doto.webp",
       "descripcion": "Es una uma musume alta, de cabello corto marrón con flequillo blanco, un ahoge con forma de signo de interrogación, ojos morados que a menudo parecen espirales, una cinta fina en la oreja derecha, además de una boca que siempre parece de gato. Es tímida, torpe, pesimista, con una autoestima tan baja como sus orejas caídas que tiemblan cuando está nerviosa, mientras que su cola se enreda porque la juguetea cuando se preocupa. Tropieza al hablar, aun así, mantiene una actitud positiva y se esfuerza por cambiar.",
       "historia_personal": "Pese a su talento no se cree lo suficiente buena como otras Umamusume, pero aun así no piensa rendirse porque quiere asegurar un futuro mejor. Admira la seguridad desbordante de T.M. Opera O, a quien considera su modelo a seguir, además de su mejor amiga. Le gusta la comida muy picante, el enka, y debido a su forma de ser diferentes animales se le apegan. ",
       "datos": {
@@ -2169,8 +2170,8 @@
       "historia": "ecos-corazon-fugaz",
       "nombre": "Tm. Opera",
       "titulo": "Overlord",
-      "avatar": "",
-      "arte": "imagenes/arte/EcosPersonajes/opera.png",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/opera.webp",
+      "arte": "imagenes/arte/EcosPersonajes/opera.webp",
       "descripcion": "Es una uma musume de cabello corto naranja claro de mechones rizados, ojos morados, una corona rosa dorada sobre la cabeza, adornos dorados en las orejas. Tiene una actitud teatral, como si actuara sobre un escenario con una risa estruendosa mientras que sus gestos son exagerados y a menudo la oirás proclamar su grandeza de una forma u otra. ",
       "historia_personal": "Se hace llamar 'la Soberana' con su fuerte siendo las representaciones de ópera improvisadas. Pese a su ego, tiene mucho carisma, además de un deseo sincero de que sus rivales den lo mejor de sí, además de que Meisho Doto la admira profundamente.",
       "datos": {
@@ -2187,8 +2188,8 @@
       "historia": "ecos-corazon-fugaz",
       "nombre": "Tamamo Cross",
       "titulo": "El rayo gris",
-      "avatar": "",
-      "arte": "imagenes/arte/EcosPersonajes/tama.jpg",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/tama.webp",
+      "arte": "imagenes/arte/EcosPersonajes/tama.webp",
       "descripcion": "Es una Umamusume de baja estatura con el cabello gris muy largo, grandes ojos azules, un pequeño colmillo que asoma cuando sonríe, además de unas orejeras rojas con una diadema del mismo color. Tiene una personalidad enérgica, ingeniosa, competitiva, siempre lista para actuar y sus orejas se levantan al oír palabras como oferta mientras que su cola chispea cuando se enfada.",
       "historia_personal": "Creció en la extrema pobreza que tuvo que mudarse constantemente. Tuvo una infancia dura la motivó a correr para saldar las deudas y sacar a su familia adelante. En Tracen se volvió una de las más destacadas con su rivalidad con Oguri Cap que terminó en una profunda amistad.",
       "datos": {
@@ -2200,13 +2201,13 @@
       "apariciones": [],
       "opiniones": []
     },
-     {
+    {
       "id": "ecos-oguri",
       "historia": "ecos-corazon-fugaz",
       "nombre": "Oguri Cap",
       "titulo": "La bestia gris",
-      "avatar": "",
-      "arte": "imagenes/arte/EcosPersonajes/oguri.jpg",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/oguri.webp",
+      "arte": "imagenes/arte/EcosPersonajes/oguri.webp",
       "descripcion": "Es una uma musume alta, tranquila, sincera y algo distraída con cabello gris largo, flequillo delantero adornado con una banda para el cabello de 5 diamantes negra y amarilla, ojos azules con reflejos azul, lleva una banda azul con una franja amarilla central alrededor de su oreja derecha. Tiene un apetito descomunal debido a que es capaz de vaciar una olla de arroz en segundos y es conocida como el 'Monstruo Gris' por su enorme fuerza en la pista.",
       "historia_personal": "Proviene del campo donde estudió en la Academia Tracen de Kasamatsu hasta volverse imbatible en las carreras locales. Su talento llamó la atención de Symboli Rudolf, quien la escogió para trasladarse a la Academia Tracen central, llevando consigo la ilusión de apoyar a su familia. Cuando era niña, tenía las piernas muy débiles y apenas podía pararse o caminar, pero su madre le masajeaba las piernas a diario para ayudar a fortalecer sus músculos y debido a esto adquirió la capacidad de caminar y desarrolló un amor por correr que gracias a todo su esfuerzo años después de ser reconocida recibió el apodo de 'Cenicienta' y rompiendo la idea de que las Umamusume de cabello gris no pueden correr rápido. ",
       "datos": {
@@ -2216,7 +2217,7 @@
         "Ocupación": "Ex corredora"
       },
       "apariciones": [
-            {
+        {
           "titulo": "Buscando un propósito - Umamusume",
           "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
         }
@@ -2228,8 +2229,8 @@
       "historia": "ecos-corazon-fugaz",
       "nombre": "Symboli Rudolf",
       "titulo": "Emperador",
-      "avatar": "",
-      "arte": "imagenes/arte/EcosPersonajes/rudolf.jpg",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/rudolf.webp",
+      "arte": "imagenes/arte/EcosPersonajes/rudolf.webp",
       "descripcion": "Es la presidenta del consejo estudiantil de la Academia Tracen con cabello largo castaño oscuro y un mechón blanco en forma de media luna en el flequillo. Es serena, disciplinada, imparcial y de una gran exigencia consigo misma. Detrás de esa seriedad es protectora, se preocupa mucho por los demás, y tiene un humor cuestionable, en especial cuando hace chistes. ",
       "historia_personal": "Es una triple coronada invicta gracias a sus talentos y siendo admirada, aunque a veces también envidiada. Su gran sueño es crear un mundo donde todas las uma musume puedan ser felices y lidera la institución junto a Air Groove, su vicepresidenta, además de Narita Brian.",
       "datos": {
@@ -2239,7 +2240,7 @@
         "Ocupación": "Entrenadora"
       },
       "apariciones": [
-            {
+        {
           "titulo": "Buscando un propósito - Umamusume",
           "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
         }
@@ -2251,7 +2252,7 @@
       "historia": "ecos-corazon-fugaz",
       "nombre": "Masami Komiyama",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/masami.webp",
       "arte": "imagenes/arte/EcosPersonajes/masami.webp",
       "descripcion": "Es la entrenadora de Tamamo Cross, quien Tamamo llama 'Komi-chan', un apodo cariñoso que muestra la confianza que hay entre ambas. Se presenta como una persona comprometida, atenta, capaz de acompañarla y apoyarla tanto en la pista como fuera de ella.",
       "historia_personal": "Conoció a Tamamo Cross cuando el casero de su vivienda le pidió que la entrenara a la pequeña Uma musume a pesar de que estaba estudiando para ser entrenadora profesional y desde entonces ha permanecido a su lado para guiarla.",
@@ -2269,8 +2270,8 @@
       "historia": "ecos-corazon-fugaz",
       "nombre": "Super Creek",
       "titulo": "¿?",
-      "avatar": "",
-      "arte": "imagenes/arte/EcosPersonajes/creek.jpeg",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/creek.webp",
+      "arte": "imagenes/arte/EcosPersonajes/creek.webp",
       "descripcion": "Es una uma musume alta, con cabello castaño rojizo recogido en una enorme trenza que llega más abajo de la espalda, atada con un gran lazo negro, ojos azules caídos que reflejan su personalidad dulce y maternal. Con un carácter tranquilo, atenta, perceptiva que se ha ganado con facilidad el apodo de 'Mamá Creek'.",
       "historia_personal": "Debido a que ayuda en la guardería de su familia hizo que tenga un instinto de cuidar a todos, perdonando casi cualquier error y valora el crecimiento de los demás por encima de sus propios logros, aunque esa indulgencia a veces la aplica incluso consigo misma. Se especializa en carreras de larga distancia donde pasa de ser dulce a una rival feroz. ",
       "datos": {
@@ -2287,8 +2288,8 @@
       "historia": "amor-monstruo",
       "nombre": "Still In Love",
       "titulo": "La uma yandere",
-      "avatar": "",
-      "arte": "imagenes/arte/EcosPersonajes/love.jpg",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/love.webp",
+      "arte": "imagenes/arte/EcosPersonajes/love.webp",
       "descripcion": "Es una uma musume de estatura media, cabello castaño, ojos rojos tranquila con personalidad tranquila, sensata y tímida sim embargo en las carreras muestra un apetito feroz por competir causando que pase de ser una chica tímida a una posesiva capaz de devorar la pista y superar a cualquier rival.",
       "historia_personal": "En su infancia no tuvo muchos amigos debido a su ‘otra yo’ que hacía que las personas se alejaran. Mayormente es una chica reservada que habla poco de sí misma sim embargo su otra personalidad hace que sea vista como una ‘Yandere’ sim saber que en realidad Still in Love no es así. ",
       "datos": {
@@ -2298,7 +2299,7 @@
         "Ocupación": "Estudiante y corredora"
       },
       "apariciones": [
-            {
+        {
           "titulo": "Buscando un propósito - Umamusume",
           "url": "https://www.wattpad.com/story/388811719-buscando-un-prop%C3%B3sito-umamusume-tn-x-umamusume"
         }
@@ -2310,8 +2311,8 @@
       "historia": "amor-monstruo",
       "nombre": "Sakura Ikari",
       "titulo": "La luz de abril",
-      "avatar": "",
-      "arte": "imagenes/arte/EcosPersonajes/sakura.png",
+      "avatar": "imagenes/miniaturas/EcosPersonajes/sakura.webp",
+      "arte": "imagenes/arte/EcosPersonajes/sakura.webp",
       "descripcion": "Es una Uma Musume de cabello rosado, de carácter alegre y curioso, con tanta energía que no soporta quedarse quieta por mucho tiempo. Siempre lleva consigo un adorno muy preciado porque funciona como su amuleto, tiende a tener una visión optimista de la vida con una actitud contagiosa que quienes la rodean, la adoren. ",
       "historia_personal": "Sus padres le pusieron Sakura por la flor de cerezo que representa belleza, fragilidad y la capacidad de renacer después de cada invierno. Desde pequeña creció junto a su hermano debido a que perdió a sus padres, hasta que con el pasar de los años conoció a Still in Love, con quien prometió ingresar a la Academia Tracen para enfrentarse algún día como rivales en la pista. Ese sueño de correr, sentir el viento en el rostro y competir con su mejor amiga es lo que la mueve desde entonces.",
       "datos": {
@@ -2333,8 +2334,8 @@
       "historia": "saga-reencarnacion",
       "nombre": "Kusanagi Tokisaki",
       "titulo": "La Sombra Sonriente del Trio",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/tokisaki.png",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/tokisaki.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/tokisaki.webp",
       "descripcion": "Chico pelirojo, ojos amarillos, sonriente con un buen carisma, pero por dentro siempre siente inferior además de tener un carácter algo terco y se esfuerza hasta el final a pesar de que los resultados no siempre lleguen. Trata de ser amable con todos y le cuesta decir que no cuando alguien le pide ayuda incluso si eso significa sacrificar su propio tiempo.",
       "historia_personal": "Es el menor de los hermanos Tokisaki, una familia famosa por el talento de todos sus miembros causando que creciera a la sombra de su familia y hermanos. Tuvo que esforzarse el doble para ganarse un lugar en a la familia mientras recibía críticas de la gente que esperaban que fuera como sus hermanos causando rechazo hacia él y que estuviera casi siempre solo hasta que conoció a Hotaro y a Yuki, quienes se convirtieron en sus primeros amigos de verdad y sin juzgarlo por su apellido. Por dentro ama a Yuki sim embargo prefiere no decirlo para no arruinar su amistad",
       "datos": {
@@ -2347,11 +2348,11 @@
         {
           "titulo": "La saga de la reencarnacion",
           "url": "https://www.wattpad.com/story/352330885-la-saga-de-la-reencarnaci%C3%B3n-one-shot"
-        } , 
+        },
         {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }, 
+        },
         {
           "titulo": "Mensaje de arrepentimiento Alya x Yuki x Tn - Roshidere",
           "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
@@ -2364,8 +2365,8 @@
       "historia": "saga-reencarnacion",
       "nombre": "Yuki Kamihara",
       "titulo": "La Nieve que Abriga del Trio",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/yuki.png",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/yuki.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/yuki.webp",
       "descripcion": "Es una chica amable, de pelo rosado y ojos azules con una personalidad algo tímida al comienzo, pero con el tiempo se vuelve alegre y positiva. Siempre esta con sus amigos Okazaki y Hotaro que cada vez que es San Valentín les prepara chocolates caseros para agradecerles por su amistad. ",
       "historia_personal": "Vive con su hermano menor y su padre, mientras que en la escuela otras chicas solían burlarse de ella por su físico hasta que Tokisaki y Hotaro la defendieron, momento en el cual los tres se hicieron amigos cercanos y prometieron apoyarse siempre en lo que necesitaran. Ella admira y ama a Tokisaki en secreto sim embargo tampoco quiere arruinar la amistad que han llevado. ",
       "datos": {
@@ -2378,11 +2379,11 @@
         {
           "titulo": "La saga de la reencarnacion",
           "url": "https://www.wattpad.com/story/352330885-la-saga-de-la-reencarnaci%C3%B3n-one-shot"
-        } , 
+        },
         {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }, 
+        },
         {
           "titulo": "Mensaje de arrepentimiento Alya x Yuki x Tn - Roshidere",
           "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
@@ -2395,7 +2396,7 @@
       "historia": "saga-reencarnacion",
       "nombre": "Hotaro Kye",
       "titulo": "La Luciérnaga del Trio",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/hotaro.webp",
       "arte": "imagenes/arte/EsperanzaPersonajes/hotaro.webp",
       "descripcion": "Es un chico bromista, algo molesto en ocasiones, pero muy leal con sus amigos a quienes siempre intenta animar incluso cuando no sabe qué decir. ",
       "historia_personal": "También tenía problemas con su familia hasta que conoció a Kusanagi con quien terminó formando su primera amistad y poco después ambos defendieron a Yuki de unas compañeras que se burlaban de ella, lo que daría origen al trío de amigos. ",
@@ -2409,7 +2410,7 @@
         {
           "titulo": "La saga de la reencarnacion",
           "url": "https://www.wattpad.com/story/352330885-la-saga-de-la-reencarnaci%C3%B3n-one-shot"
-        } , 
+        },
         {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
@@ -2422,8 +2423,8 @@
       "historia": "luz-esperanza",
       "nombre": "Kusanagi Kamado",
       "titulo": "El Baterista Inexpresivo",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/kamado.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/kamado.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/kamado.webp",
       "descripcion": "Es un chico tranquilo, solitario y algo perezoso que practica la batería. Casi siempre mantiene una expresión neutra que le cuesta mostrar lo que siente, pero se preocupa mucho por la gente cercana, además prefiere pasar desapercibido antes que llamar la atención de los demás.",
       "historia_personal": "Reencarnado que vive con su madre Sakura y su hermana Emilia en su vida actual. Suele pasar el tiempo encerrado en su cuarto practicando la batería hasta que conoce a Kessoku Band. A diferencia de su contraparte alegre, él es más frio por todo lo que vivió como Kusanagi Tokisaki y razón del que decidiera empezar de cero con una forma de ser distinta de ser.",
       "datos": {
@@ -2445,8 +2446,8 @@
       "historia": "luz-esperanza",
       "nombre": "Emilia Kamado",
       "titulo": "La Estrella Pequeña",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/emilia.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/emilia.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/emilia.webp",
       "descripcion": "Es la hermana menor de Kusanagi, una niña muy energética, cariñosa de pelo negro y ojos morados al igual que su madre. No duda en lanzace a abrazar a su hermano apenas lo ve y que sueña con convertirse algún día en idol.",
       "historia_personal": "Usualmente graba a escondidas a su hermano mientras toca la batería porque quiere que el mundo vea su talento y a pesar de que Kusanagi sea algo frio, por dentro ella sabe que la aprecia. ",
       "datos": {
@@ -2456,7 +2457,7 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
         }
@@ -2468,8 +2469,8 @@
       "historia": "luz-esperanza",
       "nombre": "Sakura Kamado",
       "titulo": "¿?",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/sakura.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/sakura.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/sakura.webp",
       "descripcion": "Es la madre de Kusanagi y de Emilia, una mujer de pelo negro, ojos morados y algo estricta pero cariñosa que no duda en corregir a sus hijos cuando se portan mal. Cocina con mucho entusiasmo pese a que casi siempre se le quema algo y se emociona fácilmente cuando ve los logros pequeños de sus hijos. ",
       "historia_personal": "Hace años se separó de su marido debido a que no quería ir a otro país y abandonar a su familia por lo que suele trabajar mucho para mantener a sus hijos. Les tiene tanto amor a sus hijos y se preocupó mucho al ver lo aislado que era Kusanagi, razón por la cual se puso contenta al enterarse de que había entrado a una banda, hasta el punto de comprarle una batería nueva para animarlo a seguir tocando.",
       "datos": {
@@ -2479,7 +2480,7 @@
         "Ocupación": "Oficinista"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
         }
@@ -2491,8 +2492,8 @@
       "historia": "luz-esperanza",
       "nombre": "Hitori Gotou",
       "titulo": "Guitar Hero",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/hitori.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/hitori.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/hitori.webp",
       "descripcion": "Hitori es una chica introvertida que le cuesta mantener una conversación, pero por dentro es una chica amable y sincera además de tener un talento enorme con la guitarra. Tiene el pelo rosa en la cual lleva atada con un accesorio en forma de cubo azul y amarillo en el lado derecho de la cabeza con ojos color azul. Suele vestir un chándal rosa sobre su uniforme, con falda larga gris, calcetines negros y zapatos marrones.",
       "historia_personal": "Toca desde pequeña la guitarra de su padre, convencida de que así haría amigos y entraría a una banda. Pasó la secundaria sola, practicando horas en su armario y subiendo videos con el nombre 'Guitar Hero'. Cuando conoce a Nijika, esa ilusión empieza a hacerse realidad, y poco a poco aprende a convivir con otras personas.",
       "datos": {
@@ -2502,11 +2503,11 @@
         "Ocupación": "Estudiante y Guitarrista de Kessoku Band"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }, 
-          {
+        },
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
@@ -2518,8 +2519,8 @@
       "historia": "luz-esperanza",
       "nombre": "Nijika Ijichi",
       "titulo": "Baterrista de Kessoku Band",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/nijika.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/nijika.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/nijika.webp",
       "descripcion": "Baterista y fundadora de Kessoku Band de pelo rubio con una coleta lateral con personalidad alegre, sociable, optimista, etc. Es la que mantiene a la banda en orden en la banda y la que más se preocupa. ",
       "historia_personal": "Perdió a su madre de pequeña y su padre casi nunca está en casa así que mira a su hermana mayor Seika como una guía. Fundó la banda para cumplir un sueño que comparte con ella: Volver a ‘Strarry’ un Live House reconocida. ",
       "datos": {
@@ -2529,11 +2530,11 @@
         "Ocupación": "Estudiante y bateriste de la banda Kessoku Band"
       },
       "apariciones": [
-           {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }, 
-          {
+        },
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
@@ -2545,8 +2546,8 @@
       "historia": "luz-esperanza",
       "nombre": "Ryo Yamada",
       "titulo": "Bajista de Kessoku Band",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/ryo.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/ryo.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/ryo.webp",
       "descripcion": "Bajista de la banda, de pelo azul oscuro y expresión neutra que puede parecer ser una persona seria además de ser sarcástica, aficionada a las rarezas y escribe la mayor parte de las letras. A pesar de su forma de ser puede ser algo descuidada a tal punto de pedir dinero por lo que Nijika siempre sabe cuidarla. ",
       "historia_personal": "Se fue de su banda anterior por diferencias creativas, y Nijika la convenció de empezar de nuevo con ella. Vive modestamente y, según se cuenta, sobrevive con comida muy barata, aunque nunca pierde la calma.",
       "datos": {
@@ -2556,11 +2557,11 @@
         "Ocupación": "Estudiante y bajista de la banda Kessoku Kand"
       },
       "apariciones": [
-             {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }, 
-          {
+        },
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
@@ -2572,8 +2573,8 @@
       "historia": "luz-esperanza",
       "nombre": "Kita Ikuyo",
       "titulo": "Vocalista y guitarrista de Kessoku band",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/kita.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/kita.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/kita.webp",
       "descripcion": "Es una guitarrista rítmica y vocalista, de pelo rojo con ojos verdes con una personalidad extrovertida, brillante, sociable, popular, muy segura pero oculta bastante inseguridad y va a la misma preparatoria que Bocchi.",
       "historia_personal": "Fue una integrante de Kessoku band sim embargo se alejaria y regresa cuando hitori le pide que se una a la banda. Con la ayuda de Bocchi se volvió una guitarrista mejor que practica a escondidas para estar a la altura de sus compañeras.",
       "datos": {
@@ -2583,25 +2584,24 @@
         "Ocupación": "Estudiante y vocalista de la banda Kessoku Band"
       },
       "apariciones": [
-           {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }, 
-          {
+        },
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
       ],
       "opiniones": []
     },
-  
     {
       "id": "luz-ayato",
       "historia": "luz-esperanza",
       "nombre": "Ayato",
       "titulo": "El reencarnado en Bocchi the Rock",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/ayato.png",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/ayato.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/ayato.webp",
       "descripcion": "Es un hombre despreocupado, bromista, rara vez tiene dinero, miente con facilidad incluso sobre su propio nombre y disfruta molestar a sus compañeros, pero sobre todo a Seika. Tiene la apariencia de Yato de Noragami y tiene la costumbre de decir cualquier cosa en cualquier conversación sin importar si los demás las entienden.",
       "historia_personal": "Reencarnó mucho antes que Kusanagi por lo que conoce gran parte de lo que va a suceder y en el pasado perdió a sus amigos reencarnados por lo que tuvo que alejarse para no desviar la historia mientras cuida a su hermana, cuyos tratamientos son tan caros que trabaja más de lo normal para pagarlos y motivo por el que siempre anda sin dinero, pero decidido a seguir. ",
       "datos": {
@@ -2611,7 +2611,7 @@
         "Ocupación": "Mensajero y repartidor."
       },
       "apariciones": [
-          {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
         }
@@ -2623,8 +2623,8 @@
       "historia": "luz-esperanza",
       "nombre": "Seika Ijichi",
       "titulo": "Gerente de Starry",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/seika.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/seika.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/seika.webp",
       "descripcion": "Hermana mayor de Nijika y gerente de STARRY con una actitud algo seria y distante, pero tiene un lado suave que casi nunca enseña. Es rubia y exigente con las bandas que tocan allí.",
       "historia_personal": "Fue guitarrista principal de una banda universitaria hasta que su madre falleció en un accidente de tráfico cuando ella tenía veintiún años, momento en que se refugió en la música dejando a Nijika sola, aunque al ver que la música también salvaba a su hermana abandonó su grupo para abrir Starry, local donde recibe a bandas jóvenes, mientras mantiene una amistad caótica con Hiroi, que fue su junior en la universidad.",
       "datos": {
@@ -2634,11 +2634,11 @@
         "Ocupación": "Gerente del live house Starry"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }, 
-          {
+        },
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
@@ -2650,8 +2650,8 @@
       "historia": "luz-esperanza",
       "nombre": "Pa-San",
       "titulo": "Alto otogi",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/pa.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/pa.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/pa.webp",
       "descripcion": "Chica con piel pálida, pelo negro largo, ojos verdes, un piercing en el labio, ropa oscura con una gargantilla, pero pese a su apariencia es alguien amable, tranquila y atenta. Además de ser una streamer que le encanta mucho los videojuegos. ",
       "historia_personal": "Abandonó la preparatoria en temprana edad y trabaja como técnica de sonido de Starry apoyando a Seika mientras sigue manteniendo su carrera como VTuber con el nombre Alto Otogi y evita hablar de su nombre real hasta el punto de incomodarse cuando se lo preguntan.",
       "datos": {
@@ -2661,11 +2661,11 @@
         "Ocupación": "¿?"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }, 
-          {
+        },
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
@@ -2677,8 +2677,8 @@
       "historia": "luz-esperanza",
       "nombre": "Hiroi Kikuri",
       "titulo": "Bajista de Sick Hack",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/hiroi.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/hiroi.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/hiroi.webp",
       "descripcion": "Chica de   pelo rosa oscuro en una trenza lateral, ojos magenta-púrpura, un cuerpo muy delgado y una afición enorme por el sake barato en caja. Es la bajista, vocalista y líder de la banda SICK HACK que toca rock psicodélico en el local FOLT de Shinjuku, aunque cuando está sobria es tímida, cautelosa, nerviosa, casi idéntica a Hitori.",
       "historia_personal": "Fue una chica reservada hasta la preparatoria que empezó a beber para controlar los nervios en los escenarios, mientras que en la universidad se unió al club de música ligera por admirar a Seika. Ella forma la banda con su amiga Shima Iwashita a formar SICK HACK, así que vive endeudada en un departamento viejo sin baño, aunque se convierte en una mentora informal para Bocchi porque ve en ella su propio pasado.",
       "datos": {
@@ -2691,21 +2691,21 @@
         {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }, 
-          {
+        },
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
       ],
       "opiniones": []
     },
-      {
+    {
       "id": "luz-tomoe",
       "historia": "luz-esperanza",
       "nombre": "Tomoe Tokisaki",
       "titulo": "La karateca Tokisaki",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/tomoe.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/tomoe.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/tomoe.webp",
       "descripcion": "Es la única hermana de los Tokisaki y siendo la más fuerte tanto física como emocionalmente además de cariñosa con Kusanagi. Tiene tendencia a hacerle bromas pesadas con un enorme talento para el karate junto a cualquier deporte de combate.",
       "historia_personal": "Es la tercera hermana y famosa en todo el país por ganar grandes competencias de karate. Le enseñó a Kusanagi a defenderse pidiéndole que nunca usara esa fuerza para lastimar a nadie y cuando su hermano se sintió mal lo consuela dejándolo descansar en su regazo mientras le recuerda que nadie es perfecto.",
       "datos": {
@@ -2715,7 +2715,7 @@
         "Ocupación": "Deportista Karateca"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
         }
@@ -2727,8 +2727,8 @@
       "historia": "luz-esperanza",
       "nombre": "Leonel Hayase",
       "titulo": "¿?",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/leo.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/leo.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/leo.webp",
       "descripcion": "Es un chico hiperactivo y bromista que se parece mucho a Hotaro en su forma de ser, aunque es aún más inquieto. Le encantan los videojuegos hasta el punto de contar los días para estrenar uno nuevo y resulta molesto cuando se emociona pero se muestra leal con sus amigos e intenta hacerlos reír siempre.",
       "historia_personal": "Es compañero de clase de Kusanagi desde el principio y se convirtió en su amigo más cercano con quien sale a comprar videojuegos o a comer mientras se queja de lo poco que se estudia. Mantiene una relación de constantes peleas con Yukino aunque en el fondo se llevan mejor de lo que aparentan. ",
       "datos": {
@@ -2738,7 +2738,7 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
         }
@@ -2750,7 +2750,7 @@
       "historia": "luz-esperanza",
       "nombre": "Yukino Shirasaki",
       "titulo": "Presidenta del primero B",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/yukino.webp",
       "arte": "imagenes/arte/EsperanzaPersonajes/yukino.webp",
       "descripcion": "Es una chica seria, directa y de carácter fuerte que siempre dice lo que piensa que le gusta tomar el control al organizar al grupo porque le molesta la gente irresponsable sim embargo detrás de esa actitud es igualmente de amable ( Con quienes nomas les cae bien)",
       "historia_personal": "Es compañera de clase de Kusanagi, mejor amiga de Lois, encargada de organizar las actividades del festival como de repartir las tareas del grupo y mantiene discusiones constantes con Leonel",
@@ -2773,8 +2773,8 @@
       "historia": "luz-esperanza",
       "nombre": "Lois Hanamura",
       "titulo": "Tesorera del primero B",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/lois.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/lois.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/lois.webp",
       "descripcion": "Es una chica amable, alegre, bromista y de las pocas compañeras que trata bien a todos en el salón. Siempre esta junto a Yukino quien se la pasa discutiendo con Leonel, pero sin interferir. ",
       "historia_personal": "Es compañera de clase de Kusanagi junto a Leonel, Hitori y Yukine, participa en el festival escolar ayudando con los preparativos al lado de Yukino y es fan de Kessoku Band que intenta no perderse un concierto. ",
       "datos": {
@@ -2784,7 +2784,7 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
         }
@@ -2796,8 +2796,8 @@
       "historia": "luz-esperanza",
       "nombre": "Kasuo Mori",
       "titulo": "El hijo de los Mori",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/kasuo.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/kasuo.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/kasuo.webp",
       "descripcion": "Es el líder y baterista de su banda, un chico amable y perseverante que al principio parece tímido, pero se vuelve muy decidido cuando se trata de su música. Le gusta rodearse de gente con quien tocar de verdad por eso siempre busca nuevos compañeros. ",
       "historia_personal": "Hijo de una famosa pareja de banda, tiene una hermana llamada Ame con quien de pequeño quiso tocar la guitarra, pero con el pasar de los años y más con el fallecimiento de sus padres ese sueño de espumaría. En la actualidad vive junto a su hermana quien ya se rindió en la música, pero él no, incluso formo una banda temporal para enseñarle a su hermana y a sus padres que su legado no se ha ido. ",
       "datos": {
@@ -2807,7 +2807,7 @@
         "Ocupación": "Estudiante y baterrista "
       },
       "apariciones": [
-         {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
         }
@@ -2819,8 +2819,8 @@
       "historia": "luz-esperanza",
       "nombre": "Zackdock",
       "titulo": "El reencarnado de 5 vidas",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/zack.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/zack.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/zack.webp",
       "descripcion": "Su apariencia es la de Gilgamesh de Fate con cabello rubio, ojos rojos, educado, tranquilo y muy calculador sim embargo eso fachada desaparece cuando vee que la historia es alterada, cuida sus modales incluso en situaciones tensas pues casi nunca altera la voz, mientras que su risa suele ser irónica cuando algo le resulta ridículo.",
       "historia_personal": "Es un reencarnado que a diferencia de los demás nunca intervino en la historia del mundo, pues se mantuvo siempre en las sombras convencido de que los reencarnados alteran el curso natural de los acontecimientos. Los ve como origen de muchas tragedias, por eso piensa que la historia debe seguir su rumbo sin intervenciones que cualquier sacrificio vale la pena si trae paz, ya que para él los lazos personales son pasajeros mientras que la estabilidad del mundo perdura.",
       "datos": {
@@ -2830,7 +2830,7 @@
         "Ocupación": "Reencarnado"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
         }
@@ -2842,8 +2842,8 @@
       "historia": "luz-esperanza",
       "nombre": "Nene Ooyama",
       "titulo": "Discípula de Kessoku Band",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/nene.jpg_large",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/nene.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/nene.webp",
       "descripcion": "Chica energética de pelo castaño largo, ojos amarillos y siendo un año menor que Hitori y Kita. Trabaja a tiempo parcial en Starry con una energía desbordante. Tiene una personalidad muy directa y una gran curiosidad por cualquier, aunque su entusiasmo a veces agota a quienes la rodean.",
       "historia_personal": "Dejó el baloncesto porque su estatura baja la limitaba por lo que buscó otra pasión hasta que vio tocar a Kessoku Band, momento en que decidió formar su propia banda tocando la guitarra. Es muy fanática de Hitori que la sigue a todas partes hasta el punto de asustarla. ",
       "datos": {
@@ -2853,11 +2853,11 @@
         "Ocupación": "Estudiante y guitarrista"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
-        }, 
-          {
+        },
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
@@ -2869,8 +2869,8 @@
       "historia": "luz-esperanza",
       "nombre": "Erena Hinata",
       "titulo": "Raphael",
-      "avatar": "",
-      "arte": "imagenes/arte/EsperanzaPersonajes/ere.jpg",
+      "avatar": "imagenes/miniaturas/EsperanzaPersonajes/ere.webp",
+      "arte": "imagenes/arte/EsperanzaPersonajes/ere.webp",
       "descripcion": "Tiene el cabello negro y largo con las puntas teñidas de verde y al igual que Nene trabaja a tiempo parcial en Starry. Es una superfán que gasta su dinero en artículos de las bandas que admira siendo Ryo su favorita, mientras toca el bajo junto a Nene. ",
       "historia_personal": "Formó parte del grupo de idols Tenshi no Cuticle con el nombre Raphael, hasta que la agrupación se disolvió tras una polémica en internet causada por una integrante, circunstancia que despertó su deseo de estar en una banda y razón por la que entró al equipo de Starry donde conoce a Nene quien intenta reclutarla enseguida.",
       "datos": {
@@ -2880,21 +2880,20 @@
         "Ocupación": "Estudiante y bajista"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
         }
       ],
       "opiniones": []
     },
-    
     {
       "id": "mens-tn-ozora",
       "historia": "mensaje-arrepentimiento",
       "nombre": "Tn Ozora Martínez",
       "titulo": "El 7 del Seirei",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/ozora.png",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/ozora.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/ozora.webp",
       "descripcion": "Es un adolescente latinoamericano bromista con una actitud despreocupada y aficionado al fútbol hasta el punto de imaginar partidos enteros en su cabeza con el sueño de ser delantero profesional como Messi o cristiano Ronaldo, pero detrás de esa sonrisa esconde una inseguridad que se refugia en la risa.",
       "historia_personal": "Nació en un país latinoamericano pobre donde su padre trabajó como guardia para mantenerlo mientras que su madre era japonesa y quien los abandonó. Tras un malentendido en el que fue convertido en el villano por defender a su mejor amiga en toda la ciudad por lo que su padre lo impulsó a presentarse a un concurso para estudiar en el extranjero que al aprobarlo comenzó una nueva vida en Japón. ",
       "datos": {
@@ -2904,7 +2903,7 @@
         "Ocupación": "Estudiante y futbolista"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Mensaje de arrepentimiento",
           "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
         }
@@ -2916,8 +2915,8 @@
       "historia": "mensaje-arrepentimiento",
       "nombre": "Alya Mikhailovna Kujou",
       "titulo": "Princesa de Hielo",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/alya.jpg",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/alya.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/alya.webp",
       "descripcion": "Es una chica rusa de cabello plateado y ojos azules con un carácter algo serio y distante que le dio fama de inalcanzable. Tiene notas sobresalientes y una costumbre de murmurar frases en ruso cuando se sonroja pensando que nadie la entiende, tan orgullosa que le cuesta pedir ayuda.",
       "historia_personal": "Nació en Rusia en una familia de padre ruso y madre japonesa en la cual vivió allí hasta los cinco años para que luego ir a Japón. De pequeña cuando le tocaba liderar actividades escolares sus compañeros dejaban que ella hiciera todo el trabajo sola causando que un día ella se esforzara de más para tener una mejor calificación, pero debido a sus compañeros no lo consiguió que desde ahí quiso hacer todo sola porque creía que confiar en los demás solo traía arrepentimiento y la fue alejando de la gente hasta quedarse con muy pocos amigos. Pasó el examen de transferencia y estudia en la academia Seirei como tesorera del consejo estudiantil.",
       "datos": {
@@ -2927,7 +2926,7 @@
         "Ocupación": "Estudiante y miembro del consejo estudiantil"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Mensaje de arrepentimiento",
           "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
         }
@@ -2939,8 +2938,8 @@
       "historia": "mensaje-arrepentimiento",
       "nombre": "Yuki Suou",
       "titulo": "La Princesa Noble",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/yuki.png",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/yuki.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/yuki.webp",
       "descripcion": "Es una joven de cabello negro y ojos púrpura, estatura baja de modales elegantes, amable, inteligente, estratégica y muy competitiva con un carácter seguro mientras oculta la enorme presión de su familia.",
       "historia_personal": "Pertenece a la familia Suou, una familia prestigiosa que desde pequeña vio cómo sus padres se separaron y la familia se partió, quedándose ella con su madre Yumi y su hermano Masachika Kuze quien años después abandonaría a la familia Suou. Desde entonces carga con el deber de mantener el nombre de su casa en alto, en la secundaria ganó las elecciones y ahora busca la presidencia del consejo estudiantil de la academia.",
       "datos": {
@@ -2950,20 +2949,20 @@
         "Ocupación": "Estudiante y miembro del consejo estudiantil"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Mensaje de arrepentimiento",
           "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
         }
       ],
       "opiniones": []
     },
-     {
+    {
       "id": "mens-ayano",
       "historia": "mensaje-arrepentimiento",
       "nombre": "Ayano Kimishima",
       "titulo": "Sirvienta Silenciosa",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/ayano.png",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/ayano.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/ayano.webp",
       "descripcion": "Es una joven de cabello negro recogido en una coleta baja, ojos púrpuras, estatura baja, movimientos robóticos, inexpresiva en público y capaz de ocultar cualquier rastro de emoción detrás de su rostro sereno.",
       "historia_personal": "Trabaja como sirvienta para la prestigiosa familia Suou, habiendo servido directamente a Yuki y Masachika desde la infancia. Decidió dedicar su vida a ellos en segundo de primaria, viéndose a sí misma como una herramienta para sus amos y que actualmente sirviendo a yuki además de formar parte del consejo estudiantil como encargada de asuntos generales. ",
       "datos": {
@@ -2973,7 +2972,7 @@
         "Ocupación": "Estudiante, sirvienta y miembro del consejo estudiantil"
       },
       "apariciones": [
-             {
+        {
           "titulo": "Mensaje de arrepentimiento",
           "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
         }
@@ -2985,8 +2984,8 @@
       "historia": "mensaje-arrepentimiento",
       "nombre": "Kamihara Gotou",
       "titulo": "La dama de nieve de Seirei",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/gotou.jpeg",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/gotou.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/gotou.webp",
       "descripcion": "Es una chica de cabello blanco, ojos azules y piel clara, serena y responsable, de mirada amable con una paciencia que le permite calmar las discusiones más tensas, aficionada a ir a la playa al amanecer para despejar la mente y a pesar de su amabilidad, ella también por dentro carga con un cansancio que casi nadie nota.",
       "historia_personal": "Es la reencarnación de una joven Yuki en la cual tuvo grupo de 3 amigos con quien creció, un lazo tan fuerte que guarda un arrepentimiento enorme por lo ocurrido entre ambos. Esa pérdida marcó su forma de ser y por eso en la actualidad (nueva vida) vive en Japón junto a su madre intentando mantener la paz a su alrededor mientras conserva el deseo de volver a encontrarse con esa persona. Entró al consejo estudiantil para ayudar a las personas que son menospreciadas o que son ignoradas por las personas. ",
       "datos": {
@@ -3000,10 +2999,10 @@
           "titulo": "Mensaje de arrepentimiento",
           "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
         },
-         {
+        {
           "titulo": "La saga de la reencarnacion",
           "url": "https://www.wattpad.com/story/352330885-la-saga-de-la-reencarnaci%C3%B3n-one-shot"
-        } , 
+        },
         {
           "titulo": "Luz de esperanza - Bocchi the rock",
           "url": "https://www.wattpad.com/story/333730625-la-luz-de-la-esperanza-bocchi-the-rock"
@@ -3016,8 +3015,8 @@
       "historia": "mensaje-arrepentimiento",
       "nombre": "Yoshinori Nakagawa",
       "titulo": "El estratega de Seirei",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/yoshinori.jpg",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/yoshinori.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/yoshinori.webp",
       "descripcion": "Es un chico de cabello oscuro que habla español, bromista y sarcástico con quien le cae bien porque cree que entre más insultos hay más confianza. De apariencia relajada que esconde una mente calculadora que mueve las piezas con calma antes de que los demás lo noten.",
       "historia_personal": "Nació en un país de habla hispana que llegó a la presidencia del consejo estudiantil con un motivo muy personal de estar cerca de la chica que ama y desde ese cargo se esfuerza en que la academia funcione manteniendo siempre un equilibrio.",
       "datos": {
@@ -3039,8 +3038,8 @@
       "historia": "mensaje-arrepentimiento",
       "nombre": "Takaomi Hirano",
       "titulo": "Extra - kun",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/takaomi.png",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/takaomi.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/takaomi.webp",
       "descripcion": "Es un chico bromista que lanza comentarios provocadores a todos y una obsesión por la popularidad con las chicas, de aspecto corriente que pasa desapercibido con un corazón noble y no deja solos a sus compañeros cuando lo necesitan.",
       "historia_personal": "Entró al club de fútbol de la academia Seirei y es el mejor compañero del protagonista con un deseo de ser el mejor jugador del país sim embargo casi siempre pasa de desapercibido tanto por el capitán o su amigo. ",
       "datos": {
@@ -3050,7 +3049,7 @@
         "Ocupación": "Estudiante y futbolista"
       },
       "apariciones": [
-            {
+        {
           "titulo": "Mensaje de arrepentimiento",
           "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
         }
@@ -3062,8 +3061,8 @@
       "historia": "mensaje-arrepentimiento",
       "nombre": "Sayaka Taniyama",
       "titulo": "La prodigio que no se rinde",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/sayaka.jpg",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/sayaka.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/sayaka.webp",
       "descripcion": "Es una chica de la clase F, decidida y directa, que dice las cosas a la cara y se muestra leal a lo que considera justo, con un carácter fuerte que la lleva a plantarse frente a cualquiera debido a que confia en su mente.",
       "historia_personal": "Competía en las elecciones de la secundaria con la esperanza de ganar la presidencia sim embargo perdió contra Yuki Suou sim embargo no se rendiría que una vez llego a la preparatoria siguió con más determinación para ganarse ese puesto. Estudia en la clase F de la academia Seirei y es amiga de Miyamae.",
       "datos": {
@@ -3073,7 +3072,7 @@
         "Ocupación": "Estudiante y aspirante al consejo estudiantil"
       },
       "apariciones": [
-           {
+        {
           "titulo": "Mensaje de arrepentimiento",
           "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
         }
@@ -3085,7 +3084,7 @@
       "historia": "mensaje-arrepentimiento",
       "nombre": "Nonoa Miyamae",
       "titulo": "Reina de la Información",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/miyamae.webp",
       "arte": "imagenes/arte/ArrepentimientoPersonajes/miyamae.webp",
       "descripcion": "Es una chica de cabello amarillo con un mechón que sobresale, muy popular en la academia. Con un talento especial para reunir información, tranquila y estratégica incluso bajo presión.",
       "historia_personal": "Es la mejor amiga de la infancia de Sayaka Taniyama a quien ayudo a luchar para conseguir al consejo, pero sin éxito. Aunque aparenta ser una chica amigable, alegre y despreocupada, detrás de esa fachada oculta una personalidad calculadora y manipuladora",
@@ -3107,8 +3106,8 @@
       "historia": "egoista-roshidere",
       "nombre": "Saito Ijichi",
       "titulo": "el Guerrero Navaja",
-      "avatar": "",
-      "arte": "imagenes/arte/EgistaPersonajes/saito.jpeg",
+      "avatar": "imagenes/miniaturas/EgistaPersonajes/saito.webp",
+      "arte": "imagenes/arte/EgistaPersonajes/saito.webp",
       "descripcion": "Es un delantero que tiene un carácter explosivo y seguro de sí mismo que a pesar de tener esa actitud se controla cuando es necesario causando que se convirtiera en el capitán de su equipo. Tiene una sonrisa arrogante que usa para provocar a sus rivales y es seguro de sí mismo.",
       "historia_personal": "Capitan del equipo de la preparatoria Gakuen con su equipo de jugadores como Okita y la portera karateca Yor, los cuales entrenan sin descanso. Todos con el objetivo de llevarse el trofeo de las nacionales antes de graduarse. ",
       "datos": {
@@ -3118,14 +3117,14 @@
         "Ocupación": "Estudiante y jugador"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Mensaje de arrepentimiento",
           "url": "https://www.wattpad.com/story/378297908-mensaje-de-arrepentimiento-alya-x-yuki-x-tn"
         }
       ],
       "opiniones": []
     },
-     {
+    {
       "id": "egoi-matsuyama",
       "historia": "egoista-roshidere",
       "nombre": "Muy pronto personajes nuevos",
@@ -3148,8 +3147,8 @@
       "historia": "razon-proteger-sonrisas",
       "nombre": "Tn Tokisaki",
       "titulo": "El maldito de los tokisaki",
-      "avatar": "",
-      "arte": "imagenes/arte/ProtegerPersonajes/tokisakitn.jpg",
+      "avatar": "imagenes/miniaturas/ProtegerPersonajes/tokisakitn.webp",
+      "arte": "imagenes/arte/ProtegerPersonajes/tokisakitn.webp",
       "descripcion": "Chico de primer año de preparatoria con una mirada cansada debido a los años de desprecio, pero no guarda rencor a nadie debido a su personalidad amable, humilde y servicial que trabaja a tiempo parcial en Starry. A pesar de demostrar que es alguien bueno en su interior sigue creyendo que no lo es. ",
       "historia_personal": "Nació dentro de los Tokisaki, una de las cinco familias admiradas por la sociedad, pero fue el único sin un talento especial por lo que sus padres y la sociedad lo trataron como una deshonra. Cuando intento terminar con todo, conoció Ai, una chica de pelo verde que le dio la fuerza para no rendirse y que desde ese día intenta ser alguien mejor para definir que su valor no depende de su apellido.",
       "datos": {
@@ -3171,8 +3170,8 @@
       "historia": "razon-proteger-sonrisas",
       "nombre": "Satoru Haise",
       "titulo": "El prodigio adaptable",
-      "avatar": "",
-      "arte": "imagenes/arte/ProtegerPersonajes/haise.jpg",
+      "avatar": "imagenes/miniaturas/ProtegerPersonajes/haise.webp",
+      "arte": "imagenes/arte/ProtegerPersonajes/haise.webp",
       "descripcion": "Chico de pelo blanco, lentes circulares y ojos de color celeste que gracias a ese aspecto es muy popular en la preparatoria Shuka con una actitud optimista que se la pasa bromeando pero que esconde bajo su carisma un pasado que prefiere no recordar mientras protege a sus camaradas. ",
       "historia_personal": "A pesar de ser alguien popular no menosprecia a la gente de su alrededor y más a Tokisaki quien le recuerda a un ser querido por lo que decide ayudarlo. Actualmente trabaja como manager de Sideros quienes lo han acompañado desde antes y superar su pasado, mismo que es un misterio para todos. ",
       "datos": {
@@ -3182,10 +3181,10 @@
         "Ocupación": "Estudiante, manager, tecnico, electricista, etc."
       },
       "apariciones": [
-         {
+        {
           "titulo": "El precio de la perfección",
           "url": "https://www.wattpad.com/story/365711810-el-precio-de-la-perfecci%C3%B3n-tn-x-bocchi-the-rock-x"
-        }, 
+        },
         {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
@@ -3198,8 +3197,8 @@
       "historia": "razon-proteger-sonrisas",
       "nombre": "Sasaki Tsuguko",
       "titulo": "Sasa",
-      "avatar": "",
-      "arte": "imagenes/arte/ProtegerPersonajes/sasaki.jpg",
+      "avatar": "imagenes/miniaturas/ProtegerPersonajes/sasaki.webp",
+      "arte": "imagenes/arte/ProtegerPersonajes/sasaki.webp",
       "descripcion": "Chica de pelo verde, amable, tranquila, de voz serena, amigable y compañera de salón con Kita y Hitori.",
       "historia_personal": "Es amiga de la infancia de Kita y que apoya a sus amigos sin importarle los prejuicios, le tienda la mano a cualquier persona y ordena al grupo en los trabajos de clase.",
       "datos": {
@@ -3221,8 +3220,8 @@
       "historia": "razon-proteger-sonrisas",
       "nombre": "Aiko Satou",
       "titulo": "Poison♡Yami",
-      "avatar": "",
-      "arte": "imagenes/arte/ProtegerPersonajes/yami.jpg_large",
+      "avatar": "imagenes/miniaturas/ProtegerPersonajes/yami.webp",
+      "arte": "imagenes/arte/ProtegerPersonajes/yami.webp",
       "descripcion": "Escritora y periodista de baja estatura con pelo negro, suéter rosado y suele ser cuidadosa con su identidad mientras busca bandas con talento para promocionarlas en su blog.",
       "historia_personal": "Contribuye a sitios de información musical con la esperanza de descubrir grupos que merezcan fama así que entrevista a bandas hasta que se fija en Kessoku Band quien desprecia a sus integrantes a excepción de Hitori Gotou por tener talento comparado a su banda.",
       "datos": {
@@ -3232,7 +3231,7 @@
         "Ocupación": "Periodista"
       },
       "apariciones": [
-         {
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
@@ -3244,8 +3243,8 @@
       "historia": "razon-proteger-sonrisas",
       "nombre": "Emiko Shinomiya",
       "titulo": "La Reina tactica",
-      "avatar": "",
-      "arte": "imagenes/arte/ProtegerPersonajes/emiko.png",
+      "avatar": "imagenes/miniaturas/ProtegerPersonajes/emiko.webp",
+      "arte": "imagenes/arte/ProtegerPersonajes/emiko.webp",
       "descripcion": "Chica adinerada con un carácter fuerte, orgullosa, competitiva y amable cuando se tranquiliza. Ella tiene envidia hacia quienes le roban protagonismo que la lleva a perder el control con facilidad.",
       "historia_personal": "Viene de la familia Shinomiya, una de las 5 familias admiradas por la sociedad que se caracteriza por tener familiares talentosos hombres en el deporte de peleas y mujeres inteligentes. Emiko estudia en Shuka rodeada de amigos populares hasta que la fama de Haise empieza a opacarla y que la llena de resentimiento hacia él. Al igual que el resto de la sociedad desprecia a los sin talento como Tokisaki que lo considera el peor de su generación y entrena en secreto para luchas ya que las mujeres de su familia están prohibidas que se especialicen en esto. ",
       "datos": {
@@ -3255,7 +3254,7 @@
         "Ocupación": "Estudiante y modelo"
       },
       "apariciones": [
-          {
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
@@ -3267,7 +3266,7 @@
       "historia": "razon-proteger-sonrisas",
       "nombre": "Senjuro Kimiko",
       "titulo": "¿?",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/ProtegerPersonajes/senjuro.webp",
       "arte": "imagenes/arte/ProtegerPersonajes/senjuro.webp",
       "descripcion": "Tiene un carácter arrogante, frío y un aire de superioridad sim embargo nunca subestima a sus oponentes. ",
       "historia_personal": "Viene de una de las 5 familias admiradas de la sociedad con una familia que se caracteriza en tener talentos en el deporte. Estudia en la misma preparatoria que Ryo y Nijika pero sin hacer contacto por un problema que tuvieron en el pasado. Mantiene contacto con Emiko para conversar de sus rivalidades familiares además de planear acciones contra las otras familias.",
@@ -3290,8 +3289,8 @@
       "historia": "razon-proteger-sonrisas",
       "nombre": "Toho Yamagawa",
       "titulo": "El cazatalentos",
-      "avatar": "",
-      "arte": "imagenes/arte/ProtegerPersonajes/toho.jpg",
+      "avatar": "imagenes/miniaturas/ProtegerPersonajes/toho.webp",
+      "arte": "imagenes/arte/ProtegerPersonajes/toho.webp",
       "descripcion": "Pertenece a la familia de los Yamagawa con su carácter calculador, elegante, persuasivo y una sonrisa que oculta sus intenciones ambiciosas. ",
       "historia_personal": "Es uno de las 5 familias famosas que se caracteriza por encontrar talentos para hacerlos brillar con su influencia hasta alcanzar la cima.",
       "datos": {
@@ -3301,7 +3300,7 @@
         "Ocupación": "Estudiante y manager"
       },
       "apariciones": [
-          {
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
@@ -3313,8 +3312,8 @@
       "historia": "razon-proteger-sonrisas",
       "nombre": "Ai Kamihara",
       "titulo": "La idol brillante",
-      "avatar": "",
-      "arte": "imagenes/arte/ProtegerPersonajes/ai.png",
+      "avatar": "imagenes/miniaturas/ProtegerPersonajes/ai.webp",
+      "arte": "imagenes/arte/ProtegerPersonajes/ai.webp",
       "descripcion": "Chica de pelo verde y ojos azules con personalidad empática, amable, de sonrisa cálida y querer ser más que un rostro bonito.",
       "historia_personal": "Conoce a Tokisaki cuando este iba a rendirse por lo que le ayuda a levantarse de su situación provocando que se hagan amigos hasta que un patrocinador la recluta como idol y en el momento en que se separan hacen la promesa de volver a verse.",
       "datos": {
@@ -3336,8 +3335,8 @@
       "historia": "razon-proteger-sonrisas",
       "nombre": "Nakano Mika",
       "titulo": "¿?",
-      "avatar": "",
-      "arte": "imagenes/arte/ProtegerPersonajes/mika.jpg",
+      "avatar": "imagenes/miniaturas/ProtegerPersonajes/mika.webp",
+      "arte": "imagenes/arte/ProtegerPersonajes/mika.webp",
       "descripcion": "Es una estudiante de la preparatoria Shuka con carácter amable, educada, pelo negro largo y ojos morados.  ",
       "historia_personal": "Al inicio odia a Haise, pero a medida pasa el tiempo se da cuenta que el camino que está siguiendo y decide cambiar. ",
       "datos": {
@@ -3359,8 +3358,8 @@
       "historia": "razon-proteger-sonrisas",
       "nombre": "Urami Takashi",
       "titulo": "La sombra",
-      "avatar": "",
-      "arte": "imagenes/arte/ProtegerPersonajes/urami.jpg",
+      "avatar": "imagenes/miniaturas/ProtegerPersonajes/urami.webp",
+      "arte": "imagenes/arte/ProtegerPersonajes/urami.webp",
       "descripcion": "Joven de cabello negro con ojos rojos de personalidad seria, reservado, de pocas palabras, atento a cada detalle de lo que ocurre a su alrededor, además de ágil y tiene un orgullo que le hace detestar que lo subestimen.",
       "historia_personal": "Creció en un entorno humilde donde aprendió desde pequeño a obedecer, a observar en silencio además de valerse por sí mismo que lo hizo madurar antes que otros chicos de su edad. ",
       "datos": {
@@ -3370,7 +3369,7 @@
         "Ocupación": "Sirviente"
       },
       "apariciones": [
-          {
+        {
           "titulo": "La razon para proteger sus sonrisas ",
           "url": "https://www.wattpad.com/story/348131839-la-razon-para-proteger-sus-sonrisas-tn-x-harem"
         }
@@ -3382,8 +3381,8 @@
       "historia": "significado-vida",
       "nombre": "Tn Urami",
       "titulo": "El mostruo humano",
-      "avatar": "",
-      "arte": "imagenes/arte/significadoPersonajes/urami.jpg",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/urami.webp",
+      "arte": "imagenes/arte/significadoPersonajes/urami.webp",
       "descripcion": "Es uno de los pocos hombres en un mundo donde la mayoría son mujeres con una personalidad al inicio tímido y callado pero muy observador. Con el tiempo se volvería algo desinteresado con la visión ver ganar a los monstruos, incluso si el mismo tiene que volverse uno.",
       "historia_personal": "Desde niño las niñas siempre le hacían ser monstruo que años después desarrolló un profundo resentimiento hacia la sociedad y las chicas mágicas, a quienes percibía como hipócritas y abusivos que ganaban solo por ser 'populares'. Después de tantos eventos termina en el bando de Enormita, junto a Utena y Kiwi las cuales son sus compañeras de salon.",
       "datos": {
@@ -3393,7 +3392,7 @@
         "Ocupación": "estudiante y villano de Enormita"
       },
       "apariciones": [
-         {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         }
@@ -3405,8 +3404,8 @@
       "historia": "significado-vida",
       "nombre": "Utena Hiiragi",
       "titulo": "Magia Baiser",
-      "avatar": "",
-      "arte": "imagenes/arte/significadoPersonajes/utena.jpg",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/utena.webp",
+      "arte": "imagenes/arte/significadoPersonajes/utena.webp",
       "descripcion": "Chica de pelo negro corto, tímida, introvertida y aficionada a coleccionar objetos de chicas mágicas. Desde pequeña las admira hasta el punto de pasar su tiempo libre reuniendo información en lugar de socializar, aunque detrás de esa fachada amable se esconde una vena sádica y que mas aparece cuando se transforma.  ",
       "historia_personal": "Siempre quiso ser una chica mágica para proteger hasta que Venalita, una criatura magia le ofrece poderes con la promesa de volverse una de ellas que al aceptar se convierte en una chica mágica sim embargo es una villana y termina siendo reclutada por Enormita así que se enfrenta a Tres Magia. Mientras descubre que disfruta poniéndolas a prueba, aunque también se siente culpable porque en el fondo quiere que sus ídolas mantengan su orgullo, razón por la que vive dividida entre su admiración sincera y su nueva faceta de sádica. ",
       "datos": {
@@ -3423,14 +3422,13 @@
       ],
       "opiniones": []
     },
-    
     {
       "id": "sign-kiwi-aragata",
       "historia": "significado-vida",
       "nombre": "Kiwi Aragata",
       "titulo": "Leopard",
-      "avatar": "",
-      "arte": "imagenes/arte/significadoPersonajes/kiwi.jpeg",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/kiwi.webp",
+      "arte": "imagenes/arte/significadoPersonajes/kiwi.webp",
       "descripcion": "Es una chica con una personalidad enérgica, impulsiva, algo infantil y se pone celosa cuando alguien es muy cariñoso con Utena que al transformarse tiene un atuendo militar de tonos verdes. ",
       "historia_personal": "Detesta la fama que las chicas mágicas obtenían en redes sociales mientras ella se sentía ignorada, motivo por el que Venalita la recluta y pasa a formar parte de Enormita. Allí se convierte en una de las más fieles aliadas de Utena y comparte equipo con Korisu con ambas protegiéndose en el campo de batalla.",
       "datos": {
@@ -3440,7 +3438,7 @@
         "Ocupación": "estudiante y villana de Enormita"
       },
       "apariciones": [
-         {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         }
@@ -3452,7 +3450,7 @@
       "historia": "significado-vida",
       "nombre": "Morino Korisu",
       "titulo": "Nero Alice",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/korisu.webp",
       "arte": "imagenes/arte/significadoPersonajes/korisu.webp",
       "descripcion": "Es una niña pequeña que no suele hablar, aficionada a los muñecos de peluche, tranquila, analítica y controla muñecos para atrapar a sus oponentes dentro de un espacio parecido a una casa de muñecas.",
       "historia_personal": "Es presentada por Venalita como la nueva integrante de Enormita y se vuelve parte del grupo con Utena además de Kiwi, quien rompe a menudo sus juguetes sin querer. A pesar de ser la más pequeña de todo el equipo suele ser la más racional mientras mantiene amistad con Nemo por su gusto compartido hacia los videojuegos.",
@@ -3463,20 +3461,20 @@
         "Ocupación": "estudiante y villana de Enormita"
       },
       "apariciones": [
-          {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         }
       ],
       "opiniones": []
     },
-     {
+    {
       "id": "sign-matama-akoya",
       "historia": "significado-vida",
       "nombre": "Matama Akoya",
       "titulo": "Loco Musica",
-      "avatar": "",
-      "arte": "imagenes/arte/significadoPersonajes/matama.jpg",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/matama.webp",
+      "arte": "imagenes/arte/significadoPersonajes/matama.webp",
       "descripcion": "Chica con aspiraciones de idol que usa ondas de sonido como arma al transformarse con una personalidad enérgica, entusiasta y muy cercana a Nemo, con quien comparte una amistad desde la infancia.",
       "historia_personal": "Empieza como miembro de la facción de Lord Enorme, pero con el tiempo se une a Enormita tras ser derrotada mientras persigue su sueño de brillar sobre un escenario.",
       "datos": {
@@ -3486,11 +3484,11 @@
         "Ocupación": "Estudiante, aspirando a idol y villana de Enormita"
       },
       "apariciones": [
-         {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
-         {
+        {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
         }
@@ -3502,7 +3500,7 @@
       "historia": "significado-vida",
       "nombre": "Nemo Anemo",
       "titulo": "Leberblume",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/leberblume.webp",
       "arte": "imagenes/arte/significadoPersonajes/leberblume.webp",
       "descripcion": "Chica de pelo celeste, ojos de color morado de carácter algo brusco, aficionada a los videojuegos hasta el punto de pasar noches sin dormir y ser amiga de Matama desde el jardín. ",
       "historia_personal": "Se unió a enormita por su amiga Matama y obedece a Lord Enorme, pero tras la derrota se une a Utena mientras apoya el sueño de Matama de ser idol. Pese a ser algo ruda con Matama, es muy leal a esta misma que hace todo lo posible por su amiga. ",
@@ -3513,11 +3511,11 @@
         "Ocupación": "estudiante y villana de Enormita"
       },
       "apariciones": [
-           {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
-         {
+        {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
         }
@@ -3529,7 +3527,7 @@
       "historia": "significado-vida",
       "nombre": "Minakami Sayo",
       "titulo": "Magia Azure",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/sayo.webp",
       "arte": "imagenes/arte/significadoPersonajes/sayo.webp",
       "descripcion": "Es una chica amable, serena, de pelo largo azul claro de tinte verdoso e hija y ayudante de un templo con un fuerte sentido de la justicia que usa magia de agua además de hielo con una espada mágica. ",
       "historia_personal": "Es la integrante más serena de Tres Magia solo que tras enfrentar repetidas veces a Magia Baiser desarrolla una actitud diferente que le trae problemas y sus compañeras les incomodan. ",
@@ -3544,7 +3542,7 @@
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
-         {
+        {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
         }
@@ -3556,7 +3554,7 @@
       "historia": "significado-vida",
       "nombre": "Tenkawa Kaoruko",
       "titulo": "Magia Sulfur",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/kaokuro.webp",
       "arte": "imagenes/arte/significadoPersonajes/kaokuro.webp",
       "descripcion": "Chica rubia de pelo largo con una personalidad algo ruda, poco femenino en sus modales, pero con un buen corazón que oculta tras su facha y tener magia para crear barreras de protección con su magia.",
       "historia_personal": "A diferencia de sus compañeras al pelear es más ruda de modo que corrige a sus compañeras con comentarios rudos. ",
@@ -3571,7 +3569,7 @@
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
-         {
+        {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
         }
@@ -3583,7 +3581,7 @@
       "historia": "significado-vida",
       "nombre": "Hanabishi Haruka",
       "titulo": "Magia Magenta",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/hanabishi.webp",
       "arte": "imagenes/arte/significadoPersonajes/hanabishi.webp",
       "descripcion": "Chica de pelo rosado con coletas de personalidad alegre, sincera y compañera de clase de Utena sin que ninguna sepa la identidad de la otra gracias a una barrera mágica. En su forma de chica mágica tiene un atuendo rosado mientras pelea usando una lanza. ",
       "historia_personal": "Protege la ciudad con Sayo y Kaoruko con una ingenuidad que a veces las pone en aprietos sim embargo en comparación con sus compañeras, ella es la chica mágica más 'normal'. ",
@@ -3598,19 +3596,19 @@
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
-         {
+        {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
         }
       ],
       "opiniones": []
     },
-      {
+    {
       "id": "sign-holy",
       "historia": "significado-vida",
       "nombre": "Holy Tengeiji",
       "titulo": "Sister Gigant",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/holy.webp",
       "arte": "imagenes/arte/significadoPersonajes/holy.webp",
       "descripcion": "Gran Madre es una mujer alta, ojos turquesa caídos, cabello largo lila y que bajo su párpado izquierdo muestra tres estrellas. Es encargada de una capilla bajo un puente y ser miembro tanto de Enormita como de la facción de Lord Enorme.",
       "historia_personal": "Se muestra como una aliada al principio sim embargo guarda sus propios planes junto a Venalita, motivo por el que participa en eventos importantes sin que los demás sospechen sus verdaderas intenciones.",
@@ -3621,11 +3619,11 @@
         "Ocupación": "¿?"
       },
       "apariciones": [
-           {
+        {
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
-         {
+        {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
         }
@@ -3637,7 +3635,7 @@
       "historia": "significado-vida",
       "nombre": "Michiko Tanaka",
       "titulo": "Lord Enorme",
-      "avatar": "",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/michikpo.webp",
       "arte": "imagenes/arte/significadoPersonajes/michikpo.webp",
       "descripcion": "Tiene cabello castaño corto de ojos amarilla, en su transmagia parece llevar un kimono blanco con una chaqueta azul marino y usa botas y guantes negros.",
       "historia_personal": "Es la primera líder de Enormita que formo su propia facción llamada Lord’s Legion con el objetivo de dominar el mundo mientras cazaba chicas mágicas en otras ciudad y destruye a quien se le oponen.",
@@ -3652,20 +3650,20 @@
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
-         {
+        {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
         }
       ],
       "opiniones": []
     },
-      {
+    {
       "id": "sign-transmagia",
       "historia": "significado-vida",
       "nombre": "Transmagia",
       "titulo": "Magia prisma",
-      "avatar": "",
-      "arte": "imagenes/arte/significadoPersonajes/transmagia.jpg",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/transmagia.webp",
+      "arte": "imagenes/arte/significadoPersonajes/transmagia.webp",
       "descripcion": "Transformación que tiene aspecto de niña de cabello rubio plateado atado en dos coletas y ojos ámbar. Lleva un atuendo colorido con volantes, una cinta en el pelo, guantes largos y botas hasta las rodillas.",
       "historia_personal": "Aparece cuando usa la estrella de Venalita para salvar a sus compañeras. La transformación debería durar poco, pero a él le cuesta volver a su forma original. Utena queda fascinada con esa niña y por eso el usuario prefiere no usarla y no luchar, pero termina haciéndolo para proteger cuando esta sin opciones. ",
       "datos": {
@@ -3687,8 +3685,8 @@
       "historia": "significado-vida",
       "nombre": "Miyuki Yamazaki",
       "titulo": "Magia time",
-      "avatar": "",
-      "arte": "imagenes/arte/significadoPersonajes/miyubi.jpg",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/miyubi.webp",
+      "arte": "imagenes/arte/significadoPersonajes/miyubi.webp",
       "descripcion": "Chica rubia de pelo corto con unos ojos de color amarillo. Fue una de las cinco chicas mágicas legendarias de Japón y de rango SS que usa magia de tiempo solo cuando es necesario, pero comúnmente usa magia de naturaleza con una personalidad fría, calculadora y lucha sin piedad sea cual sea su rival. ",
       "historia_personal": "Antes era alegre, pero cambió tras el accidente de Shizuoka que desde ese dia busca más poder para poder destruir a las criaturas que les otorgan magia ya que en el pasado fui traicionada por una. Dice que a veces hay que sacrificar la seguridad de muchos por el bien mayor. ",
       "datos": {
@@ -3702,10 +3700,11 @@
           "titulo": "El significa de mi vida - Mahou shoujo ni akogarete",
           "url": "https://www.wattpad.com/story/365306363-el-significa-de-mi-vida-mahou-shoujo-ni-akogarete"
         },
-         {
+        {
           "titulo": "El camino para ser un Héroe",
           "url": "https://www.wattpad.com/story/357479697-el-camino-para-ser-un-h%C3%A9roe-tndeku-x-haruka-mahou"
-        }],
+        }
+      ],
       "opiniones": []
     },
     {
@@ -3713,8 +3712,8 @@
       "historia": "significado-vida",
       "nombre": "Tatsumi Yukine",
       "titulo": "Ironclad",
-      "avatar": "",
-      "arte": "imagenes/arte/significadoPersonajes/tatsumi.jpg",
+      "avatar": "imagenes/miniaturas/significadoPersonajes/tatsumi.webp",
+      "arte": "imagenes/arte/significadoPersonajes/tatsumi.webp",
       "descripcion": "Joven noble, amable, tranquilo, y también uno de los pocos hombres. Es compañero de Miyuki quien sigue a cualquier parte y pelea con armadura. ",
       "historia_personal": "Conoce a Miyuki desde niños, cuando ella era alegre y lo defendía de quienes lo trataban mal. Después del accidente de Shizuoka ella cambió, y él guarda el dolor de no haber podido protegerla. ",
       "datos": {
@@ -3736,8 +3735,8 @@
       "historia": "detras-frialdad",
       "nombre": "Yoichiro Mizuhara",
       "titulo": "Príncipe del Campo",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/yoi.jpg",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/yoi.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/yoi.webp",
       "descripcion": "Un chico de expresión seria y mirada tan firme que impone respeto a cualquiera que lo mire de frente, un líder callado que casi nunca sonríe y que se ha ganado la admiración de toda la academia con su elegancia en el campo. Tiene fama de ser alguien ejemplar en todo lo que hace, pero detrás de esa seriedad guarda un arrepentimiento que lo tormenta cada día. ",
       "historia_personal": "En la secundaria era un chico introvertido que prefería la tranquilidad antes que la compañía hasta que alguien muy ruidoso se empeñó en convertirse en su amigo y no se separó más de su lado. Gracias a esa amistad empezó a abrirse al mundo sin darse cuenta, pero un suceso doloroso con su amigo lo marcó para siempre y lo transformó en la persona que todos conocen hoy. Desde entonces se esforzó más que nadie en los estudios y en el fútbol, aunque no tenía ningún talento natural, hasta llegar a ser el capitán que el equipo de la academia Seirei necesitaba…por su amigo Oshi.  ",
       "datos": {
@@ -3747,7 +3746,7 @@
         "Ocupación": "Estudiante y capitan del equipo Seirei"
       },
       "apariciones": [
-         {
+        {
           "titulo": "Detras de esa frialdad - Roshidere Zero",
           "url": "https://www.wattpad.com/story/388543344-detras-de-esa-frialdad-roshidere-zero"
         },
@@ -3763,8 +3762,8 @@
       "historia": "detras-frialdad",
       "nombre": "Maria Mikhailovna Kujou",
       "titulo": "Masha",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/masha.jpeg",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/masha.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/masha.webp",
       "descripcion": "Una joven amable que trata a las personas amablemente y que le gusta preparar té con mermelada como se acostumbra en Rusia. Tiene una forma de hablar tranquila y reflexiva además de que es muy protectora con su hermana menor, aunque no lo parezca",
       "historia_personal": "Nació en Rusia y es un año mayor que Alya, creció adaptándose a dos países y a dos culturas lo que la volvió muy sociable. Estudia en la academia Seirei donde es secretaria del consejo estudiantil y ayudando a Alya en el consejo lo mas que puede. ",
       "datos": {
@@ -3774,7 +3773,7 @@
         "Ocupación": "Estudiante y miembro del consejo estudiantil"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Detras de esa frialdad - Roshidere Zero",
           "url": "https://www.wattpad.com/story/388543344-detras-de-esa-frialdad-roshidere-zero"
         },
@@ -3790,8 +3789,8 @@
       "historia": "detras-frialdad",
       "nombre": "Hoshi Amano",
       "titulo": "Estrella Fugaz",
-      "avatar": "",
-      "arte": "imagenes/arte/ArrepentimientoPersonajes/oshi.jpg",
+      "avatar": "imagenes/miniaturas/ArrepentimientoPersonajes/oshi.webp",
+      "arte": "imagenes/arte/ArrepentimientoPersonajes/oshi.webp",
       "descripcion": "Es un chico escandaloso, impulsivo, lleno de energía que no sabe quedarse callado ni rendirse y contagia ánimo a cualquiera que tenga cerca solo que a veces se le pase la mano.",
       "historia_personal": "Conoció a su mejor amigo Yoichiro en el primer año de primaria y desde entonces no volvió a dejarlo solo, su mayor sueño es volverse popular y ser admirado como el capitán del club de fútbol. Está perdidamente enamorado de la delegada de su clase, pero ella le inculparía de un accidente, manchando su imagen hasta el punto de querer desaparecer. ",
       "datos": {
@@ -3801,7 +3800,7 @@
         "Ocupación": "Estudiante"
       },
       "apariciones": [
-          {
+        {
           "titulo": "Detras de esa frialdad - Roshidere Zero",
           "url": "https://www.wattpad.com/story/388543344-detras-de-esa-frialdad-roshidere-zero"
         },

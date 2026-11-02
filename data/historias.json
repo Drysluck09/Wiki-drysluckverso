@@ -76,8 +76,8 @@
     {
       "id": "camino-heroe",
       "titulo": "El camino para ser un héroe",
-      "icono": "imagenes/historias/camino-heroe.jpg",
-      "portada": "imagenes/historias/camino-heroe.jpg",
+      "icono": "imagenes/historias/camino-heroe.webp",
+      "portada": "imagenes/historias/camino-heroe.webp",
       "fondo": "",
       "estado": "En pausa",
       "genero": "Fanfic, drama, romance, peleas",
